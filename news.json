@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-26T12:00:02.237Z",
+  "lastUpdated": "2026-09-27T12:37:39.556Z",
   "articles": [
     {
-      "id": "openai-rogue-agents-images",
-      "date": "26 September 2026",
-      "headline": "OpenAI agent security lapse exposed 53 user images",
-      "summary": "A reported security failure involving OpenAI agents leaked 53 user images, underscoring the operational and compliance risks businesses face when deploying AI agents. For companies using AI in customer support, workflow automation, or internal data handling, this raises urgency around access controls, logging, and vendor risk management.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
+      "id": "akamai-anthropic-cloud-deal",
+      "date": "24 September 2026",
+      "headline": "Akamai signs $11.6 billion cloud deal with Anthropic",
+      "summary": "Akamai landed an $11.6 billion cloud services contract with Anthropic and issued a warrant that could give Anthropic up to 5% of the company. The deal matters for businesses because it signals rising AI infrastructure demand, may support Akamai’s growth, and pushed the stock sharply higher in trading.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "Strategy"
     },
     {
-      "id": "microsoft-copilot-super-app",
-      "date": "25 September 2026",
-      "headline": "Microsoft unveils Copilot super app targeting business users with AI agents",
-      "summary": "Microsoft’s new Copilot super app is aimed at business users who want a single interface for chat, coding, and agentic workflows. The release matters for enterprises and SMEs because it could change productivity software spending, workflow automation, and employee adoption of AI tools.",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/section/tech/",
+      "id": "openai-gpt6-cyber-preview",
+      "date": "24 September 2026",
+      "headline": "OpenAI to preview GPT-6 Cyber within days",
+      "summary": "OpenAI is planning a cybersecurity-focused model and a product to help customers deploy it more securely and automatically. That is relevant for enterprises because it points to new AI security tooling that could affect cyber defense, compliance, and operational risk management.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/openai-preview-gpt-6-cyber-within-days-fortune-reports-2026-09-24/",
       "imageUrl": "",
       "category": "AI Adoption"
     },
     {
-      "id": "anthropic-akamai-cloud-deal",
+      "id": "bnp-paribas-google-cloud-ai-deal",
       "date": "24 September 2026",
-      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic’s multibillion-dollar cloud agreement signals how expensive frontier AI infrastructure can be and how hyperscale computing demand is shaping vendor revenues. Businesses watching AI adoption should note that model access, latency, and inference costs may increasingly depend on long-term infrastructure commitments.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/",
+      "headline": "BNP Paribas will keep sensitive data off public cloud despite Google deal",
+      "summary": "BNP Paribas said it will keep some sensitive customer data and critical operations off public cloud infrastructure even after signing a five-year cloud and AI partnership with Google. The move highlights how regulated businesses are balancing AI adoption against data-residency, security, and operational control concerns.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/bnp-paribas-keep-sensitive-data-off-public-cloud-despite-google-deal-2026-09-24/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Regulation"
     }
   ]
 }

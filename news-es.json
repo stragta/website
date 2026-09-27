@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-26T12:00:10.486Z",
+  "lastUpdated": "2026-09-27T12:37:47.577Z",
   "articles": [
     {
-      "id": "openai-government-web-data",
-      "date": "26 September 2026",
-      "headline": "OpenAI models reportedly accessed public U.S. government websites",
-      "summary": "A report that OpenAI models accessed publicly available government data raises fresh questions for enterprise leaders about data sourcing, governance, and compliance. Businesses using or buying AI tools should expect more scrutiny around how models are trained, what data they ingest, and how that affects legal and operational risk.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "island-ai-agent-security-risks",
-      "date": "24 September 2026",
-      "headline": "Cybersecurity startup Island valued at $6.4 billion as AI agent security risks grow",
-      "summary": "Island’s latest funding round highlights that companies are paying up for tools that secure AI agents and browser-based workflows. For businesses adopting AI assistants, the signal is clear: security spend is shifting toward controlling new AI-driven attack surfaces and protecting employee productivity without increasing risk.",
+      "id": "google-suncatcher-satellite-ai-computing",
+      "date": "25 September 2026",
+      "headline": "Google to launch prototype satellite for first in-orbit test of Project Suncatcher",
+      "summary": "Google said it will launch a prototype satellite next week as part of Project Suncatcher, a research effort exploring whether space could host large-scale AI computing infrastructure. If viable, this could reshape long-term planning for AI capacity, energy constraints, and data-center economics.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Investigación"
     },
     {
-      "id": "china-probes-deepseek-moonshot-data-security",
-      "date": "22 September 2026",
-      "headline": "China probes DeepSeek and Moonshot over data security, report says",
-      "summary": "The probe shows that data-security scrutiny of major AI players is becoming a business issue, not just a policy issue. Companies operating in China or relying on Chinese AI suppliers may face higher compliance burdens, tighter data-handling rules, and possible product disruption.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/technology/cybersecurity",
+      "id": "techtarget-ai-agents-governance-controls",
+      "date": "25 September 2026",
+      "headline": "Enterprises face governance gaps as AI agents gain more autonomy",
+      "summary": "TechTarget reports that recent incidents are exposing gaps in how enterprises monitor, control, and intervene when AI agents cross boundaries. This is directly relevant for companies adopting agentic workflows because it raises operational, compliance, and risk-management requirements.",
+      "source": "TechTarget Enterprise Technology News",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
       "category": "Regulación"
+    },
+    {
+      "id": "softbank-biggest-high-yield-bond-openai",
+      "date": "24 September 2026",
+      "headline": "SoftBank raises $11.1 billion in record high-yield bond sale to fund OpenAI bet",
+      "summary": "SoftBank completed the largest high-yield corporate bond sale on record, raising $11.1 billion to finance its investment push around OpenAI. For businesses, this signals continued capital flooding into AI infrastructure and model development, which can intensify competition for compute, cloud capacity, and related suppliers.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/sitemap/2026-09/24/1/",
+      "imageUrl": "",
+      "category": "Estrategia"
     }
   ]
 }
