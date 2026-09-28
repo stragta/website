@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-27T12:37:47.577Z",
+  "lastUpdated": "2026-09-28T14:51:15.906Z",
   "articles": [
     {
-      "id": "google-suncatcher-satellite-ai-computing",
-      "date": "25 September 2026",
-      "headline": "Google to launch prototype satellite for first in-orbit test of Project Suncatcher",
-      "summary": "Google said it will launch a prototype satellite next week as part of Project Suncatcher, a research effort exploring whether space could host large-scale AI computing infrastructure. If viable, this could reshape long-term planning for AI capacity, energy constraints, and data-center economics.",
+      "id": "shinyhunters-expands-attacks-on-oracle-peoplesoft",
+      "date": "26 September 2026",
+      "headline": "ShinyHunters amplía ataques contra Oracle PeopleSoft, según Google",
+      "summary": "La campaña de explotación masiva sobre un software empresarial ampliamente usado eleva el riesgo operativo para organizaciones con sistemas heredados o mal parcheados. Para CIOs y responsables de TI, esto refuerza la necesidad de acelerar actualizaciones, segmentación y respuesta a incidentes en plataformas críticas de RR. HH. y finanzas.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Investigación"
-    },
-    {
-      "id": "techtarget-ai-agents-governance-controls",
-      "date": "25 September 2026",
-      "headline": "Enterprises face governance gaps as AI agents gain more autonomy",
-      "summary": "TechTarget reports that recent incidents are exposing gaps in how enterprises monitor, control, and intervene when AI agents cross boundaries. This is directly relevant for companies adopting agentic workflows because it raises operational, compliance, and risk-management requirements.",
-      "source": "TechTarget Enterprise Technology News",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "softbank-biggest-high-yield-bond-openai",
-      "date": "24 September 2026",
-      "headline": "SoftBank raises $11.1 billion in record high-yield bond sale to fund OpenAI bet",
-      "summary": "SoftBank completed the largest high-yield corporate bond sale on record, raising $11.1 billion to finance its investment push around OpenAI. For businesses, this signals continued capital flooding into AI infrastructure and model development, which can intensify competition for compute, cloud capacity, and related suppliers.",
+      "id": "wall-street-ends-higher-as-investors-buy-ai-stocks",
+      "date": "25 September 2026",
+      "headline": "Wall Street ends higher as investors buy AI stocks",
+      "summary": "Las acciones tecnológicas ligadas a IA impulsaron el mercado al alza, una señal relevante para directivos que evalúan inversión en software, cloud y semiconductores. El movimiento sugiere que sigue habiendo apetito por gasto en infraestructura de IA, aunque los costes energéticos y de tipos siguen siendo un riesgo para presupuestos empresariales.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/sitemap/2026-09/24/1/",
+      "sourceUrl": "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25/",
       "imageUrl": "",
       "category": "Estrategia"
+    },
+    {
+      "id": "white-house-asks-openai-anthropic-hold-ai-models-uk-testers",
+      "date": "25 September 2026",
+      "headline": "La Casa Blanca pide a OpenAI y Anthropic que retengan modelos de IA para testers del Reino Unido",
+      "summary": "La petición refleja un mayor escrutinio geopolítico y de seguridad sobre modelos avanzados, con posibles retrasos en despliegues y pruebas internacionales. Para empresas que compran o integran IA, esto eleva el riesgo regulatorio y puede afectar calendarios de adopción, cumplimiento y acceso a nuevas capacidades.",
+      "source": "Forward Future",
+      "sourceUrl": "https://forwardfuture.com/newsletter/daily/2026-09-25/ai-security-reviews-google-s-space-chips-gemini-calls",
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/feb0161f-5512-4149-b37e-86a6976fb686/6a72458a3f00ff875d13c9b1.jpg?t=1790291335",
+      "category": "Regulación"
     }
   ]
 }

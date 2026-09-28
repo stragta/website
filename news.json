@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-27T12:37:39.556Z",
+  "lastUpdated": "2026-09-28T14:51:08.608Z",
   "articles": [
     {
-      "id": "akamai-anthropic-cloud-deal",
-      "date": "24 September 2026",
-      "headline": "Akamai signs $11.6 billion cloud deal with Anthropic",
-      "summary": "Akamai landed an $11.6 billion cloud services contract with Anthropic and issued a warrant that could give Anthropic up to 5% of the company. The deal matters for businesses because it signals rising AI infrastructure demand, may support Akamai’s growth, and pushed the stock sharply higher in trading.",
+      "id": "meta-muse-security-warning",
+      "date": "26 September 2026",
+      "headline": "Meta adds clearer safety warning after vulnerability in AI agent Muse",
+      "summary": "Meta is adding a clearer warning inside Muse after a security researcher found a vulnerability that could expose sensitive personal information. For businesses adopting AI assistants, this underscores rising operational and compliance risk around data handling, user safety, and secure deployment.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Regulation"
     },
     {
       "id": "openai-gpt6-cyber-preview",
-      "date": "24 September 2026",
-      "headline": "OpenAI to preview GPT-6 Cyber within days",
-      "summary": "OpenAI is planning a cybersecurity-focused model and a product to help customers deploy it more securely and automatically. That is relevant for enterprises because it points to new AI security tooling that could affect cyber defense, compliance, and operational risk management.",
+      "date": "26 September 2026",
+      "headline": "OpenAI reportedly preparing cybersecurity-focused GPT-6 Cyber preview",
+      "summary": "OpenAI is set to preview a cybersecurity-focused model and launch a product to help customers deploy it more securely and automatically. That could matter for enterprises facing mounting cyber risk, because it suggests stronger demand for AI security tooling and safer automation workflows.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/openai-preview-gpt-6-cyber-within-days-fortune-reports-2026-09-24/",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Automation"
     },
     {
-      "id": "bnp-paribas-google-cloud-ai-deal",
-      "date": "24 September 2026",
-      "headline": "BNP Paribas will keep sensitive data off public cloud despite Google deal",
-      "summary": "BNP Paribas said it will keep some sensitive customer data and critical operations off public cloud infrastructure even after signing a five-year cloud and AI partnership with Google. The move highlights how regulated businesses are balancing AI adoption against data-residency, security, and operational control concerns.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/bnp-paribas-keep-sensitive-data-off-public-cloud-despite-google-deal-2026-09-24/",
-      "imageUrl": "",
-      "category": "Regulation"
+      "id": "akami-anthropic-ai-infrastructure-deal",
+      "date": "25 September 2026",
+      "headline": "Akamai jumps on AI infrastructure deal tied to Anthropic",
+      "summary": "Akamai stock surged after news of a major AI infrastructure deal with Anthropic that appears to rely on AI accelerators other than Nvidia GPUs. The story matters to businesses because it points to changing compute economics, supplier mix, and pricing pressure across AI infrastructure.",
+      "source": "Investor's Business Daily",
+      "sourceUrl": "https://www.investors.com/category/news/technology/",
+      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "category": "Strategy"
     }
   ]
 }
