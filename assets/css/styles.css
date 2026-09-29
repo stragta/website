@@ -693,14 +693,40 @@ h1.hero-title em {
 footer {
   padding: 2.4rem 5%;
   background: var(--dark);
-  display: flex; align-items: center;
-  justify-content: space-between; flex-wrap: wrap; gap: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.35rem;
   border-top: 1px solid rgba(242, 240, 234, 0.07);
 }
-.footer-logo {
-  font-family: var(--f); font-size: 0.74rem; font-weight: 800;
-  letter-spacing: 0.08em; text-transform: uppercase;
-  color: rgba(242, 240, 234, 0.5); text-decoration: none;
+.footer-back-top {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: rgba(242, 240, 234, 0.48);
+  font-size: 0.63rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: color 0.2s;
+}
+.footer-back-top span { font-size: 0.9rem; line-height: 1; }
+.footer-back-top:hover { color: var(--accent); }
+.footer-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.3rem;
+}
+.footer-partners { display: flex; align-items: center; gap: 0.7rem; }
+.footer-partners-label {
+  color: rgba(242, 240, 234, 0.48);
+  font-size: 0.63rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 .footer-copy { font-size: 0.66rem; font-weight: 500; color: rgba(242, 240, 234, 0.22); }
 .footer-links { display: flex; gap: 1.4rem; }
@@ -798,7 +824,7 @@ footer {
   .services-grid, .process-grid { grid-template-columns: 1fr; }
   .map-header-row { flex-direction: column; gap: 1.5rem; }
   .news-grid { grid-template-columns: 1fr; }
-  footer { flex-direction: column; align-items: flex-start; }
+  .footer-main { flex-direction: column; align-items: flex-start; }
   .footer-links { flex-wrap: wrap; }
   .legal-page { padding-left: 5%; padding-right: 5%; }
 }
