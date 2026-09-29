@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-28T14:51:08.608Z",
+  "lastUpdated": "2026-09-29T13:39:55.395Z",
   "articles": [
     {
-      "id": "meta-muse-security-warning",
-      "date": "26 September 2026",
-      "headline": "Meta adds clearer safety warning after vulnerability in AI agent Muse",
-      "summary": "Meta is adding a clearer warning inside Muse after a security researcher found a vulnerability that could expose sensitive personal information. For businesses adopting AI assistants, this underscores rising operational and compliance risk around data handling, user safety, and secure deployment.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "meta-launches-enterprise-ai-platform",
+      "date": "29 September 2026",
+      "headline": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "summary": "Meta is pushing further into enterprise AI with a new business-focused platform, signaling stronger competition in workplace automation and AI infrastructure. For companies, this could expand the range of enterprise AI options while intensifying pressure on vendors to prove ROI, governance, and integration value.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "AI Adoption"
     },
     {
-      "id": "openai-gpt6-cyber-preview",
-      "date": "26 September 2026",
-      "headline": "OpenAI reportedly preparing cybersecurity-focused GPT-6 Cyber preview",
-      "summary": "OpenAI is set to preview a cybersecurity-focused model and launch a product to help customers deploy it more securely and automatically. That could matter for enterprises facing mounting cyber risk, because it suggests stronger demand for AI security tooling and safer automation workflows.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "id": "ai-killing-jobs-college-grads",
+      "date": "29 September 2026",
+      "headline": "Is AI killing jobs for college grads? Not yet, new study says",
+      "summary": "Fresh coverage of the AI-and-jobs debate suggests the immediate labor-market impact for new graduates is still limited, though employers continue to reassess entry-level work. Business leaders should watch this closely because AI adoption is reshaping hiring plans, training budgets, and how companies structure early-career roles.",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/business/technology/",
       "imageUrl": "",
       "category": "Automation"
     },
     {
-      "id": "akami-anthropic-ai-infrastructure-deal",
-      "date": "25 September 2026",
-      "headline": "Akamai jumps on AI infrastructure deal tied to Anthropic",
-      "summary": "Akamai stock surged after news of a major AI infrastructure deal with Anthropic that appears to rely on AI accelerators other than Nvidia GPUs. The story matters to businesses because it points to changing compute economics, supplier mix, and pricing pressure across AI infrastructure.",
-      "source": "Investor's Business Daily",
-      "sourceUrl": "https://www.investors.com/category/news/technology/",
-      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
-      "category": "Strategy"
+      "id": "salesforce-ai-platform-availability",
+      "date": "29 September 2026",
+      "headline": "Salesforce expands AI management layer and integrates Anthropic’s Claude",
+      "summary": "Salesforce is adding an AI management layer focused on turning trapped data into business value, while also integrating Anthropic’s Claude and new reasoning capabilities. That matters for enterprises because it can affect CRM automation, governance, agent deployment, and the cost structure of AI-enabled workflows.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-28T14:51:15.906Z",
+  "lastUpdated": "2026-09-29T13:40:02.503Z",
   "articles": [
     {
-      "id": "shinyhunters-expands-attacks-on-oracle-peoplesoft",
-      "date": "26 September 2026",
-      "headline": "ShinyHunters amplía ataques contra Oracle PeopleSoft, según Google",
-      "summary": "La campaña de explotación masiva sobre un software empresarial ampliamente usado eleva el riesgo operativo para organizaciones con sistemas heredados o mal parcheados. Para CIOs y responsables de TI, esto refuerza la necesidad de acelerar actualizaciones, segmentación y respuesta a incidentes en plataformas críticas de RR. HH. y finanzas.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
+      "id": "anthropic-dod-blacklist-court",
+      "date": "29 September 2026",
+      "headline": "Appeals court says Pentagon can blacklist Anthropic’s AI technology",
+      "summary": "A federal appeals court ruling could affect Anthropic’s access to government business and set a precedent for how defense agencies evaluate AI vendors. For companies selling AI into regulated sectors, the case highlights growing compliance and procurement risk around model use and security reviews.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Regulación"
     },
     {
-      "id": "wall-street-ends-higher-as-investors-buy-ai-stocks",
-      "date": "25 September 2026",
-      "headline": "Wall Street ends higher as investors buy AI stocks",
-      "summary": "Las acciones tecnológicas ligadas a IA impulsaron el mercado al alza, una señal relevante para directivos que evalúan inversión en software, cloud y semiconductores. El movimiento sugiere que sigue habiendo apetito por gasto en infraestructura de IA, aunque los costes energéticos y de tipos siguen siendo un riesgo para presupuestos empresariales.",
+      "id": "nvidia-buyback-record",
+      "date": "28 September 2026",
+      "headline": "Nvidia lifts buyback authorization by a record $150 billion",
+      "summary": "Nvidia’s huge buyback boost signals management confidence and can influence sentiment across semiconductors, AI infrastructure, and related suppliers. Business buyers should watch it as a marker of continued capital intensity in AI hardware and the broader cost structure for compute.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "white-house-asks-openai-anthropic-hold-ai-models-uk-testers",
-      "date": "25 September 2026",
-      "headline": "La Casa Blanca pide a OpenAI y Anthropic que retengan modelos de IA para testers del Reino Unido",
-      "summary": "La petición refleja un mayor escrutinio geopolítico y de seguridad sobre modelos avanzados, con posibles retrasos en despliegues y pruebas internacionales. Para empresas que compran o integran IA, esto eleva el riesgo regulatorio y puede afectar calendarios de adopción, cumplimiento y acceso a nuevas capacidades.",
-      "source": "Forward Future",
-      "sourceUrl": "https://forwardfuture.com/newsletter/daily/2026-09-25/ai-security-reviews-google-s-space-chips-gemini-calls",
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/feb0161f-5512-4149-b37e-86a6976fb686/6a72458a3f00ff875d13c9b1.jpg?t=1790291335",
-      "category": "Regulación"
+      "id": "shopify-browser-ai-agents-checkout",
+      "date": "27 September 2026",
+      "headline": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Opening checkout to AI agents could change how online sales are routed, optimized, and automated across e-commerce workflows. For merchants, this may lower friction in digital sales operations while also forcing new controls for fraud, attribution, and agent-driven buying behavior.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/",
+      "imageUrl": "",
+      "category": "Automatización"
     }
   ]
 }
