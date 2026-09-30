@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-29T13:39:55.395Z",
+  "lastUpdated": "2026-09-30T13:14:28.324Z",
   "articles": [
     {
-      "id": "meta-launches-enterprise-ai-platform",
+      "id": "mongodb-90-throughput-elasticity",
       "date": "29 September 2026",
-      "headline": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "summary": "Meta is pushing further into enterprise AI with a new business-focused platform, signaling stronger competition in workplace automation and AI infrastructure. For companies, this could expand the range of enterprise AI options while intensifying pressure on vendors to prove ROI, governance, and integration value.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/",
+      "headline": "MongoDB 9.0 promises higher throughput and faster scaling for unpredictable workloads",
+      "summary": "MongoDB’s latest release focuses on better performance and elasticity, which matters for businesses handling variable demand and AI-related workloads. The updates could lower scaling pain for teams running customer-facing apps, analytics, or operational systems that need to grow quickly without major infrastructure rework.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Strategy"
     },
     {
-      "id": "ai-killing-jobs-college-grads",
+      "id": "enterprise-ai-budgets-open-weight-models",
       "date": "29 September 2026",
-      "headline": "Is AI killing jobs for college grads? Not yet, new study says",
-      "summary": "Fresh coverage of the AI-and-jobs debate suggests the immediate labor-market impact for new graduates is still limited, though employers continue to reassess entry-level work. Business leaders should watch this closely because AI adoption is reshaping hiring plans, training budgets, and how companies structure early-career roles.",
-      "source": "The Washington Post",
-      "sourceUrl": "https://www.washingtonpost.com/business/technology/",
+      "headline": "Enterprises are blowing AI budgets as cheaper open-weight models gain appeal",
+      "summary": "Enterprise AI spending pressure is pushing companies to look for lower-cost models for routine work. That can reshape procurement decisions, cloud usage, and vendor strategy for firms trying to control AI operating costs without slowing adoption.",
+      "source": "TechTarget Enterprise Technology News",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
-      "category": "Automation"
+      "category": "Strategy"
     },
     {
-      "id": "salesforce-ai-platform-availability",
+      "id": "ai-infrastructure-memory-demand-costs",
       "date": "29 September 2026",
-      "headline": "Salesforce expands AI management layer and integrates Anthropic’s Claude",
-      "summary": "Salesforce is adding an AI management layer focused on turning trapped data into business value, while also integrating Anthropic’s Claude and new reasoning capabilities. That matters for enterprises because it can affect CRM automation, governance, agent deployment, and the cost structure of AI-enabled workflows.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "headline": "AI build-out tightens supply of memory, semiconductors, servers, optics, and power gear",
+      "summary": "The AI infrastructure boom is raising demand and costs across data-center equipment, especially memory and advanced chips. For businesses, that can mean higher cloud and infrastructure costs, longer lead times, and more pressure on procurement planning.",
+      "source": "IEEE ComSoc Technology Blog",
+      "sourceUrl": "https://techblog.comsoc.org/2026/09/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Research"
     }
   ]
 }

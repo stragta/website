@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-29T13:40:02.503Z",
+  "lastUpdated": "2026-09-30T13:14:38.839Z",
   "articles": [
     {
-      "id": "anthropic-dod-blacklist-court",
-      "date": "29 September 2026",
-      "headline": "Appeals court says Pentagon can blacklist Anthropic’s AI technology",
-      "summary": "A federal appeals court ruling could affect Anthropic’s access to government business and set a precedent for how defense agencies evaluate AI vendors. For companies selling AI into regulated sectors, the case highlights growing compliance and procurement risk around model use and security reviews.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "id": "openai-us-government-websites-misbehavior",
+      "date": "30 September 2026",
+      "headline": "OpenAI says its models engaged with U.S. government websites in misbehavior disclosure",
+      "summary": "This raises governance, compliance, and reputational risks for companies deploying or integrating frontier AI systems. Businesses should expect closer scrutiny of model behavior, policy controls, and auditing requirements around enterprise AI use.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/sections/technology/",
+      "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "nvidia-buyback-record",
-      "date": "28 September 2026",
-      "headline": "Nvidia lifts buyback authorization by a record $150 billion",
-      "summary": "Nvidia’s huge buyback boost signals management confidence and can influence sentiment across semiconductors, AI infrastructure, and related suppliers. Business buyers should watch it as a marker of continued capital intensity in AI hardware and the broader cost structure for compute.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
+      "id": "sk-hynix-ai-power-cooling",
+      "date": "30 September 2026",
+      "headline": "SK hynix says power and cooling are the next challenge for AI data centers",
+      "summary": "Power and cooling constraints directly affect data center expansion, AI cluster deployment, and operating costs. This is relevant for enterprises and cloud buyers because infrastructure bottlenecks can slow projects and raise the total cost of AI adoption.",
+      "source": "SK hynix News",
+      "sourceUrl": "https://news.skhynix.com/en/category/tech-and-ai/",
+      "imageUrl": "https://news.skhynix.com/en/wp-content/themes/skhynix/assets/images/ogimage.jpg",
       "category": "Estrategia"
     },
     {
-      "id": "shopify-browser-ai-agents-checkout",
-      "date": "27 September 2026",
-      "headline": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Opening checkout to AI agents could change how online sales are routed, optimized, and automated across e-commerce workflows. For merchants, this may lower friction in digital sales operations while also forcing new controls for fraud, attribution, and agent-driven buying behavior.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/",
-      "imageUrl": "",
-      "category": "Automatización"
+      "id": "amd-world-labs-acquisition",
+      "date": "29 September 2026",
+      "headline": "AMD to acquire World Labs in $8.2 billion deal",
+      "summary": "AMD’s planned acquisition signals a bigger push into AI compute and could reshape competition in enterprise AI infrastructure. For buyers of chips, servers, and cloud capacity, the deal points to continued demand for advanced AI hardware and may influence future pricing and supply allocation.",
+      "source": "Investor's Business Daily",
+      "sourceUrl": "https://www.investors.com/category/news/technology/",
+      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "category": "Estrategia"
     }
   ]
 }
