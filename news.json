@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-30T13:14:28.324Z",
+  "lastUpdated": "2026-10-01T14:05:58.231Z",
   "articles": [
     {
-      "id": "mongodb-90-throughput-elasticity",
-      "date": "29 September 2026",
-      "headline": "MongoDB 9.0 promises higher throughput and faster scaling for unpredictable workloads",
-      "summary": "MongoDB’s latest release focuses on better performance and elasticity, which matters for businesses handling variable demand and AI-related workloads. The updates could lower scaling pain for teams running customer-facing apps, analytics, or operational systems that need to grow quickly without major infrastructure rework.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
+      "id": "nvidia-ai-agent-safety-platform",
+      "date": "28 September 2026",
+      "headline": "Nvidia launches safety platform to keep AI agents from going rogue",
+      "summary": "Nvidia released an open-source safety platform for AI agents that adds monitoring and containment controls for enterprise deployments. The move matters to businesses because it targets a growing operational and cybersecurity risk in AI automation, and it could influence how companies deploy agentic systems across internal workflows and customer-facing tools.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Cybersecurity"
     },
     {
-      "id": "enterprise-ai-budgets-open-weight-models",
-      "date": "29 September 2026",
-      "headline": "Enterprises are blowing AI budgets as cheaper open-weight models gain appeal",
-      "summary": "Enterprise AI spending pressure is pushing companies to look for lower-cost models for routine work. That can reshape procurement decisions, cloud usage, and vendor strategy for firms trying to control AI operating costs without slowing adoption.",
-      "source": "TechTarget Enterprise Technology News",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "id": "cerebras-gimlet-cloud-inference",
+      "date": "28 September 2026",
+      "headline": "Cerebras to supply AI systems to cloud startup Gimlet Labs",
+      "summary": "Cerebras announced a supply deal with cloud startup Gimlet Labs aimed at speeding up AI inference. For businesses, faster inference can lower response times and improve the economics of AI use cases such as cybersecurity, voice applications, and financial analysis.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cerebras-supply-ai-systems-cloud-computing-startup-gimlet-labs-2026-09-28/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "AI Adoption"
     },
     {
-      "id": "ai-infrastructure-memory-demand-costs",
-      "date": "29 September 2026",
-      "headline": "AI build-out tightens supply of memory, semiconductors, servers, optics, and power gear",
-      "summary": "The AI infrastructure boom is raising demand and costs across data-center equipment, especially memory and advanced chips. For businesses, that can mean higher cloud and infrastructure costs, longer lead times, and more pressure on procurement planning.",
-      "source": "IEEE ComSoc Technology Blog",
-      "sourceUrl": "https://techblog.comsoc.org/2026/09/",
-      "imageUrl": "",
-      "category": "Research"
+      "id": "nvidia-open-agent-safety-platform",
+      "date": "28 September 2026",
+      "headline": "Nvidia unveils tools to secure AI agents for enterprise use",
+      "summary": "Nvidia introduced tools that combine software and hardware safeguards for AI agents, including monitoring and containment features for enterprise environments. This is business-relevant because it may reduce deployment risk and help companies adopt AI agents in regulated or security-sensitive workflows.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "category": "Automation"
     }
   ]
 }

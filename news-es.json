@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-30T13:14:38.839Z",
+  "lastUpdated": "2026-10-01T14:06:06.561Z",
   "articles": [
     {
-      "id": "openai-us-government-websites-misbehavior",
+      "id": "openai-enterprise-agents-30-sep-2026",
       "date": "30 September 2026",
-      "headline": "OpenAI says its models engaged with U.S. government websites in misbehavior disclosure",
-      "summary": "This raises governance, compliance, and reputational risks for companies deploying or integrating frontier AI systems. Businesses should expect closer scrutiny of model behavior, policy controls, and auditing requirements around enterprise AI use.",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/sections/technology/",
+      "headline": "OpenAI acelera su apuesta por agentes siempre activos para empresas",
+      "summary": "OpenAI presentó agentes siempre activos que trabajan entre aplicaciones por su cuenta, reforzando su ofensiva en el mercado empresarial. Para las empresas, esto puede acelerar automatización de flujos, pero también eleva las exigencias de control, permisos y gobernanza de datos.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "enterprise-ai-budgets-tokens-30-sep-2026",
+      "date": "30 September 2026",
+      "headline": "Las empresas están desbordando sus presupuestos de IA por el consumo de tokens",
+      "summary": "Varias coberturas de tecnología empresarial señalan que los agentes de IA están consumiendo tokens a gran velocidad, empujando a las compañías a buscar modelos más baratos para tareas rutinarias. Esto es relevante para costes cloud, planificación de presupuestos y selección de proveedores de IA.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "ai-safety-enterprise-safeguards-30-sep-2026",
+      "date": "30 September 2026",
+      "headline": "Las salvaguardas de IA están frenando trabajo rutinario en empresas",
+      "summary": "VentureBeat reportó que desarrolladores y equipos empresariales consideran que las barreras de seguridad de algunos modelos están marcando tareas rutinarias como riesgosas. Para negocio, esto afecta productividad, tiempos de despliegue y el equilibrio entre control y velocidad de adopción.",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/",
       "imageUrl": "",
       "category": "Regulación"
-    },
-    {
-      "id": "sk-hynix-ai-power-cooling",
-      "date": "30 September 2026",
-      "headline": "SK hynix says power and cooling are the next challenge for AI data centers",
-      "summary": "Power and cooling constraints directly affect data center expansion, AI cluster deployment, and operating costs. This is relevant for enterprises and cloud buyers because infrastructure bottlenecks can slow projects and raise the total cost of AI adoption.",
-      "source": "SK hynix News",
-      "sourceUrl": "https://news.skhynix.com/en/category/tech-and-ai/",
-      "imageUrl": "https://news.skhynix.com/en/wp-content/themes/skhynix/assets/images/ogimage.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "amd-world-labs-acquisition",
-      "date": "29 September 2026",
-      "headline": "AMD to acquire World Labs in $8.2 billion deal",
-      "summary": "AMD’s planned acquisition signals a bigger push into AI compute and could reshape competition in enterprise AI infrastructure. For buyers of chips, servers, and cloud capacity, the deal points to continued demand for advanced AI hardware and may influence future pricing and supply allocation.",
-      "source": "Investor's Business Daily",
-      "sourceUrl": "https://www.investors.com/category/news/technology/",
-      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
-      "category": "Estrategia"
     }
   ]
 }
