@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-01T14:06:06.561Z",
+  "lastUpdated": "2026-10-02T13:27:32.329Z",
   "articles": [
     {
-      "id": "openai-enterprise-agents-30-sep-2026",
-      "date": "30 September 2026",
-      "headline": "OpenAI acelera su apuesta por agentes siempre activos para empresas",
-      "summary": "OpenAI presentó agentes siempre activos que trabajan entre aplicaciones por su cuenta, reforzando su ofensiva en el mercado empresarial. Para las empresas, esto puede acelerar automatización de flujos, pero también eleva las exigencias de control, permisos y gobernanza de datos.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "enterprise-ai-budgets-tokens-30-sep-2026",
-      "date": "30 September 2026",
-      "headline": "Las empresas están desbordando sus presupuestos de IA por el consumo de tokens",
-      "summary": "Varias coberturas de tecnología empresarial señalan que los agentes de IA están consumiendo tokens a gran velocidad, empujando a las compañías a buscar modelos más baratos para tareas rutinarias. Esto es relevante para costes cloud, planificación de presupuestos y selección de proveedores de IA.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "id": "ai-data-sovereignty-openai-anthropic",
+      "date": "2 October 2026",
+      "headline": "Companies look to work with OpenAI, Anthropic while protecting data sovereignty",
+      "summary": "Las empresas buscan aprovechar modelos avanzados de IA sin perder control sobre sus datos, lo que refuerza la demanda de despliegues soberanos, privados o híbridos. Para directivos y responsables de TI, esto convierte la soberanía de datos en un criterio de compra tan importante como el rendimiento del modelo.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "ai-safety-enterprise-safeguards-30-sep-2026",
-      "date": "30 September 2026",
-      "headline": "Las salvaguardas de IA están frenando trabajo rutinario en empresas",
-      "summary": "VentureBeat reportó que desarrolladores y equipos empresariales consideran que las barreras de seguridad de algunos modelos están marcando tareas rutinarias como riesgosas. Para negocio, esto afecta productividad, tiempos de despliegue y el equilibrio entre control y velocidad de adopción.",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/",
-      "imageUrl": "",
+      "id": "us-tech-policy-ai-accord-probe",
+      "date": "1 October 2026",
+      "headline": "US tech policy roundup: AI safety accord and FTC probe into major AI labs",
+      "summary": "La firma de un acuerdo voluntario de controles internos y auditorías externas junto con una investigación de la FTC incrementa la presión regulatoria sobre los grandes laboratorios de IA. Las empresas que usan modelos de terceros deberán anticipar más exigencias de cumplimiento, revisión de riesgo y documentación de proveedores.",
+      "source": "Tech Policy Press",
+      "sourceUrl": "https://www.techpolicy.press/september-2026-us-tech-policy-roundup/",
+      "imageUrl": "https://cdn.sanity.io/images/3tzzh18d/production/6790f628b19a335a35a494fc3d93b06c038892b9-1200x675.png",
       "category": "Regulación"
+    },
+    {
+      "id": "ai-infra-supply-chain-race",
+      "date": "30 September 2026",
+      "headline": "AI infrastructure boom shifts from chip race to supply-chain race",
+      "summary": "La demanda de IA ya no depende solo de más cómputo: memoria, energía y capacidad de fabricación están convirtiéndose en el principal cuello de botella. Para empresas que compran infraestructura o servicios cloud, esto apunta a costes más altos, plazos más largos y mayor riesgo de interrupciones en la cadena de suministro.",
+      "source": "Silicon Semiconductor",
+      "sourceUrl": "https://siliconsemiconductor.net/article/125504/AI_infrastructure_boom_shifts_from_chip_race_to_supply-chain_race",
+      "imageUrl": "https://f001.backblazeb2.com/file/BIT-Magazine-Images/",
+      "category": "Estrategia"
     }
   ]
 }

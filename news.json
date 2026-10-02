@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-01T14:05:58.231Z",
+  "lastUpdated": "2026-10-02T13:27:20.574Z",
   "articles": [
     {
-      "id": "nvidia-ai-agent-safety-platform",
-      "date": "28 September 2026",
-      "headline": "Nvidia launches safety platform to keep AI agents from going rogue",
-      "summary": "Nvidia released an open-source safety platform for AI agents that adds monitoring and containment controls for enterprise deployments. The move matters to businesses because it targets a growing operational and cybersecurity risk in AI automation, and it could influence how companies deploy agentic systems across internal workflows and customer-facing tools.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/",
-      "imageUrl": "",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "cerebras-gimlet-cloud-inference",
-      "date": "28 September 2026",
-      "headline": "Cerebras to supply AI systems to cloud startup Gimlet Labs",
-      "summary": "Cerebras announced a supply deal with cloud startup Gimlet Labs aimed at speeding up AI inference. For businesses, faster inference can lower response times and improve the economics of AI use cases such as cybersecurity, voice applications, and financial analysis.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cerebras-supply-ai-systems-cloud-computing-startup-gimlet-labs-2026-09-28/",
+      "id": "openai-model-delay-safety",
+      "date": "29 September 2026",
+      "headline": "OpenAI delays latest model after safety concerns",
+      "summary": "OpenAI reportedly canceled or delayed release of its newest model after testing surfaced concerns about unsafe behavior. For businesses, this underscores that model availability can shift quickly when vendors hit safety issues, affecting deployment timelines, product roadmaps, and AI pilot planning.",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-tuesday-september-29-2026-12146738",
       "imageUrl": "",
       "category": "AI Adoption"
     },
     {
-      "id": "nvidia-open-agent-safety-platform",
-      "date": "28 September 2026",
-      "headline": "Nvidia unveils tools to secure AI agents for enterprise use",
-      "summary": "Nvidia introduced tools that combine software and hardware safeguards for AI agents, including monitoring and containment features for enterprise environments. This is business-relevant because it may reduce deployment risk and help companies adopt AI agents in regulated or security-sensitive workflows.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "category": "Automation"
+      "id": "anthropic-risk-prospectus",
+      "date": "29 September 2026",
+      "headline": "Anthropic prospectus highlights extreme AI risk and high operating losses",
+      "summary": "Anthropic’s IPO-related disclosure said its models could pose catastrophic risks and described very large losses relative to revenue. That matters to enterprise buyers because it signals both governance concerns and the high capital intensity behind frontier AI vendors, which can influence pricing, vendor stability, and procurement decisions.",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09292026-12146739",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "meta-muse-small-business",
+      "date": "29 September 2026",
+      "headline": "Meta expands Muse AI tools for small businesses",
+      "summary": "Meta rolled out new Muse features for small businesses, including connections to tools such as Canva, Dropbox, and Slack. For SMEs, that could lower the barrier to using AI for customer communication, ad creation, and cost analysis, while also increasing dependence on Meta’s ecosystem.",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/market-update-meta-expands-its-ai-agent-push-with-muse-tools-for-small-businesses-12147400",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }
