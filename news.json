@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-02T13:27:20.574Z",
+  "lastUpdated": "2026-10-03T12:10:46.912Z",
   "articles": [
     {
-      "id": "openai-model-delay-safety",
-      "date": "29 September 2026",
-      "headline": "OpenAI delays latest model after safety concerns",
-      "summary": "OpenAI reportedly canceled or delayed release of its newest model after testing surfaced concerns about unsafe behavior. For businesses, this underscores that model availability can shift quickly when vendors hit safety issues, affecting deployment timelines, product roadmaps, and AI pilot planning.",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-tuesday-september-29-2026-12146738",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "anthropic-risk-prospectus",
-      "date": "29 September 2026",
-      "headline": "Anthropic prospectus highlights extreme AI risk and high operating losses",
-      "summary": "Anthropic’s IPO-related disclosure said its models could pose catastrophic risks and described very large losses relative to revenue. That matters to enterprise buyers because it signals both governance concerns and the high capital intensity behind frontier AI vendors, which can influence pricing, vendor stability, and procurement decisions.",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09292026-12146739",
+      "id": "japan-chip-investment-taiwan",
+      "date": "2 October 2026",
+      "headline": "Japan local governments step up Taiwan outreach for chip investment",
+      "summary": "Regional officials in Japan are intensifying efforts to attract chip-related investment near Taiwan, reflecting the continued strategic importance of semiconductor supply chains. For manufacturers and tech buyers, the move points to ongoing efforts to secure capacity and reduce exposure to geopolitical disruption.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/tech",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "meta-muse-small-business",
+      "id": "openai-anthropic-agent-incidents",
+      "date": "30 September 2026",
+      "headline": "AI safety incidents put agent security in the spotlight",
+      "summary": "Coverage on September 30 highlighted a timeline of recent AI safety incidents and growing concern over agents that can interact with external systems. Businesses using AI assistants, automation tools, or workflow agents should expect more scrutiny around permissions, logging, and containment.",
+      "source": "Associated Press",
+      "sourceUrl": "https://www.dailynews.com/business/technology/",
+      "imageUrl": "https://www.dailynews.com/wp-content/uploads/2017/09/img_3776.jpg",
+      "category": "Regulation"
+    },
+    {
+      "id": "openai-gpt-6-1-astra-delayed",
       "date": "29 September 2026",
-      "headline": "Meta expands Muse AI tools for small businesses",
-      "summary": "Meta rolled out new Muse features for small businesses, including connections to tools such as Canva, Dropbox, and Slack. For SMEs, that could lower the barrier to using AI for customer communication, ad creation, and cost analysis, while also increasing dependence on Meta’s ecosystem.",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/market-update-meta-expands-its-ai-agent-push-with-muse-tools-for-small-businesses-12147400",
-      "imageUrl": "",
+      "headline": "OpenAI reportedly delays GPT-6.1 Astra over safety concerns",
+      "summary": "OpenAI said it would not release GPT-6.1 Astra after testing surfaced safety issues, underscoring that even leading AI labs are slowing launches when risks rise. For companies planning AI rollouts, this signals more cautious model availability and a stronger need for internal testing, access controls, and fallback plans.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108364673-1789680332561-gettyimages-2295176589-AFP_C8MM2DH.jpeg?v=1789680624&amp;w=1920&amp;h=1080",
       "category": "AI Adoption"
     }
   ]

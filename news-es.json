@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-02T13:27:32.329Z",
+  "lastUpdated": "2026-10-03T12:10:53.813Z",
   "articles": [
     {
-      "id": "ai-data-sovereignty-openai-anthropic",
-      "date": "2 October 2026",
-      "headline": "Companies look to work with OpenAI, Anthropic while protecting data sovereignty",
-      "summary": "Las empresas buscan aprovechar modelos avanzados de IA sin perder control sobre sus datos, lo que refuerza la demanda de despliegues soberanos, privados o híbridos. Para directivos y responsables de TI, esto convierte la soberanía de datos en un criterio de compra tan importante como el rendimiento del modelo.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
-      "imageUrl": "",
+      "id": "kyndryl-modernization-report-2026",
+      "date": "1 October 2026",
+      "headline": "Kyndryl says 98% of organizations delayed modernization and suffered negative business impacts",
+      "summary": "Kyndryl’s new global report says modernization is now a business-orchestration problem, not just an IT project. For companies, the takeaway is that delaying platform upgrades can directly hurt operations, resilience, and competitiveness, especially when legacy systems have to coexist with AI and modern infrastructure.",
+      "source": "Kyndryl",
+      "sourceUrl": "https://www.kyndryl.com/us/en/about-us/news/2026/10/enterprise-it-modernization-trends",
+      "imageUrl": "https://s7d1.scene7.com/is/image/kyndryl/it-modernization-pr-16x9?qlt=85&wid=1200",
       "category": "Estrategia"
     },
     {
-      "id": "us-tech-policy-ai-accord-probe",
-      "date": "1 October 2026",
-      "headline": "US tech policy roundup: AI safety accord and FTC probe into major AI labs",
-      "summary": "La firma de un acuerdo voluntario de controles internos y auditorías externas junto con una investigación de la FTC incrementa la presión regulatoria sobre los grandes laboratorios de IA. Las empresas que usan modelos de terceros deberán anticipar más exigencias de cumplimiento, revisión de riesgo y documentación de proveedores.",
+      "id": "ftc-probe-ai-agents-2026",
+      "date": "30 September 2026",
+      "headline": "FTC opens industry-wide probe into Anthropic, OpenAI and other AI labs over rogue AI agents",
+      "summary": "A US regulator has opened an industry-wide investigation into potential consumer harms from AI agents, signaling faster compliance pressure for vendors and buyers alike. Businesses deploying agentic AI should expect stronger scrutiny of security controls, testing, liability, and governance requirements.",
       "source": "Tech Policy Press",
       "sourceUrl": "https://www.techpolicy.press/september-2026-us-tech-policy-roundup/",
       "imageUrl": "https://cdn.sanity.io/images/3tzzh18d/production/6790f628b19a335a35a494fc3d93b06c038892b9-1200x675.png",
       "category": "Regulación"
     },
     {
-      "id": "ai-infra-supply-chain-race",
+      "id": "micron-dram-data-center-revenue-2026",
       "date": "30 September 2026",
-      "headline": "AI infrastructure boom shifts from chip race to supply-chain race",
-      "summary": "La demanda de IA ya no depende solo de más cómputo: memoria, energía y capacidad de fabricación están convirtiéndose en el principal cuello de botella. Para empresas que compran infraestructura o servicios cloud, esto apunta a costes más altos, plazos más largos y mayor riesgo de interrupciones en la cadena de suministro.",
-      "source": "Silicon Semiconductor",
-      "sourceUrl": "https://siliconsemiconductor.net/article/125504/AI_infrastructure_boom_shifts_from_chip_race_to_supply-chain_race",
-      "imageUrl": "https://f001.backblazeb2.com/file/BIT-Magazine-Images/",
-      "category": "Estrategia"
+      "headline": "Micron reports record DRAM and data center revenue amid tight supply",
+      "summary": "Micron’s latest quarterly figures show DRAM revenue up sharply and data center revenue at a record level, highlighting strong AI infrastructure demand and constrained memory supply. That matters for businesses because memory scarcity can keep hardware costs elevated and shape procurement timelines for servers and cloud-backed AI workloads.",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/archives/news/2026/9/1",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
+      "category": "Investigación"
     }
   ]
 }
