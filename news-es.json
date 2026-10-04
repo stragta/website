@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-03T12:10:53.813Z",
+  "lastUpdated": "2026-10-04T12:59:53.864Z",
   "articles": [
     {
-      "id": "kyndryl-modernization-report-2026",
-      "date": "1 October 2026",
-      "headline": "Kyndryl says 98% of organizations delayed modernization and suffered negative business impacts",
-      "summary": "Kyndryl’s new global report says modernization is now a business-orchestration problem, not just an IT project. For companies, the takeaway is that delaying platform upgrades can directly hurt operations, resilience, and competitiveness, especially when legacy systems have to coexist with AI and modern infrastructure.",
-      "source": "Kyndryl",
-      "sourceUrl": "https://www.kyndryl.com/us/en/about-us/news/2026/10/enterprise-it-modernization-trends",
-      "imageUrl": "https://s7d1.scene7.com/is/image/kyndryl/it-modernization-pr-16x9?qlt=85&wid=1200",
+      "id": "micron-memory-tight-supply-2027",
+      "date": "2 October 2026",
+      "headline": "Micron warns memory supply will stay tight as AI demand drives prices higher",
+      "summary": "Micron said AI demand is keeping memory supply constrained and expects conditions to remain tight through 2027 and 2028. For businesses, this points to higher costs and longer lead times for servers, AI infrastructure, and other memory-dependent purchases, which can affect budgeting and deployment timelines.",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com/topic/semiconductors/memory_chips/",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "ftc-probe-ai-agents-2026",
-      "date": "30 September 2026",
-      "headline": "FTC opens industry-wide probe into Anthropic, OpenAI and other AI labs over rogue AI agents",
-      "summary": "A US regulator has opened an industry-wide investigation into potential consumer harms from AI agents, signaling faster compliance pressure for vendors and buyers alike. Businesses deploying agentic AI should expect stronger scrutiny of security controls, testing, liability, and governance requirements.",
-      "source": "Tech Policy Press",
-      "sourceUrl": "https://www.techpolicy.press/september-2026-us-tech-policy-roundup/",
-      "imageUrl": "https://cdn.sanity.io/images/3tzzh18d/production/6790f628b19a335a35a494fc3d93b06c038892b9-1200x675.png",
+      "id": "us-bans-chinese-data-center-gear",
+      "date": "1 October 2026",
+      "headline": "US moves to block Chinese data center gear in national security systems",
+      "summary": "US lawmakers introduced a bill to bar federal agencies from buying certain Chinese optical transceivers used in AI networks. This increases compliance and sourcing risk for firms that sell into government or critical infrastructure markets, while also signaling wider supply-chain scrutiny for networking hardware.",
+      "source": "Asia Times",
+      "sourceUrl": "https://asiatimes.com/2026/10/us-bans-chinese-data-center-gear-as-beijing-grounds-its-ai-talent/",
+      "imageUrl": "https://asiatimes.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-21.47.58.png",
       "category": "Regulación"
     },
     {
-      "id": "micron-dram-data-center-revenue-2026",
-      "date": "30 September 2026",
-      "headline": "Micron reports record DRAM and data center revenue amid tight supply",
-      "summary": "Micron’s latest quarterly figures show DRAM revenue up sharply and data center revenue at a record level, highlighting strong AI infrastructure demand and constrained memory supply. That matters for businesses because memory scarcity can keep hardware costs elevated and shape procurement timelines for servers and cloud-backed AI workloads.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/archives/news/2026/9/1",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-      "category": "Investigación"
+      "id": "ai-leaders-frontier-responsibilities",
+      "date": "1 October 2026",
+      "headline": "Top AI companies back new self-policing controls for frontier systems",
+      "summary": "Major AI firms agreed to stronger internal controls, external audits, and board-level oversight for frontier models. Businesses using or buying advanced AI should expect tighter governance expectations, more emphasis on safety controls, and possible knock-on effects for enterprise procurement and compliance.",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/10/01/trump-ai-regulation-luncheon-huang-amodei-pichai-brockman-zuckerberg-musk-joint-committment-frontier-responsibilities/",
+      "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297778804-e1790868440881.jpg?resize=1200,600",
+      "category": "Regulación"
     }
   ]
 }

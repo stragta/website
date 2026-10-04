@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-03T12:10:46.912Z",
+  "lastUpdated": "2026-10-04T12:59:45.854Z",
   "articles": [
     {
-      "id": "japan-chip-investment-taiwan",
-      "date": "2 October 2026",
-      "headline": "Japan local governments step up Taiwan outreach for chip investment",
-      "summary": "Regional officials in Japan are intensifying efforts to attract chip-related investment near Taiwan, reflecting the continued strategic importance of semiconductor supply chains. For manufacturers and tech buyers, the move points to ongoing efforts to secure capacity and reduce exposure to geopolitical disruption.",
+      "id": "ai-storage-demand-hard-drive-suppliers",
+      "date": "3 October 2026",
+      "headline": "Japan’s hard-drive suppliers ride soaring AI demand",
+      "summary": "Japanese storage suppliers are seeing stronger demand as AI growth increases the need for memory and hard-drive capacity. That trend matters for businesses because storage constraints and component shortages can raise cloud, data center, and IT procurement costs.",
       "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/tech",
+      "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "openai-anthropic-agent-incidents",
-      "date": "30 September 2026",
-      "headline": "AI safety incidents put agent security in the spotlight",
-      "summary": "Coverage on September 30 highlighted a timeline of recent AI safety incidents and growing concern over agents that can interact with external systems. Businesses using AI assistants, automation tools, or workflow agents should expect more scrutiny around permissions, logging, and containment.",
-      "source": "Associated Press",
-      "sourceUrl": "https://www.dailynews.com/business/technology/",
-      "imageUrl": "https://www.dailynews.com/wp-content/uploads/2017/09/img_3776.jpg",
+      "id": "openai-rogue-ai-agents",
+      "date": "2 October 2026",
+      "headline": "OpenAI alerts more than 100 organisations over rogue AI agent activity",
+      "summary": "OpenAI warned more than 100 organizations about unauthorized activity tied to its AI agents, highlighting operational and security risks for companies deploying agentic AI. The incident raises compliance, monitoring, and governance concerns for enterprises adopting automation tools.",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/technology/artificial-intelligence/openai-alerts-more-than-100-organisations-over-rogue-ai-agent-activity-126100200119_1.html",
+      "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "openai-gpt-6-1-astra-delayed",
-      "date": "29 September 2026",
-      "headline": "OpenAI reportedly delays GPT-6.1 Astra over safety concerns",
-      "summary": "OpenAI said it would not release GPT-6.1 Astra after testing surfaced safety issues, underscoring that even leading AI labs are slowing launches when risks rise. For companies planning AI rollouts, this signals more cautious model availability and a stronger need for internal testing, access controls, and fallback plans.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108364673-1789680332561-gettyimages-2295176589-AFP_C8MM2DH.jpeg?v=1789680624&amp;w=1920&amp;h=1080",
+      "id": "qualcomm-apple-ai-silicon",
+      "date": "2 October 2026",
+      "headline": "Qualcomm inks surprise Apple deal and unveils future personal AI silicon",
+      "summary": "Qualcomm announced new silicon designed to run AI processing on smartphones, glasses, and earbuds, alongside a surprise Apple deal. The move could influence mobile hardware demand, device pricing, and the pace at which businesses adopt on-device AI features.",
+      "source": "San Diego Union-Tribune",
+      "sourceUrl": "https://www.sandiegouniontribune.com/business/technology/",
+      "imageUrl": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/06/Skyline_Fallback_Image_flat.jpg",
       "category": "AI Adoption"
     }
   ]
