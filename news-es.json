@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-04T12:59:53.864Z",
+  "lastUpdated": "2026-10-05T15:28:27.827Z",
   "articles": [
     {
-      "id": "micron-memory-tight-supply-2027",
-      "date": "2 October 2026",
-      "headline": "Micron warns memory supply will stay tight as AI demand drives prices higher",
-      "summary": "Micron said AI demand is keeping memory supply constrained and expects conditions to remain tight through 2027 and 2028. For businesses, this points to higher costs and longer lead times for servers, AI infrastructure, and other memory-dependent purchases, which can affect budgeting and deployment timelines.",
-      "source": "DIGITIMES",
-      "sourceUrl": "https://www.digitimes.com/topic/semiconductors/memory_chips/",
+      "id": "apple-macos-ai-access-controls",
+      "date": "5 October 2026",
+      "headline": "Apple aprieta el acceso total al disco en macOS por riesgos de agentes de IA",
+      "summary": "Apple está endureciendo los controles de Full Disk Access en macOS para reducir riesgos creados por aplicaciones y agentes de IA que acceden a archivos, correo, mensajes e historial sin suficiente transparencia. Para empresas, esto obliga a revisar permisos, políticas internas y posibles impactos en herramientas de productividad y seguridad en Mac.",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/search/label/artificial%20intelligence",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
+    {
+      "id": "comcast-business-cybersecurity-report-2026",
+      "date": "5 October 2026",
+      "headline": "Comcast Business: el aumento de la IA está presionando el panorama de amenazas cibernéticas",
+      "summary": "El nuevo informe de Comcast Business analiza 79.3 mil millones de eventos de ciberseguridad y concluye que la IA está intensificando el riesgo operativo para clientes empresariales. Esto importa a compañías y pymes porque refuerza la necesidad de inversión en detección, respuesta y gobierno de seguridad.",
+      "source": "Business Wire",
+      "sourceUrl": "https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "us-bans-chinese-data-center-gear",
-      "date": "1 October 2026",
-      "headline": "US moves to block Chinese data center gear in national security systems",
-      "summary": "US lawmakers introduced a bill to bar federal agencies from buying certain Chinese optical transceivers used in AI networks. This increases compliance and sourcing risk for firms that sell into government or critical infrastructure markets, while also signaling wider supply-chain scrutiny for networking hardware.",
-      "source": "Asia Times",
-      "sourceUrl": "https://asiatimes.com/2026/10/us-bans-chinese-data-center-gear-as-beijing-grounds-its-ai-talent/",
-      "imageUrl": "https://asiatimes.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-21.47.58.png",
-      "category": "Regulación"
-    },
-    {
-      "id": "ai-leaders-frontier-responsibilities",
-      "date": "1 October 2026",
-      "headline": "Top AI companies back new self-policing controls for frontier systems",
-      "summary": "Major AI firms agreed to stronger internal controls, external audits, and board-level oversight for frontier models. Businesses using or buying advanced AI should expect tighter governance expectations, more emphasis on safety controls, and possible knock-on effects for enterprise procurement and compliance.",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/2026/10/01/trump-ai-regulation-luncheon-huang-amodei-pichai-brockman-zuckerberg-musk-joint-committment-frontier-responsibilities/",
-      "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297778804-e1790868440881.jpg?resize=1200,600",
+      "id": "restricted-ai-chip-smuggling-china",
+      "date": "5 October 2026",
+      "headline": "Arrestan a un CEO de California por presunto contrabando de chips de IA restringidos a China",
+      "summary": "La acusación por el envío de más de 300 millones de dólares en chips de IA restringidos apunta a una mayor fricción geopolítica y de cumplimiento en la cadena de suministro de semiconductores. Para empresas que compran infraestructura de IA o dependen de hardware avanzado, esto puede implicar más controles, retrasos y riesgo regulatorio.",
+      "source": "New York Post",
+      "sourceUrl": "https://nypost.com/tech/",
+      "imageUrl": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
       "category": "Regulación"
     }
   ]

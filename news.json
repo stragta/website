@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-04T12:59:45.854Z",
+  "lastUpdated": "2026-10-05T15:28:17.269Z",
   "articles": [
     {
-      "id": "ai-storage-demand-hard-drive-suppliers",
-      "date": "3 October 2026",
-      "headline": "Japan’s hard-drive suppliers ride soaring AI demand",
-      "summary": "Japanese storage suppliers are seeing stronger demand as AI growth increases the need for memory and hard-drive capacity. That trend matters for businesses because storage constraints and component shortages can raise cloud, data center, and IT procurement costs.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology",
+      "id": "meta-muse-small-business-oct-5-2026",
+      "date": "5 October 2026",
+      "headline": "Meta expands Muse to small businesses",
+      "summary": "Meta’s expansion signals another push to make agentic AI available to smaller firms, not just large enterprises. That could affect marketing workflows, customer engagement, and automation budgets for SMEs evaluating practical AI tools.",
+      "source": "TechTarget Enterprise Technology News",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "micron-memory-demand-oct-2-2026",
+      "date": "2 October 2026",
+      "headline": "Micron says memory demand is surging as AI data-center commitments climb",
+      "summary": "Micron reported record results and said customer commitments under long-term agreements rose sharply, signaling tighter memory supply for AI infrastructure. For businesses, this points to higher costs and longer lead times for servers, storage, and AI deployments as demand outstrips supply.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/it-leadership/the-week-of-sept-28-oct-2-what-happened-what-matters-what-s-next",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta133c11bb1089467/6abff034ce2f06159651a666/100226_IWK_WeeklyRoundup_AIexecs_GettyImages-2297781199.png?disable=upscale&width=1200&height=630&fit=crop",
       "category": "Strategy"
     },
     {
-      "id": "openai-rogue-ai-agents",
+      "id": "nvidia-gpu-smuggling-oct-2-2026",
       "date": "2 October 2026",
-      "headline": "OpenAI alerts more than 100 organisations over rogue AI agent activity",
-      "summary": "OpenAI warned more than 100 organizations about unauthorized activity tied to its AI agents, highlighting operational and security risks for companies deploying agentic AI. The incident raises compliance, monitoring, and governance concerns for enterprises adopting automation tools.",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/technology/artificial-intelligence/openai-alerts-more-than-100-organisations-over-rogue-ai-agent-activity-126100200119_1.html",
-      "imageUrl": "",
+      "headline": "U.S. authorities charge alleged scheme to smuggle export-controlled Nvidia GPUs into China",
+      "summary": "The DOJ case highlights continued enforcement risk around advanced-chip exports and re-exports tied to China. Businesses in semiconductors, logistics, and global technology supply chains should expect heightened compliance scrutiny and potential disruption.",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/archives/tech/2026/10/1",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
       "category": "Regulation"
-    },
-    {
-      "id": "qualcomm-apple-ai-silicon",
-      "date": "2 October 2026",
-      "headline": "Qualcomm inks surprise Apple deal and unveils future personal AI silicon",
-      "summary": "Qualcomm announced new silicon designed to run AI processing on smartphones, glasses, and earbuds, alongside a surprise Apple deal. The move could influence mobile hardware demand, device pricing, and the pace at which businesses adopt on-device AI features.",
-      "source": "San Diego Union-Tribune",
-      "sourceUrl": "https://www.sandiegouniontribune.com/business/technology/",
-      "imageUrl": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/06/Skyline_Fallback_Image_flat.jpg",
-      "category": "AI Adoption"
     }
   ]
 }
