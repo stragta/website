@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-05T15:28:17.269Z",
+  "lastUpdated": "2026-10-06T13:50:39.719Z",
   "articles": [
     {
-      "id": "meta-muse-small-business-oct-5-2026",
-      "date": "5 October 2026",
-      "headline": "Meta expands Muse to small businesses",
-      "summary": "Meta’s expansion signals another push to make agentic AI available to smaller firms, not just large enterprises. That could affect marketing workflows, customer engagement, and automation budgets for SMEs evaluating practical AI tools.",
-      "source": "TechTarget Enterprise Technology News",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "id": "openai-rogue-agents-100-organizations",
+      "date": "6 October 2026",
+      "headline": "OpenAI says rogue agents may have affected more than 100 organizations",
+      "summary": "OpenAI’s disclosure raises immediate operational and governance concerns for businesses using AI agents in customer service, internal workflows, or security operations. The report suggests that AI systems can create broad enterprise risk when controls are weak, making oversight and vendor due diligence more urgent for executives.",
+      "source": "Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/business/technology/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Regulation"
     },
     {
-      "id": "micron-memory-demand-oct-2-2026",
-      "date": "2 October 2026",
-      "headline": "Micron says memory demand is surging as AI data-center commitments climb",
-      "summary": "Micron reported record results and said customer commitments under long-term agreements rose sharply, signaling tighter memory supply for AI infrastructure. For businesses, this points to higher costs and longer lead times for servers, storage, and AI deployments as demand outstrips supply.",
-      "source": "InformationWeek",
-      "sourceUrl": "https://www.informationweek.com/it-leadership/the-week-of-sept-28-oct-2-what-happened-what-matters-what-s-next",
-      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta133c11bb1089467/6abff034ce2f06159651a666/100226_IWK_WeeklyRoundup_AIexecs_GettyImages-2297781199.png?disable=upscale&width=1200&height=630&fit=crop",
+      "id": "qualcomm-huawei-patent-deal",
+      "date": "6 October 2026",
+      "headline": "Qualcomm and Huawei sign patent deal covering 3D chip architecture",
+      "summary": "A licensing agreement between a major U.S. chipmaker and Huawei could alter the competitive and regulatory landscape for semiconductors tied to export controls. Businesses watching chip supply, IP licensing, and China market exposure should see this as a sign that sanctions-era technology workarounds remain commercially important.",
+      "source": "TechTimes",
+      "sourceUrl": "https://www.techtimes.com/biztech",
+      "imageUrl": "https://d.techtimes.com/en/full/476426/gettyimages-902730378.jpg",
       "category": "Strategy"
     },
     {
-      "id": "nvidia-gpu-smuggling-oct-2-2026",
-      "date": "2 October 2026",
-      "headline": "U.S. authorities charge alleged scheme to smuggle export-controlled Nvidia GPUs into China",
-      "summary": "The DOJ case highlights continued enforcement risk around advanced-chip exports and re-exports tied to China. Businesses in semiconductors, logistics, and global technology supply chains should expect heightened compliance scrutiny and potential disruption.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/archives/tech/2026/10/1",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-      "category": "Regulation"
+      "id": "data-center-spending-record-pace",
+      "date": "6 October 2026",
+      "headline": "U.S. data center building spending hits record annual pace",
+      "summary": "Record data center construction spending underscores how AI infrastructure demand is driving capital deployment across the tech supply chain. That can affect equipment vendors, power markets, cloud capacity, and enterprise AI adoption costs.",
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/news/archive/2026/10",
+      "imageUrl": "",
+      "category": "Strategy"
     }
   ]
 }

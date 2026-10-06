@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-05T15:28:27.827Z",
+  "lastUpdated": "2026-10-06T13:50:49.947Z",
   "articles": [
     {
-      "id": "apple-macos-ai-access-controls",
+      "id": "japan-banks-cyber-vulnerabilities-2026-10-05",
       "date": "5 October 2026",
-      "headline": "Apple aprieta el acceso total al disco en macOS por riesgos de agentes de IA",
-      "summary": "Apple está endureciendo los controles de Full Disk Access en macOS para reducir riesgos creados por aplicaciones y agentes de IA que acceden a archivos, correo, mensajes e historial sin suficiente transparencia. Para empresas, esto obliga a revisar permisos, políticas internas y posibles impactos en herramientas de productividad y seguridad en Mac.",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/search/label/artificial%20intelligence",
+      "headline": "Japan banks uncover twice the vulnerabilities after Mythos AI release",
+      "summary": "Banks in Japan found a sharp increase in vulnerabilities linked to the release of Mythos AI, underscoring how AI adoption can expand attack surfaces in regulated industries. For financial institutions and other enterprises, the operational implication is stronger patching, vendor review, and incident-response readiness before deploying new AI tools.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "comcast-business-cybersecurity-report-2026",
+      "id": "infineon-thailand-fab-2026-10-05",
       "date": "5 October 2026",
-      "headline": "Comcast Business: el aumento de la IA está presionando el panorama de amenazas cibernéticas",
-      "summary": "El nuevo informe de Comcast Business analiza 79.3 mil millones de eventos de ciberseguridad y concluye que la IA está intensificando el riesgo operativo para clientes empresariales. Esto importa a compañías y pymes porque refuerza la necesidad de inversión en detección, respuesta y gobierno de seguridad.",
-      "source": "Business Wire",
-      "sourceUrl": "https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence",
+      "headline": "Infineon opens $1.4bn plant near Bangkok to serve EV and data-center demand",
+      "summary": "Infineon’s new factory in Thailand adds capacity for back-end chip products tied to electric vehicles and data centers, which can ease supply constraints for manufacturers and infrastructure buyers. This matters for businesses planning hardware procurement because it signals continued investment in regional chip capacity and supply-chain diversification.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/spotlight/supply-chain",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "restricted-ai-chip-smuggling-china",
-      "date": "5 October 2026",
-      "headline": "Arrestan a un CEO de California por presunto contrabando de chips de IA restringidos a China",
-      "summary": "La acusación por el envío de más de 300 millones de dólares en chips de IA restringidos apunta a una mayor fricción geopolítica y de cumplimiento en la cadena de suministro de semiconductores. Para empresas que compran infraestructura de IA o dependen de hardware avanzado, esto puede implicar más controles, retrasos y riesgo regulatorio.",
-      "source": "New York Post",
-      "sourceUrl": "https://nypost.com/tech/",
-      "imageUrl": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
-      "category": "Regulación"
+      "id": "nvidia-open-agent-safety-platform-2026-10-03",
+      "date": "3 October 2026",
+      "headline": "Nvidia launches Open Agent Safety Platform with broad industry support",
+      "summary": "Nvidia’s new agent-safety platform is aimed at monitoring and quarantining risky AI agents, which is directly relevant for firms deploying automation in customer service, operations, and internal workflows. The business impact is lower governance risk and a clearer path to safer agent adoption at scale.",
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg",
+      "category": "Automatización"
     }
   ]
 }
