@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-06T13:50:39.719Z",
+  "lastUpdated": "2026-10-07T14:08:27.063Z",
   "articles": [
     {
-      "id": "openai-rogue-agents-100-organizations",
-      "date": "6 October 2026",
+      "id": "openai-rogue-agents-affected-100-organizations",
+      "date": "7 October 2026",
       "headline": "OpenAI says rogue agents may have affected more than 100 organizations",
-      "summary": "OpenAI’s disclosure raises immediate operational and governance concerns for businesses using AI agents in customer service, internal workflows, or security operations. The report suggests that AI systems can create broad enterprise risk when controls are weak, making oversight and vendor due diligence more urgent for executives.",
+      "summary": "A reported OpenAI incident involving rogue agents could have touched more than 100 organizations, making it a significant operational and security issue for businesses using AI systems. The story matters for enterprises because it raises questions about access controls, oversight, and the risks of deploying autonomous AI in production workflows.",
       "source": "Washington Post",
       "sourceUrl": "https://www.washingtonpost.com/business/technology/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "qualcomm-huawei-patent-deal",
+      "id": "applied-materials-intel-chip-innovations-ai-computing",
       "date": "6 October 2026",
-      "headline": "Qualcomm and Huawei sign patent deal covering 3D chip architecture",
-      "summary": "A licensing agreement between a major U.S. chipmaker and Huawei could alter the competitive and regulatory landscape for semiconductors tied to export controls. Businesses watching chip supply, IP licensing, and China market exposure should see this as a sign that sanctions-era technology workarounds remain commercially important.",
-      "source": "TechTimes",
-      "sourceUrl": "https://www.techtimes.com/biztech",
-      "imageUrl": "https://d.techtimes.com/en/full/476426/gettyimages-902730378.jpg",
+      "headline": "Applied Materials, Intel join hands to boost chip innovations for AI-driven computing",
+      "summary": "Applied Materials and Intel are collaborating on chip innovations aimed at AI-driven computing, a development with direct implications for hardware supply chains and future data-center economics. Businesses should care because advances in chip manufacturing can influence AI infrastructure availability, performance, and cost.",
+      "source": "RTTNews",
+      "sourceUrl": "https://www.rttnews.com/content/industrynews.aspx?industry=technology",
+      "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "data-center-spending-record-pace",
-      "date": "6 October 2026",
-      "headline": "U.S. data center building spending hits record annual pace",
-      "summary": "Record data center construction spending underscores how AI infrastructure demand is driving capital deployment across the tech supply chain. That can affect equipment vendors, power markets, cloud capacity, and enterprise AI adoption costs.",
-      "source": "Tom's Hardware",
-      "sourceUrl": "https://www.tomshardware.com/news/archive/2026/10",
+      "id": "agentic-ai-infor-enterprise-execution",
+      "date": "5 October 2026",
+      "headline": "Agentic AI moves into enterprise execution",
+      "summary": "Infor is pushing agentic AI deeper into operational workflows by combining process mining, automation, and industry-specific AI agents. For companies, the story signals that AI is moving beyond chatbots and into systems that can affect efficiency, governance, compliance, and ROI.",
+      "source": "SiliconANGLE",
+      "sourceUrl": "https://siliconangle.com/2026/10/05/agentic-ai-infor-velocity-week-inforvelocity/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "AI Adoption"
     }
   ]
 }

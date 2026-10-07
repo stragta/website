@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-06T13:50:49.947Z",
+  "lastUpdated": "2026-10-07T14:08:33.833Z",
   "articles": [
     {
-      "id": "japan-banks-cyber-vulnerabilities-2026-10-05",
-      "date": "5 October 2026",
-      "headline": "Japan banks uncover twice the vulnerabilities after Mythos AI release",
-      "summary": "Banks in Japan found a sharp increase in vulnerabilities linked to the release of Mythos AI, underscoring how AI adoption can expand attack surfaces in regulated industries. For financial institutions and other enterprises, the operational implication is stronger patching, vendor review, and incident-response readiness before deploying new AI tools.",
+      "id": "anthropic-expanded-cyber-testing",
+      "date": "7 October 2026",
+      "headline": "Anthropic expands access to frontier AI models for cybersecurity testing",
+      "summary": "Anthropic is broadening vetted access to its advanced models for security researchers, signaling greater enterprise use in vulnerability discovery and defensive testing. That can help companies improve security workflows, but it also reflects rising concern that powerful AI can accelerate both defense and attack capabilities.",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/search/label/artificial%20intelligence",
+      "imageUrl": "",
+      "category": "Ciberseguridad"
+    },
+    {
+      "id": "ai-agent-protocol-enterprise",
+      "date": "6 October 2026",
+      "headline": "Meta, Walmart, Stripe and Sierra publish open standard for AI agents used by businesses",
+      "summary": "A new open standard aims to define how AI agents interact with businesses, which could shape procurement, integration, and governance choices for enterprises. If adopted broadly, it may reduce integration friction and help firms manage risks when deploying customer-facing or back-office agents.",
+      "source": "Gate",
+      "sourceUrl": "https://www.gate.com/news/insight/ai/ai-industry-news",
+      "imageUrl": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "tsmc-ai-spending-shift",
+      "date": "6 October 2026",
+      "headline": "TSMC and other Taiwan players boost AI spending in the U.S. and Southeast Asia",
+      "summary": "Supply-chain rebalancing around AI demand points to more investment outside Taiwan, with implications for capacity, procurement, and geographic risk management. Enterprises buying AI hardware or dependent on chips should expect continuing changes in lead times, pricing, and regional availability.",
       "source": "Nikkei Asia",
       "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "infineon-thailand-fab-2026-10-05",
-      "date": "5 October 2026",
-      "headline": "Infineon opens $1.4bn plant near Bangkok to serve EV and data-center demand",
-      "summary": "Infineon’s new factory in Thailand adds capacity for back-end chip products tied to electric vehicles and data centers, which can ease supply constraints for manufacturers and infrastructure buyers. This matters for businesses planning hardware procurement because it signals continued investment in regional chip capacity and supply-chain diversification.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/spotlight/supply-chain",
-      "imageUrl": "",
       "category": "Estrategia"
-    },
-    {
-      "id": "nvidia-open-agent-safety-platform-2026-10-03",
-      "date": "3 October 2026",
-      "headline": "Nvidia launches Open Agent Safety Platform with broad industry support",
-      "summary": "Nvidia’s new agent-safety platform is aimed at monitoring and quarantining risky AI agents, which is directly relevant for firms deploying automation in customer service, operations, and internal workflows. The business impact is lower governance risk and a clearer path to safer agent adoption at scale.",
-      "source": "Tom's Hardware",
-      "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg",
-      "category": "Automatización"
     }
   ]
 }
