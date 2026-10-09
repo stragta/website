@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-08T14:18:38.250Z",
+  "lastUpdated": "2026-10-09T14:03:18.210Z",
   "articles": [
     {
-      "id": "samsung-q3-ai-chip-boom",
-      "date": "8 October 2026",
-      "headline": "Samsung projects surge in Q3 operating income, sales on AI demand",
-      "summary": "Strong AI-related demand is boosting Samsung’s earnings outlook, underscoring how the AI buildout is shaping chip and memory markets. Businesses that depend on hardware supply, cloud infrastructure, or component pricing should watch for tighter supply and pricing power in the AI supply chain.",
+      "id": "samsung-q3-profit-ai-chip-boom",
+      "date": "9 October 2026",
+      "headline": "Samsung profit surges on AI chip boom",
+      "summary": "Samsung’s Q3 profit reportedly jumped nearly ninefold as the AI chip cycle boosted earnings, with memory workers expected to receive large performance bonuses. The result signals strong demand in AI-related chips and memory, which affects supplier pricing, investment plans, and competitive strategy across the tech supply chain.",
       "source": "Nikkei Asia",
       "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "ibm-sap-business-modernization-ai-readiness",
-      "date": "7 October 2026",
-      "headline": "IBM teams up with SAP to help businesses modernize operations and advance AI-readiness",
-      "summary": "This partnership is aimed at helping firms modernize core operations and prepare systems for AI adoption. It matters for companies weighing ERP upgrades, workflow automation, and the cost of integrating AI into existing business software.",
-      "source": "RTTNews",
-      "sourceUrl": "https://www.rttnews.com/content/industrynews.aspx?industry=technology",
+      "id": "ai-cyberattacks-south-korean-banks",
+      "date": "8 October 2026",
+      "headline": "AI tools identified in cyberattacks on South Korean banks",
+      "summary": "Nikkei reported that AI tools were identified as part of attacks on South Korean banks, though the links between incidents remain under investigation. The business impact is clear: financial institutions and other firms should treat AI-assisted attacks as a real operational and compliance risk, especially for identity, fraud, and incident-response controls.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Regulation"
     },
     {
-      "id": "google-data-centres-forest-clearance",
-      "date": "7 October 2026",
-      "headline": "Finland halts work at two planned Google data centres over forest clearance",
-      "summary": "The halt shows how permitting, environmental review, and local opposition can delay major data-centre builds. That has implications for cloud expansion plans, AI infrastructure timelines, and the cost and availability of compute for enterprise customers.",
-      "source": "RTTNews",
-      "sourceUrl": "https://www.rttnews.com/content/IndustryNews.aspx?Industry=Technology",
-      "imageUrl": "",
+      "id": "navitas-acquires-claros-ai-power-delivery",
+      "date": "6 October 2026",
+      "headline": "Navitas closes Claros acquisition to target AI data-center power bottlenecks",
+      "summary": "Navitas said the Claros acquisition expands its AI infrastructure power-delivery portfolio from the grid to the xPU, aimed at easing efficiency and power-density constraints in AI data centers. That matters for businesses because power delivery is becoming a hard limit on AI capacity, which can affect data-center buildouts, supplier demand, and the pace of AI deployment.",
+      "source": "Business Insider",
+      "sourceUrl": "https://markets.businessinsider.com/news/stocks/navitas-closes-acquisition-of-claros-advancing-ai-infrastructure-with-grid-to-xpu-power-delivery-1036602803",
+      "imageUrl": "https://ml.globenewswire.com/Resource/Download/4c66a6c1-105c-42e0-af65-9741a11caf02/image1.jpeg",
       "category": "Strategy"
     }
   ]
