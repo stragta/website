@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /formacion/pluspetrol/dashboard/
+Disallow: /formacion/pluspetrol/*.zip
 
 Sitemap: https://www.stragta.com/sitemap.xml

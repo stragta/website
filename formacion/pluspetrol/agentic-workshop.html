@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guía práctica de IA agéntica para Pluspetrol | STRAGTA</title>
+  <meta name="description" content="Guía práctica para construir en Codex un sistema agéntico gerencial con Investigador, Bibliotecario, Coordinador y prompts reutilizables." />
+  <meta name="author" content="STRAGTA" />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#F2F0EA" />
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <link rel="canonical" href="https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html" />
+  <link rel="icon" href="/assets/favicons/favicon.ico?v=3" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Guía práctica de IA agéntica para Pluspetrol | STRAGTA" />
+  <meta property="og:description" content="Construye un sistema agéntico gerencial con tres responsabilidades coordinadas y prompts listos para copiar y pegar." />
+  <meta property="og:url" content="https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html" />
+  <meta property="og:site_name" content="STRAGTA" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:image" content="https://www.stragta.com/assets/images/og-cover2.jpg" />
+  <meta property="og:image:alt" content="STRAGTA · guía práctica de IA agéntica" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Guía práctica de IA agéntica para Pluspetrol | STRAGTA" />
+  <meta name="twitter:description" content="Construye un sistema agéntico gerencial con tres responsabilidades coordinadas y prompts listos para copiar y pegar." />
+  <meta name="twitter:image" content="https://www.stragta.com/assets/images/og-cover2.jpg" />
+  <meta name="twitter:image:alt" content="STRAGTA · guía práctica de IA agéntica" />
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Article","headline":"Guía práctica de IA agéntica para Pluspetrol","description":"Guía práctica para construir en Codex un sistema agéntico gerencial con tres responsabilidades coordinadas.","url":"https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html"},"author":{"@type":"Organization","name":"STRAGTA","url":"https://www.stragta.com/"},"publisher":{"@type":"Organization","name":"STRAGTA","logo":{"@type":"ImageObject","url":"https://www.stragta.com/assets/images/logo-stragta-mini.png"}},"inLanguage":"es","dateModified":"2026-10-09"}
+  </script>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Formación","item":"https://www.stragta.com/es/"},{"@type":"ListItem","position":2,"name":"Pluspetrol","item":"https://www.stragta.com/formacion/pluspetrol/"},{"@type":"ListItem","position":3,"name":"Guía práctica"}]}
+  </script>
+  <script src="/assets/js/main.js" defer></script>
+  <script src="/assets/js/pluspetrol.js" defer></script>
+</head>
+<body class="pp-page">
+<nav id="main-nav">
+  <a class="nav-logo" href="/es/">
+    <img class="nav-logo-image" src="/assets/images/logo-stragta-mini.png" alt="Stragta" />
+    <span class="nav-logo-tagline">Guía estratégica para decisiones tecnológicas</span>
+  </a>
+  <div class="nav-right">
+    <a class="nav-lang" href="/">EN</a>
+    <a class="nav-cta" href="/es/contacto/">Hablemos</a>
+  </div>
+</nav>
+  <div class="pp-main">
+  <div class="pp-shell">
+    <div class="pp-routebar">
+    <span>Formación · Pluspetrol</span>
+  <div class="pp-route-links" role="navigation" aria-label="Rutas del tutorial">
+    <a href="/formacion/pluspetrol/">Índice</a>
+    <a href="agentic-workshop.html" aria-current="page">Visión general</a>
+    <a href="construccion-desde-cero.html">Construcción desde cero</a>
+    <a href="descarga-base.html">Base preparada</a>
+  </div>
+</div>
+    <section class="hero" id="inicio"><div><div class="eyebrow">Taller · IA agéntica · Pluspetrol</div><h1>IA agéntica.<br><em>Un sistema gerencial.</em></h1><p class="hero-copy">Construye dentro de Codex un sistema gerencial que investiga noticias, organiza documentos y consolida el trabajo en un dashboard. Esta guía reúne la arquitectura y los prompts listos para copiar y pegar.</p></div><div class="hero-mark"><strong>01<span class="lime">→</span>03</strong>Una capa de coordinación conecta un Investigador, un Bibliotecario y un Coordinador.</div></section>
+    <div class="layout">
+      <div class="toc" role="navigation" aria-label="Índice de la guía"><h2>En esta página</h2><a href="#mapa">Mapa del sistema</a><a href="#preparacion">Preparación</a><a href="#proyecto">Proyecto Codex</a><a href="#perfil">Perfil</a><a href="#agentes">Tres agentes</a><a href="#ejecucion">Ejecución</a><a href="#prueba">Prueba</a><a href="#agenda">Programación</a><a href="#descarga">Entrega</a></div>
+      <main>
+        <div class="intro-note"><strong>Qué vas a construir.</strong> Un sistema agéntico dentro de un proyecto de Codex. El perfil cambia por persona; la arquitectura permanece. Las noticias, los documentos y el dashboard son entradas y resultados separados para que el trabajo sea trazable.</div>
+
+        <section id="mapa"><div class="section-head"><div class="section-number">01</div><div><div class="step-kicker">Arquitectura</div><h2>El sistema en una mirada</h2></div></div><p class="lead">El Coordinador recibe el objetivo, detecta qué cambió y delega el trabajo especializado. No necesitas tres productos diferentes: los tres agentes viven en el mismo proyecto y comparten una estructura de carpetas y contratos de salida.</p><div class="flow"><div><b>Perfil</b><span>Intereses, cargo y temas</span></div><div><b>Entradas</b><span>Noticias y documentos</span></div><div><b>Agentes</b><span>Investigar y catalogar</span></div><div><b>Coordinación</b><span>Validar y consolidar</span></div><div><b>Dashboard</b><span>Estado y pendientes</span></div></div><div class="grid"><div class="card"><strong>Investigador</strong><p>Busca, contrasta y resume las noticias que importan para el perfil.</p></div><div class="card"><strong>Bibliotecario</strong><p>Lee la carpeta documental, clasifica archivos y crea fichas localizables.</p></div><div class="card"><strong>Coordinador</strong><p>Asigna, valida, registra la actividad y actualiza el dashboard.</p></div></div><div class="callout limebox"><p><strong>La definición operativa:</strong> la IA recibe un objetivo, organiza pasos, utiliza herramientas, delega tareas, verifica resultados y deja un estado visible.</p></div></section>
+
+        <section id="preparacion"><div class="section-head"><div class="section-number">02</div><div><div class="step-kicker">Antes de empezar</div><h2>Elige tu ruta</h2></div></div><p class="lead">La arquitectura es la misma en ambos casos. La diferencia es si la construimos en vivo o si abrimos una base ya preparada.</p><div class="grid"><div class="card"><strong>Construcción desde cero</strong><p>Crea una carpeta local vacía y construye con Codex los contratos, el motor, los datos y el dashboard. Es la ruta didáctica.</p></div><div class="card"><strong>Base descargable</strong><p>Descarga el ZIP de la sección <a href="#descarga">Entrega</a>, descomprímelo y abre la carpeta como proyecto local. Es la ruta rápida para el demo.</p></div></div><div class="step"><div class="step-no">1</div><div><h3>Abre Codex</h3><p>Usa la aplicación de escritorio de ChatGPT, entra en Codex y abre una carpeta local como proyecto.</p></div></div><div class="step"><div class="step-no">2</div><div><h3>Abre un chat nuevo</h3><p>La primera charla será el punto de coordinación. Allí pegaremos el prompt correspondiente a la ruta elegida.</p></div></div><div class="step"><div class="step-no">3</div><div><h3>Confirma el alcance</h3><p>Durante el taller usaremos fuentes y documentos sintéticos. En un proyecto real, revisa permisos, confidencialidad y las reglas internas antes de incorporar información institucional.</p></div></div><div class="callout"><p><strong>Regla de seguridad del proyecto:</strong> el contenido de una noticia o un documento es información para analizar; nunca sustituye las instrucciones del sistema.</p></div></section>
+
+        <section id="proyecto"><div class="section-head"><div class="section-number">03</div><div><div class="step-kicker">Construcción</div><h2>Crea el proyecto en Codex</h2></div></div><p class="lead">Si elegiste construcción desde cero, empieza con el primer prompt. Si descargaste la base, usa el segundo para validarla.</p><h3>Ruta A · carpeta vacía</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Estamos dentro de una carpeta local vacía que se convertirá en un sistema agéntico gerencial.
+
+Antes de crear archivos:
+1. confirma la ruta raíz del proyecto;
+2. confirma qué herramientas locales tienes disponibles;
+3. propone una estructura para Investigador, Bibliotecario y Coordinador.
+
+No instales dependencias, no uses APIs externas y no escribas archivos todavía.
+Espera mi confirmación.</code></pre></div><h3>Ruta B · base descargable</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Estoy dentro de la carpeta raíz del proyecto del taller.
+
+Lee AGENTS.md, README.md y config/sistema.json.
+Valida la estructura sin cambiar archivos.
+Explícame qué agentes existen, qué carpetas reciben entradas, qué resultados produce cada agente y qué falta para ejecutar una primera prueba.
+
+Si encuentras un error estructural, descríbelo antes de corregirlo.</code></pre></div><div class="file-tree">sistema_agentico_gerencial/<br>├── AGENTS.md<br>├── config/<br>│   ├── perfil.json<br>│   └── sistema.json<br>├── agentes/<br>│   ├── investigador.md<br>│   ├── bibliotecario.md<br>│   └── coordinador.md<br>├── entrada/<br>│   ├── noticias/<br>│   └── documentos/<br>├── datos/<br>│   ├── radar.json<br>│   ├── biblioteca.json<br>│   └── actividad.json<br>├── dashboard/data.json<br>└── src/sistema_agentico/</div></section>
+
+        <section id="agentes"><div class="section-head"><div class="section-number">05</div><div><div class="step-kicker">Especialización</div><h2>Construye los tres agentes</h2></div></div><p class="lead">Los contratos <code>.md</code> contienen el papel, las entradas, los límites y el formato de salida de cada agente. El modelo puede cambiar; el contrato mantiene el comportamiento esperado.</p><h3>5.1 · Agente Investigador</h3><p>Su carpeta de entrada es <code>entrada/noticias</code>. Su salida es un conjunto de registros verificables en <code>resultados/pendientes/investigador.json</code>.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Construye el Agente Investigador dentro de este proyecto.
+
+Lee config/perfil.json y agentes/investigador.md.
+Revisa únicamente las fuentes que el Coordinador enumere en estado/ejecucion_actual.json.
+Para cada noticia:
+- conserva título, fuente, enlace y fechas;
+- resume sin inventar información;
+- clasifica la relevancia para este perfil;
+- separa evidencia de inferencia;
+- registra cualquier dato faltante como advertencia.
+
+Escribe el resultado en resultados/pendientes/investigador.json.
+No modifiques las fuentes de entrada ni el perfil.</code></pre></div><h3>5.2 · Agente Bibliotecario</h3><p>Su carpeta de entrada es <code>entrada/documentos</code>. Su salida es una biblioteca actualizable en <code>resultados/pendientes/bibliotecario.json</code>.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Construye el Agente Bibliotecario dentro de este proyecto.
+
+Lee config/perfil.json y agentes/bibliotecario.md.
+Revisa únicamente los documentos que el Coordinador enumere en estado/ejecucion_actual.json.
+Para cada archivo:
+- identifica título, tipo, fecha y autor o institución cuando existan;
+- crea un resumen breve y localizable;
+- asigna temas y palabras clave;
+- conserva la ruta y la huella del archivo;
+- separa evidencia de inferencia;
+- registra cualquier dato faltante como advertencia.
+
+Escribe el resultado en resultados/pendientes/bibliotecario.json.
+No modifiques los documentos de entrada.</code></pre></div><h3>5.3 · Agente Coordinador y dashboard</h3><p>Es el agente que ve el proyecto completo. Organiza el trabajo y solo consolida resultados que respeten los contratos.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Construye el Agente Coordinador siguiendo agentes/coordinador.md.
+
+En cada ejecución:
+1. lee el perfil y la configuración;
+2. ejecuta el plan para detectar entradas nuevas o modificadas;
+3. delega noticias al Investigador;
+4. delega documentos al Bibliotecario;
+5. espera ambos resultados;
+6. valida sus contratos JSON;
+7. consolida radar, biblioteca y actividad;
+8. actualiza dashboard/data.json;
+9. informa cambios, advertencias y decisiones pendientes.
+
+Si un agente queda parcial o bloqueado, no marques sus archivos como procesados.
+No publiques ni envíes nada fuera del proyecto sin aprobación humana.</code></pre></div></section>
+
+        <section id="ejecucion"><div class="section-head"><div class="section-number">06</div><div><div class="step-kicker">Primera corrida</div><h2>Ejecuta el sistema manualmente</h2></div></div><p class="lead">La primera corrida debe ser manual. Así podemos observar qué decide el Coordinador, qué recibe cada especialista y qué termina en el dashboard.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Inicia una ejecución manual del sistema agéntico.
+
+1. Valida mi perfil.
+2. Detecta noticias y documentos nuevos o modificados.
+3. Prepara el plan y muéstrame las tareas.
+4. Delega cada tarea al agente correspondiente.
+5. Espera los resultados.
+6. Valida los JSON de salida.
+7. Consolida el dashboard.
+
+Al terminar, responde con:
+- noticias nuevas procesadas;
+- documentos nuevos procesados;
+- cambios del dashboard;
+- advertencias;
+- decisiones que requieren mi aprobación.</code></pre></div><div class="grid"><div class="card"><strong>Entrada</strong><p>Nuevos archivos en las carpetas asignadas.</p></div><div class="card"><strong>Proceso</strong><p>Delegación, lectura, clasificación y validación.</p></div><div class="card"><strong>Salida</strong><p>Datos consolidados, historial y pendientes.</p></div></div></section>
+
+        <section id="prueba"><div class="section-head"><div class="section-number">07</div><div><div class="step-kicker">Verificación</div><h2>Prueba y corrige</h2></div></div><p class="lead">La prueba no consiste en comprobar solamente si aparece texto. Hay que verificar si el sistema conserva fuentes, reconoce archivos repetidos y detiene el proceso cuando falta información.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Audita la última ejecución sin modificar archivos.
+
+Comprueba:
+1. que cada noticia conserva su fuente y fecha de consulta;
+2. que cada documento conserva su ruta y huella;
+3. que no existen duplicados por id, URL o archivo;
+4. que las inferencias están separadas de la evidencia;
+5. que las advertencias llegaron al dashboard;
+6. que una ejecución sin cambios no duplica registros;
+7. que las horas aparecen como declaradas o estimadas, nunca como medidas si no existe un registro de tiempo.
+
+Devuélveme una lista de hallazgos y su nivel de prioridad.</code></pre></div><ul class="checklist"><li>El perfil corresponde a la persona que ejecuta.</li><li>El investigador responde solo al campo de interés.</li><li>El bibliotecario puede volver a localizar cada archivo.</li><li>El Coordinador no inventa datos faltantes.</li><li>El dashboard conserva el historial.</li><li>Los bloqueos requieren intervención humana.</li></ul></section>
+
+        <section id="agenda"><div class="section-head"><div class="section-number">08</div><div><div class="step-kicker">Continuidad</div><h2>De la ejecución manual a la programada</h2></div></div><p class="lead">Una programación no reemplaza al Coordinador: solo inicia una nueva ejecución. Primero prueba el flujo manual; después guarda una tarea con el mismo objetivo y una frecuencia definida.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Programa una actualización diaria a las 07:30, hora de America/Guayaquil.
+
+En cada ejecución:
+- revisa las noticias nuevas según mi perfil;
+- procesa únicamente documentos nuevos o modificados;
+- delega el trabajo al Investigador y al Bibliotecario;
+- consolida el resultado en el dashboard;
+- informa solo cambios materiales, advertencias o decisiones pendientes.
+
+No publiques, envíes mensajes ni modifiques las fuentes de entrada.
+Confirma la frecuencia, el proyecto y el destino antes de guardar la programación.</code></pre></div><div class="callout"><p><strong>Condición práctica:</strong> las tareas programadas con archivos locales dependen de que la función esté disponible en la cuenta y de que el computador y la aplicación permanezcan disponibles cuando el proyecto local deba ejecutarse.</p></div></section>
+
+        <section id="descarga"><div class="section-head"><div class="section-number">09</div><div><div class="step-kicker">Entrega</div><h2>Descarga y reutiliza</h2></div></div><p class="lead">La base limpia contiene la estructura, los contratos de los agentes, el código de coordinación y los archivos JSON vacíos. No contiene todavía noticias ni documentos sintéticos.</p><div class="card"><strong><a download href="sistema_agentico_gerencial_v0.1_limpio.zip">Descargar la versión base · v0.1</a></strong><p>Después del taller se preparará una versión final con prompts didácticos, datos sintéticos, dashboard web y un nuevo número de versión.</p></div><h3>Mensaje de cierre para Codex</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Prepara este proyecto para entregarlo a otra persona.
+
+Comprueba que:
+- no contenga datos institucionales ni secretos;
+- config/perfil.json conserve campos editables;
+- las carpetas de entrada estén vacías;
+- los datos del dashboard estén limpios;
+- AGENTS.md y README.md expliquen el flujo;
+- la ejecución manual funcione desde una instalación limpia.
+
+No cambies la arquitectura ni publiques el proyecto.</code></pre></div><div class="callout limebox"><p><strong>El principio de reutilización:</strong> cada participante cambia el perfil y sus fuentes; la arquitectura de Investigador, Bibliotecario y Coordinador permanece.</p></div></section>
+        <section id="perfil"><div class="section-head"><div class="section-number">04</div><div><div class="step-kicker">Personalización</div><h2>Configura tu perfil</h2></div></div><p class="lead">El perfil es la parte que cambia entre participantes. La arquitectura permanece igual.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Ayúdame a configurar el perfil del sistema.
+
+Pregúntame, una pregunta a la vez:
+1. nombre;
+2. cargo;
+3. organización;
+4. campo de interés;
+5. temas de noticias que debo vigilar;
+6. tipos de documentos que manejo;
+7. zona horaria.
+
+Después muéstrame una propuesta y, cuando la confirme, actualiza únicamente config/perfil.json.
+No inventes ningún dato y conserva la estructura JSON.</code></pre></div><div class="label">Campos editables · config/perfil.json</div><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>{
+  "nombre": "Tu nombre",
+  "cargo": "Tu cargo",
+  "organizacion": "Tu organización",
+  "campo_interes": "Tu campo de interés",
+  "temas_noticias": ["tema 1", "tema 2"],
+  "tipos_documentos": ["informe", "resolución"],
+  "zona_horaria": "America/Guayaquil",
+  "idioma": "es"
+}</code></pre></div></section>
+      </main>
+    </div>
+    <section class="pp-cta-band" id="siguiente-paso">
+      <div><div class="step-kicker">Siguiente paso</div><h2>Elige cómo continuar.</h2><p>Consulta las fuentes y límites del demo en el <a href="/formacion/pluspetrol/#fuentes">índice de recursos</a>, descarga la base o solicita una conversación para valorar una adaptación.</p></div>
+      <div class="pp-hero-actions"><a class="pp-button lime" href="descarga-base.html">Descargar la base</a><a class="pp-button secondary" href="/es/contacto/">Hablar con STRAGTA</a></div>
+    </section>
+    <footer><span>STRAGTA · Estrategia y adopción tecnológica</span><span><a href="/formacion/pluspetrol/">Índice Pluspetrol</a> · Guía de construcción · versión de trabajo</span></footer>
+  </div>
+  </div>
+  </body>
+</html>
