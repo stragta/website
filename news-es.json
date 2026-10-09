@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-28T14:51:15.906Z",
+  "lastUpdated": "2026-10-09T14:03:27.341Z",
   "articles": [
     {
-      "id": "shinyhunters-expands-attacks-on-oracle-peoplesoft",
-      "date": "26 September 2026",
-      "headline": "ShinyHunters amplía ataques contra Oracle PeopleSoft, según Google",
-      "summary": "La campaña de explotación masiva sobre un software empresarial ampliamente usado eleva el riesgo operativo para organizaciones con sistemas heredados o mal parcheados. Para CIOs y responsables de TI, esto refuerza la necesidad de acelerar actualizaciones, segmentación y respuesta a incidentes en plataformas críticas de RR. HH. y finanzas.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "openai-safety-researchers-dispute",
+      "date": "8 October 2026",
+      "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "This dispute is relevant for business leaders because it raises questions about governance, talent retention, and the reliability of AI safety oversight at major vendors. Companies depending on frontier models may face higher vendor-risk scrutiny and reputational risk if safety governance remains unstable.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "wall-street-ends-higher-as-investors-buy-ai-stocks",
-      "date": "25 September 2026",
-      "headline": "Wall Street ends higher as investors buy AI stocks",
-      "summary": "Las acciones tecnológicas ligadas a IA impulsaron el mercado al alza, una señal relevante para directivos que evalúan inversión en software, cloud y semiconductores. El movimiento sugiere que sigue habiendo apetito por gasto en infraestructura de IA, aunque los costes energéticos y de tipos siguen siendo un riesgo para presupuestos empresariales.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25/",
+      "id": "spotify-enterprise-software",
+      "date": "8 October 2026",
+      "headline": "Spotify is getting more serious about selling enterprise software",
+      "summary": "Spotify is formalizing its enterprise and developer-tools business, which signals another consumer-tech company monetizing internal platforms for external corporate customers. For buyers, that can expand tool options but also means evaluating a newer vendor’s support, security, and integration maturity.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "white-house-asks-openai-anthropic-hold-ai-models-uk-testers",
-      "date": "25 September 2026",
-      "headline": "La Casa Blanca pide a OpenAI y Anthropic que retengan modelos de IA para testers del Reino Unido",
-      "summary": "La petición refleja un mayor escrutinio geopolítico y de seguridad sobre modelos avanzados, con posibles retrasos en despliegues y pruebas internacionales. Para empresas que compran o integran IA, esto eleva el riesgo regulatorio y puede afectar calendarios de adopción, cumplimiento y acceso a nuevas capacidades.",
-      "source": "Forward Future",
-      "sourceUrl": "https://forwardfuture.com/newsletter/daily/2026-09-25/ai-security-reviews-google-s-space-chips-gemini-calls",
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/feb0161f-5512-4149-b37e-86a6976fb686/6a72458a3f00ff875d13c9b1.jpg?t=1790291335",
+      "id": "uk-public-sector-ai-contracts",
+      "date": "8 October 2026",
+      "headline": "A sweep of 2,008 UK public-sector AI contracts finds £1.83bn of award value",
+      "summary": "The contract data shows large-scale government demand for AI, with US-owned companies capturing a disproportionate share of spending. For firms selling into regulated sectors, this is a strong indicator of where procurement demand and compliance expectations are heading.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
+      "imageUrl": "",
       "category": "Regulación"
     }
   ]

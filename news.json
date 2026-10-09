@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-28T14:51:08.608Z",
+  "lastUpdated": "2026-10-09T14:03:18.210Z",
   "articles": [
     {
-      "id": "meta-muse-security-warning",
-      "date": "26 September 2026",
-      "headline": "Meta adds clearer safety warning after vulnerability in AI agent Muse",
-      "summary": "Meta is adding a clearer warning inside Muse after a security researcher found a vulnerability that could expose sensitive personal information. For businesses adopting AI assistants, this underscores rising operational and compliance risk around data handling, user safety, and secure deployment.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "samsung-q3-profit-ai-chip-boom",
+      "date": "9 October 2026",
+      "headline": "Samsung profit surges on AI chip boom",
+      "summary": "Samsung’s Q3 profit reportedly jumped nearly ninefold as the AI chip cycle boosted earnings, with memory workers expected to receive large performance bonuses. The result signals strong demand in AI-related chips and memory, which affects supplier pricing, investment plans, and competitive strategy across the tech supply chain.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "ai-cyberattacks-south-korean-banks",
+      "date": "8 October 2026",
+      "headline": "AI tools identified in cyberattacks on South Korean banks",
+      "summary": "Nikkei reported that AI tools were identified as part of attacks on South Korean banks, though the links between incidents remain under investigation. The business impact is clear: financial institutions and other firms should treat AI-assisted attacks as a real operational and compliance risk, especially for identity, fraud, and incident-response controls.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "openai-gpt6-cyber-preview",
-      "date": "26 September 2026",
-      "headline": "OpenAI reportedly preparing cybersecurity-focused GPT-6 Cyber preview",
-      "summary": "OpenAI is set to preview a cybersecurity-focused model and launch a product to help customers deploy it more securely and automatically. That could matter for enterprises facing mounting cyber risk, because it suggests stronger demand for AI security tooling and safer automation workflows.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Automation"
-    },
-    {
-      "id": "akami-anthropic-ai-infrastructure-deal",
-      "date": "25 September 2026",
-      "headline": "Akamai jumps on AI infrastructure deal tied to Anthropic",
-      "summary": "Akamai stock surged after news of a major AI infrastructure deal with Anthropic that appears to rely on AI accelerators other than Nvidia GPUs. The story matters to businesses because it points to changing compute economics, supplier mix, and pricing pressure across AI infrastructure.",
-      "source": "Investor's Business Daily",
-      "sourceUrl": "https://www.investors.com/category/news/technology/",
-      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "id": "navitas-acquires-claros-ai-power-delivery",
+      "date": "6 October 2026",
+      "headline": "Navitas closes Claros acquisition to target AI data-center power bottlenecks",
+      "summary": "Navitas said the Claros acquisition expands its AI infrastructure power-delivery portfolio from the grid to the xPU, aimed at easing efficiency and power-density constraints in AI data centers. That matters for businesses because power delivery is becoming a hard limit on AI capacity, which can affect data-center buildouts, supplier demand, and the pace of AI deployment.",
+      "source": "Business Insider",
+      "sourceUrl": "https://markets.businessinsider.com/news/stocks/navitas-closes-acquisition-of-claros-advancing-ai-infrastructure-with-grid-to-xpu-power-delivery-1036602803",
+      "imageUrl": "https://ml.globenewswire.com/Resource/Download/4c66a6c1-105c-42e0-af65-9741a11caf02/image1.jpeg",
       "category": "Strategy"
     }
   ]
