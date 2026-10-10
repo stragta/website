@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-09T14:03:27.341Z",
+  "lastUpdated": "2026-10-10T13:12:57.903Z",
   "articles": [
     {
-      "id": "openai-safety-researchers-dispute",
-      "date": "8 October 2026",
-      "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "This dispute is relevant for business leaders because it raises questions about governance, talent retention, and the reliability of AI safety oversight at major vendors. Companies depending on frontier models may face higher vendor-risk scrutiny and reputational risk if safety governance remains unstable.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/",
+      "id": "anthropic-white-house-ai-reporting",
+      "date": "10 October 2026",
+      "headline": "Anthropic incidents trigger White House push for AI incident reporting",
+      "summary": "The White House is moving toward mandatory notification and correction of AI security incidents after recent Anthropic-related breaches, which raises compliance and governance pressure for AI vendors and enterprise adopters. For businesses, this could translate into tighter reporting obligations, stricter procurement checks, and higher operational risk for any firm deploying AI into sensitive workflows.",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/technology/2026/10/10",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "spotify-enterprise-software",
-      "date": "8 October 2026",
-      "headline": "Spotify is getting more serious about selling enterprise software",
-      "summary": "Spotify is formalizing its enterprise and developer-tools business, which signals another consumer-tech company monetizing internal platforms for external corporate customers. For buyers, that can expand tool options but also means evaluating a newer vendor’s support, security, and integration maturity.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "id": "ai-borrowing-binge-rattles-us-markets",
+      "date": "10 October 2026",
+      "headline": "AI infrastructure spending is driving an unprecedented corporate borrowing boom",
+      "summary": "Large technology firms have reportedly borrowed around $500 billion since January to fund AI infrastructure, making AI a major force in corporate bond issuance and market pricing. That matters for business leaders because it can affect capital availability, cloud and AI pricing, and the risk profile of vendors building out data centers and model capacity.",
+      "source": "Ground News",
+      "sourceUrl": "https://ground.news/article/ai-borrowing-binge-rattles-us-markets_ff4574",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "uk-public-sector-ai-contracts",
-      "date": "8 October 2026",
-      "headline": "A sweep of 2,008 UK public-sector AI contracts finds £1.83bn of award value",
-      "summary": "The contract data shows large-scale government demand for AI, with US-owned companies capturing a disproportionate share of spending. For firms selling into regulated sectors, this is a strong indicator of where procurement demand and compliance expectations are heading.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
-      "imageUrl": "",
-      "category": "Regulación"
+      "id": "samsung-memory-margins-ai-demand",
+      "date": "9 October 2026",
+      "headline": "Samsung memory margins surge as AI demand keeps DRAM and NAND prices elevated",
+      "summary": "Rising HBM demand and tighter commodity memory supply are pushing memory prices sharply higher, which can lift costs for servers, AI infrastructure, and device manufacturing. For enterprises, this points to continued pressure on hardware budgets and a strong market backdrop for suppliers tied to AI infrastructure.",
+      "source": "Sedaily",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/10/09/samsung-memory-margins-top-nvidia-as-profit-outlook-soars",
+      "imageUrl": "https://wimg.sedaily.com/news/cms/2026/10/09/news-p.v1.20260805.900fd9d01b9e4e3c8a388e8b63839ce0_P1.jpg",
+      "category": "Estrategia"
     }
   ]
 }

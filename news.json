@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-09T14:03:18.210Z",
+  "lastUpdated": "2026-10-10T13:12:50.079Z",
   "articles": [
     {
-      "id": "samsung-q3-profit-ai-chip-boom",
-      "date": "9 October 2026",
-      "headline": "Samsung profit surges on AI chip boom",
-      "summary": "Samsung’s Q3 profit reportedly jumped nearly ninefold as the AI chip cycle boosted earnings, with memory workers expected to receive large performance bonuses. The result signals strong demand in AI-related chips and memory, which affects supplier pricing, investment plans, and competitive strategy across the tech supply chain.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "ai-cyberattacks-south-korean-banks",
+      "id": "google-agentic-ai-gemini-business",
       "date": "8 October 2026",
-      "headline": "AI tools identified in cyberattacks on South Korean banks",
-      "summary": "Nikkei reported that AI tools were identified as part of attacks on South Korean banks, though the links between incidents remain under investigation. The business impact is clear: financial institutions and other firms should treat AI-assisted attacks as a real operational and compliance risk, especially for identity, fraud, and incident-response controls.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology",
+      "headline": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google is rolling out agentic AI capabilities in Gemini with an initial focus on business users, which could accelerate workflow automation and change how companies deploy AI across teams. For executives, the key implication is faster adoption of AI assistants that can potentially reduce labor time in routine knowledge work and increase pressure to prove ROI on software spend.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "AI Adoption"
     },
     {
-      "id": "navitas-acquires-claros-ai-power-delivery",
-      "date": "6 October 2026",
-      "headline": "Navitas closes Claros acquisition to target AI data-center power bottlenecks",
-      "summary": "Navitas said the Claros acquisition expands its AI infrastructure power-delivery portfolio from the grid to the xPU, aimed at easing efficiency and power-density constraints in AI data centers. That matters for businesses because power delivery is becoming a hard limit on AI capacity, which can affect data-center buildouts, supplier demand, and the pace of AI deployment.",
-      "source": "Business Insider",
-      "sourceUrl": "https://markets.businessinsider.com/news/stocks/navitas-closes-acquisition-of-claros-advancing-ai-infrastructure-with-grid-to-xpu-power-delivery-1036602803",
-      "imageUrl": "https://ml.globenewswire.com/Resource/Download/4c66a6c1-105c-42e0-af65-9741a11caf02/image1.jpeg",
+      "id": "tsmc-september-revenue-ai-demand",
+      "date": "8 October 2026",
+      "headline": "TSMC reports strong September revenue as AI demand keeps chip sales elevated",
+      "summary": "TSMC said September revenue rose sharply year over year, reinforcing that AI infrastructure demand is still supporting chip manufacturing volumes. For businesses, this points to continued tightness and strategic importance in the semiconductor supply chain, especially for companies exposed to data center buildouts, AI hardware demand, and advanced-node capacity.",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com/tech/",
+      "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "atlassian-forward-deployed-engineering",
+      "date": "7 October 2026",
+      "headline": "Atlassian launches Forward Deployed Engineering for enterprise AI deployment",
+      "summary": "Atlassian’s new program embeds senior AI engineers into customer environments to turn AI pilots into production workflows, a sign that vendors are moving from experimentation to implementation support. This matters for businesses because it can shorten deployment timelines for automation, but it also signals higher expectations for governance, customization, and measurable productivity gains.",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://au.finance.yahoo.com/news/atlassian-launches-forward-deployed-engineering-073000757.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/6ee947ed08ac02c1c7ea2bd1f72f3fe650ee225917431cbcd276cfc6c206b021/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F2f9897f2fdddc995c4dda1a67c2fcff9.jpg",
+      "category": "AI Adoption"
     }
   ]
 }
