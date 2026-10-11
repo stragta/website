@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-10T13:12:57.903Z",
+  "lastUpdated": "2026-10-11T13:43:02.554Z",
   "articles": [
     {
-      "id": "anthropic-white-house-ai-reporting",
+      "id": "us-green-card-freeze-it-adobe",
       "date": "10 October 2026",
-      "headline": "Anthropic incidents trigger White House push for AI incident reporting",
-      "summary": "The White House is moving toward mandatory notification and correction of AI security incidents after recent Anthropic-related breaches, which raises compliance and governance pressure for AI vendors and enterprise adopters. For businesses, this could translate into tighter reporting obligations, stricter procurement checks, and higher operational risk for any firm deploying AI into sensitive workflows.",
-      "source": "Axios",
-      "sourceUrl": "https://www.axios.com/technology/2026/10/10",
+      "headline": "US freezes green-card program for Microsoft, IT outsourcers and Adobe amid fraud crackdown",
+      "summary": "The US suspended key green-card access for major tech and IT employers while widening probes into universities. This could affect talent pipelines, hiring plans, and compliance strategy for companies that rely on imported technical labor or offshore IT services.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "ai-borrowing-binge-rattles-us-markets",
-      "date": "10 October 2026",
-      "headline": "AI infrastructure spending is driving an unprecedented corporate borrowing boom",
-      "summary": "Large technology firms have reportedly borrowed around $500 billion since January to fund AI infrastructure, making AI a major force in corporate bond issuance and market pricing. That matters for business leaders because it can affect capital availability, cloud and AI pricing, and the risk profile of vendors building out data centers and model capacity.",
-      "source": "Ground News",
-      "sourceUrl": "https://ground.news/article/ai-borrowing-binge-rattles-us-markets_ff4574",
+      "id": "samsung-ai-memory-boom",
+      "date": "8 October 2026",
+      "headline": "Samsung flags record profit on AI memory boom as chip shortage deepens",
+      "summary": "Samsung projected a massive quarterly profit jump, driven by strong demand for AI chips and memory. For businesses, this signals tighter supply and higher prices for DRAM, NAND, and HBM, which can raise costs for servers, cloud infrastructure, and AI deployments.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "samsung-memory-margins-ai-demand",
-      "date": "9 October 2026",
-      "headline": "Samsung memory margins surge as AI demand keeps DRAM and NAND prices elevated",
-      "summary": "Rising HBM demand and tighter commodity memory supply are pushing memory prices sharply higher, which can lift costs for servers, AI infrastructure, and device manufacturing. For enterprises, this points to continued pressure on hardware budgets and a strong market backdrop for suppliers tied to AI infrastructure.",
-      "source": "Sedaily",
-      "sourceUrl": "https://en.sedaily.com/finance/2026/10/09/samsung-memory-margins-top-nvidia-as-profit-outlook-soars",
-      "imageUrl": "https://wimg.sedaily.com/news/cms/2026/10/09/news-p.v1.20260805.900fd9d01b9e4e3c8a388e8b63839ce0_P1.jpg",
+      "id": "us-software-stocks-ai-disruption-fade",
+      "date": "8 October 2026",
+      "headline": "US software stocks hit fresh 2026 highs as AI-disruption fears ease",
+      "summary": "Software shares rose as analysts kept raising earnings expectations and argued that fears of immediate AI disruption were overstated. For business buyers, this suggests enterprise software vendors may retain pricing power while cybersecurity remains a priority spend area.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06/",
+      "imageUrl": "",
       "category": "Estrategia"
     }
   ]

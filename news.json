@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-10T13:12:50.079Z",
+  "lastUpdated": "2026-10-11T13:42:53.976Z",
   "articles": [
     {
-      "id": "google-agentic-ai-gemini-business",
-      "date": "8 October 2026",
-      "headline": "Google brings agentic AI to Gemini, starting with businesses",
-      "summary": "Google is rolling out agentic AI capabilities in Gemini with an initial focus on business users, which could accelerate workflow automation and change how companies deploy AI across teams. For executives, the key implication is faster adoption of AI assistants that can potentially reduce labor time in routine knowledge work and increase pressure to prove ROI on software spend.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/",
+      "id": "absolute-security-uefi-acquisition",
+      "date": "11 October 2026",
+      "headline": "Absolute Security acquires Phoenix Technologies’ FirmGuard to expand firmware security",
+      "summary": "The acquisition extends security coverage deeper into UEFI BIOS firmware, an area that can be difficult for businesses to monitor but critical for device integrity. This matters for organizations managing fleets of laptops and endpoints because firmware-level attacks can bypass conventional defenses and raise recovery costs.",
+      "source": "Business Wire",
+      "sourceUrl": "https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Automation"
     },
     {
-      "id": "tsmc-september-revenue-ai-demand",
-      "date": "8 October 2026",
-      "headline": "TSMC reports strong September revenue as AI demand keeps chip sales elevated",
-      "summary": "TSMC said September revenue rose sharply year over year, reinforcing that AI infrastructure demand is still supporting chip manufacturing volumes. For businesses, this points to continued tightness and strategic importance in the semiconductor supply chain, especially for companies exposed to data center buildouts, AI hardware demand, and advanced-node capacity.",
-      "source": "DIGITIMES",
-      "sourceUrl": "https://www.digitimes.com/tech/",
-      "imageUrl": "",
+      "id": "openai-revenue-chip-stocks",
+      "date": "10 October 2026",
+      "headline": "AI revenue questions pull semiconductor stocks off October highs",
+      "summary": "Reports that OpenAI’s annualized revenue was below prior expectations weakened sentiment across chip stocks, showing how AI spending assumptions can move semiconductor valuations. The piece matters for businesses because it signals that AI infrastructure demand, and the related supply chain for chips and cloud capacity, may be more volatile than investors expected.",
+      "source": "Finance Yahoo",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/226aebdca8a5e266c5c827d301b92b9cf158af9ccfae5d5c54162da204a3e625/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2Fd6e0868284cf3fd98944fe83c8676d9d.png",
       "category": "Strategy"
     },
     {
-      "id": "atlassian-forward-deployed-engineering",
-      "date": "7 October 2026",
-      "headline": "Atlassian launches Forward Deployed Engineering for enterprise AI deployment",
-      "summary": "Atlassian’s new program embeds senior AI engineers into customer environments to turn AI pilots into production workflows, a sign that vendors are moving from experimentation to implementation support. This matters for businesses because it can shorten deployment timelines for automation, but it also signals higher expectations for governance, customization, and measurable productivity gains.",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://au.finance.yahoo.com/news/atlassian-launches-forward-deployed-engineering-073000757.html",
-      "imageUrl": "https://s.yimg.com/lo/mysterio/api/6ee947ed08ac02c1c7ea2bd1f72f3fe650ee225917431cbcd276cfc6c206b021/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2F2f9897f2fdddc995c4dda1a67c2fcff9.jpg",
-      "category": "AI Adoption"
+      "id": "samsung-sk-hynix-ai-demand",
+      "date": "10 October 2026",
+      "headline": "Samsung, SK Hynix record earnings fuel South Korea spending on AI",
+      "summary": "Coverage of record earnings from Samsung and SK Hynix points to continued AI-driven memory demand, which is important for companies buying servers, devices, and AI infrastructure. The business impact is that memory pricing, availability, and procurement planning may remain tight as AI spending continues to reshape the supply chain.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
+      "imageUrl": "",
+      "category": "Strategy"
     }
   ]
 }
