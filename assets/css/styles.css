@@ -1044,6 +1044,7 @@ footer {
 .pp-page .prompt { position: relative; margin: 1rem 0 1.4rem; }
 .pp-page pre { margin: 0; padding: 1.3rem 1.25rem; background: var(--dark); color: #f4f4e9; border-radius: 18px; overflow-x: auto; font: .78rem/1.62 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre-wrap; }
 .pp-page code { font-family: inherit; }
+.pp-page .prompt pre { padding-top: 3.4rem; }
 .pp-page .copy { position: absolute; top: .7rem; right: .7rem; border: 1px solid rgba(255,255,255,.38); background: transparent; color: #fff; border-radius: 999px; padding: .38rem .7rem; cursor: pointer; font: 700 .68rem var(--f); }
 .pp-page .copy:hover, .pp-page .copy:focus-visible { background: var(--accent); color: var(--text); border-color: var(--accent); }
 .pp-page .label { display: inline-block; margin-bottom: .5rem; color: var(--muted); font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 800; }
@@ -1054,7 +1055,6 @@ footer {
 .pp-page .checklist { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .55rem 1.5rem; padding: 0; list-style: none; }
 .pp-page .checklist li { position: relative; padding-left: 1.7rem; }
 .pp-page .checklist li::before { content: ""; position: absolute; left: 0; top: .62em; width: 13px; height: 13px; border: 1px solid var(--text); border-radius: 3px; }
-.pp-page .pp-shell > footer { display: flex; justify-content: space-between; gap: 1.5rem; padding: 1.6rem 0 3.5rem; border-top: 1px solid var(--text); font-size: .76rem; color: var(--muted); }
 
 .pp-page .pp-hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.8rem; }
 .pp-page .pp-button { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: .75rem 1.15rem; border: 1px solid var(--text); border-radius: 999px; background: var(--text); color: var(--cream); text-decoration: none; font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; transition: transform .2s, opacity .2s, background .2s; }
@@ -1128,8 +1128,6 @@ footer {
   .pp-page .hero h1 { font-size: 3.3rem; }
   .pp-page .section-head { grid-template-columns: 63px minmax(0, 1fr); gap: .9rem; }
   .pp-page .section-number { font-size: 3rem; }
-  .pp-page .pp-shell > footer { display: block; }
-  .pp-page .pp-shell > footer span { display: block; margin-bottom: .5rem; }
   .pp-page .pp-cta-band { padding: 1.35rem; }
   .pp-page .pp-hero-actions { align-items: stretch; flex-direction: column; }
   .pp-page .pp-button { width: 100%; }

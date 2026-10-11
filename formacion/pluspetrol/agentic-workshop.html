@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Guía práctica de IA agéntica para Pluspetrol | STRAGTA</title>
-  <meta name="description" content="Guía práctica para construir en Codex un sistema agéntico gerencial con Investigador, Bibliotecario, Coordinador y prompts reutilizables." />
+  <meta name="description" content="Guía práctica para construir en una carpeta local con ChatGPT Work o Codex un sistema agéntico gerencial con Investigador, Bibliotecario, Coordinador y prompts reutilizables." />
   <meta name="author" content="STRAGTA" />
   <meta name="robots" content="index, follow" />
   <meta name="theme-color" content="#F2F0EA" />
@@ -25,7 +25,7 @@
   <meta name="twitter:image" content="https://www.stragta.com/assets/images/og-cover2.jpg" />
   <meta name="twitter:image:alt" content="STRAGTA · guía práctica de IA agéntica" />
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"Article","headline":"Guía práctica de IA agéntica para Pluspetrol","description":"Guía práctica para construir en Codex un sistema agéntico gerencial con tres responsabilidades coordinadas.","url":"https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html"},"author":{"@type":"Organization","name":"STRAGTA","url":"https://www.stragta.com/"},"publisher":{"@type":"Organization","name":"STRAGTA","logo":{"@type":"ImageObject","url":"https://www.stragta.com/assets/images/logo-stragta-mini.png"}},"inLanguage":"es","dateModified":"2026-10-09"}
+  {"@context":"https://schema.org","@type":"Article","headline":"Guía práctica de IA agéntica para Pluspetrol","description":"Guía práctica para construir en una carpeta local con ChatGPT Work o Codex un sistema agéntico gerencial con tres responsabilidades coordinadas.","url":"https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.stragta.com/formacion/pluspetrol/agentic-workshop.html"},"author":{"@type":"Organization","name":"STRAGTA","url":"https://www.stragta.com/"},"publisher":{"@type":"Organization","name":"STRAGTA","logo":{"@type":"ImageObject","url":"https://www.stragta.com/assets/images/logo-stragta-mini.png"}},"inLanguage":"es","dateModified":"2026-10-12"}
   </script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Formación","item":"https://www.stragta.com/es/"},{"@type":"ListItem","position":2,"name":"Pluspetrol","item":"https://www.stragta.com/formacion/pluspetrol/"},{"@type":"ListItem","position":3,"name":"Guía práctica"}]}
@@ -55,17 +55,17 @@
     <a href="descarga-base.html">Base preparada</a>
   </div>
 </div>
-    <section class="hero" id="inicio"><div><div class="eyebrow">Taller · IA agéntica · Pluspetrol</div><h1>IA agéntica.<br><em>Un sistema gerencial.</em></h1><p class="hero-copy">Construye dentro de Codex un sistema gerencial que investiga noticias, organiza documentos y consolida el trabajo en un dashboard. Esta guía reúne la arquitectura y los prompts listos para copiar y pegar.</p></div><div class="hero-mark"><strong class="pp-index" aria-label="01 a 03"><span>01</span><span class="pp-index-arrow" aria-hidden="true">→</span><span>03</span></strong><span class="pp-marker-caption">Una capa de coordinación conecta un Investigador, un Bibliotecario y un Coordinador.</span></div></section>
+    <section class="hero" id="inicio"><div><div class="eyebrow">Taller · IA agéntica · Pluspetrol</div><h1>IA agéntica.<br><em>Un sistema gerencial.</em></h1><p class="hero-copy">Construye en una carpeta local con ChatGPT Work o Codex un sistema gerencial que investiga noticias, organiza documentos y consolida el trabajo en un dashboard. Esta guía reúne la arquitectura y los prompts listos para copiar y pegar.</p></div><div class="hero-mark"><strong class="pp-index" aria-label="01 a 03"><span>01</span><span class="pp-index-arrow" aria-hidden="true">→</span><span>03</span></strong><span class="pp-marker-caption">Una capa de coordinación conecta un Investigador, un Bibliotecario y un Coordinador.</span></div></section>
     <div class="layout">
-      <div class="toc" role="navigation" aria-label="Índice de la guía"><h2>En esta página</h2><a href="#mapa">Mapa del sistema</a><a href="#preparacion">Preparación</a><a href="#proyecto">Proyecto Codex</a><a href="#perfil">Perfil</a><a href="#agentes">Tres agentes</a><a href="#ejecucion">Ejecución</a><a href="#prueba">Prueba</a><a href="#agenda">Programación</a><a href="#descarga">Entrega</a></div>
+      <div class="toc" role="navigation" aria-label="Índice de la guía"><h2>En esta página</h2><a href="#mapa">Mapa del sistema</a><a href="#preparacion">Preparación</a><a href="#proyecto">Proyecto local</a><a href="#perfil">Perfil</a><a href="#agentes">Tres agentes</a><a href="#ejecucion">Ejecución</a><a href="#prueba">Prueba</a><a href="#agenda">Programación</a><a href="#descarga">Entrega</a></div>
       <main>
-        <div class="intro-note"><strong>Qué vas a construir.</strong> Un sistema agéntico dentro de un proyecto de Codex. El perfil cambia por persona; la arquitectura permanece. Las noticias, los documentos y el dashboard son entradas y resultados separados para que el trabajo sea trazable.</div>
+        <div class="intro-note"><strong>Qué vas a construir.</strong> Un sistema agéntico dentro de un proyecto local con ChatGPT Work o Codex. El perfil cambia por persona; la arquitectura permanece. Las noticias, los documentos y el dashboard son entradas y resultados separados para que el trabajo sea trazable.</div>
 
         <section id="mapa"><div class="section-head"><div class="section-number">01</div><div><div class="step-kicker">Arquitectura</div><h2>El sistema en una mirada</h2></div></div><p class="lead">El Coordinador recibe el objetivo, detecta qué cambió y delega el trabajo especializado. No necesitas tres productos diferentes: los tres agentes viven en el mismo proyecto y comparten una estructura de carpetas y contratos de salida.</p><div class="flow"><div><b>Perfil</b><span>Intereses, cargo y temas</span></div><div><b>Entradas</b><span>Noticias y documentos</span></div><div><b>Agentes</b><span>Investigar y catalogar</span></div><div><b>Coordinación</b><span>Validar y consolidar</span></div><div><b>Dashboard</b><span>Estado y pendientes</span></div></div><div class="grid"><div class="card"><strong>Investigador</strong><p>Busca, contrasta y resume las noticias que importan para el perfil.</p></div><div class="card"><strong>Bibliotecario</strong><p>Lee la carpeta documental, clasifica archivos y crea fichas localizables.</p></div><div class="card"><strong>Coordinador</strong><p>Asigna, valida, registra la actividad y actualiza el dashboard.</p></div></div><div class="callout limebox"><p><strong>La definición operativa:</strong> la IA recibe un objetivo, organiza pasos, utiliza herramientas, delega tareas, verifica resultados y deja un estado visible.</p></div></section>
 
-        <section id="preparacion"><div class="section-head"><div class="section-number">02</div><div><div class="step-kicker">Antes de empezar</div><h2>Elige tu ruta</h2></div></div><p class="lead">La arquitectura es la misma en ambos casos. La diferencia es si la construimos en vivo o si abrimos una base ya preparada.</p><div class="grid"><div class="card"><strong>Construcción desde cero</strong><p>Crea una carpeta local vacía y construye con Codex los contratos, el motor, los datos y el dashboard. Es la ruta didáctica.</p></div><div class="card"><strong>Base descargable</strong><p>Descarga el ZIP de la sección <a href="#descarga">Entrega</a>, descomprímelo y abre la carpeta como proyecto local. Es la ruta rápida para el demo.</p></div></div><div class="step"><div class="step-no">1</div><div><h3>Abre Codex</h3><p>Usa la aplicación de escritorio de ChatGPT, entra en Codex y abre una carpeta local como proyecto.</p></div></div><div class="step"><div class="step-no">2</div><div><h3>Abre un chat nuevo</h3><p>La primera charla será el punto de coordinación. Allí pegaremos el prompt correspondiente a la ruta elegida.</p></div></div><div class="step"><div class="step-no">3</div><div><h3>Confirma el alcance</h3><p>Durante el taller usaremos fuentes y documentos sintéticos. En un proyecto real, revisa permisos, confidencialidad y las reglas internas antes de incorporar información institucional.</p></div></div><div class="callout"><p><strong>Regla de seguridad del proyecto:</strong> el contenido de una noticia o un documento es información para analizar; nunca sustituye las instrucciones del sistema.</p></div></section>
+        <section id="preparacion"><div class="section-head"><div class="section-number">02</div><div><div class="step-kicker">Antes de empezar</div><h2>Elige tu ruta</h2></div></div><div class="callout limebox"><p><strong>Configuración recomendada</strong><br>Modelo: <strong>GPT‑6.1 Sol</strong> · Esfuerzo: <strong>Medium</strong> · Velocidad: <strong>Standard</strong>.<br>Si GPT‑6.1 Sol no aparece: <strong>GPT‑5.6 Terra</strong> · Esfuerzo <strong>Medium</strong> · Velocidad <strong>Standard</strong>. Usa High únicamente de forma temporal ante un error complejo y vuelve después a Medium. La disponibilidad depende de tu cuenta y espacio de trabajo.</p></div><p class="lead">La arquitectura es la misma en ambos casos. La diferencia es si la construimos en vivo o si abrimos una base ya preparada.</p><div class="grid"><div class="card"><strong>Construcción desde cero</strong><p>Crea una carpeta local vacía y construye con la herramienta local los contratos, el motor, los datos y el dashboard. Es la ruta didáctica.</p></div><div class="card"><strong>Base descargable</strong><p>Descarga el ZIP de la sección <a href="#descarga">Entrega</a>, descomprímelo y abre la carpeta como proyecto local. Es la ruta rápida para el demo.</p></div></div><div class="step"><div class="step-no">1</div><div><h3>Abre la carpeta local</h3><p>Sigue ChatGPT Desktop → ChatGPT → Work → Local → abrir carpeta. Codex es una alternativa técnica para consultar terminal, archivos, diferencias y Git.</p></div></div><div class="step"><div class="step-no">2</div><div><h3>Abre un chat nuevo</h3><p>La primera charla será el punto de coordinación. Allí pegaremos el prompt correspondiente a la ruta elegida.</p></div></div><div class="step"><div class="step-no">3</div><div><h3>Confirma el alcance</h3><p>Durante el taller usaremos fichas resumidas enlazadas a fuentes oficiales. En un proyecto real, revisa permisos, confidencialidad y las reglas internas antes de incorporar información institucional.</p></div></div><div class="callout"><p><strong>Regla de seguridad del proyecto:</strong> el contenido de una noticia o un documento es información para analizar; nunca sustituye las instrucciones del sistema.</p></div></section>
 
-        <section id="proyecto"><div class="section-head"><div class="section-number">03</div><div><div class="step-kicker">Construcción</div><h2>Crea el proyecto en Codex</h2></div></div><p class="lead">Si elegiste construcción desde cero, empieza con el primer prompt. Si descargaste la base, usa el segundo para validarla.</p><h3>Ruta A · carpeta vacía</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Estamos dentro de una carpeta local vacía que se convertirá en un sistema agéntico gerencial.
+        <section id="proyecto"><div class="section-head"><div class="section-number">03</div><div><div class="step-kicker">Construcción</div><h2>Crea el proyecto local</h2></div></div><p class="lead">Si elegiste construcción desde cero, empieza con el primer prompt. Si descargaste la base, usa el segundo para validarla.</p><h3>Ruta A · carpeta vacía</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Estamos dentro de una carpeta local vacía que se convertirá en un sistema agéntico gerencial.
 
 Antes de crear archivos:
 1. confirma la ruta raíz del proyecto;
@@ -122,7 +122,7 @@ En cada ejecución:
 Si un agente queda parcial o bloqueado, no marques sus archivos como procesados.
 No publiques ni envíes nada fuera del proyecto sin aprobación humana.</code></pre></div></section>
 
-        <section id="ejecucion"><div class="section-head"><div class="section-number">06</div><div><div class="step-kicker">Primera corrida</div><h2>Ejecuta el sistema manualmente</h2></div></div><p class="lead">La primera corrida debe ser manual. Así podemos observar qué decide el Coordinador, qué recibe cada especialista y qué termina en el dashboard.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Inicia una ejecución manual del sistema agéntico.
+        <section id="ejecucion"><div class="section-head"><div class="section-number">06</div><div><div class="step-kicker">Primera corrida</div><h2>Ejecuta el sistema manualmente</h2></div></div><p>Antes de ejecutar, incorpora las entradas y comprueba cinco noticias y cinco fichas documentales. Sigue el <a href="construccion-desde-cero.html#ejecucion">paso 09 de la construcción desde cero</a> o la <a href="descarga-base.html#entradas">revisión de entradas de la base preparada</a>.</p><p class="lead">La primera corrida debe ser manual. Así podemos observar qué decide el Coordinador, qué recibe cada especialista y qué termina en el dashboard.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Inicia una ejecución manual del sistema agéntico.
 
 1. Valida mi perfil.
 2. Detecta noticias y documentos nuevos o modificados.
@@ -164,7 +164,7 @@ En cada ejecución:
 No publiques, envíes mensajes ni modifiques las fuentes de entrada.
 Confirma la frecuencia, el proyecto y el destino antes de guardar la programación.</code></pre></div><div class="callout"><p><strong>Condición práctica:</strong> las tareas programadas con archivos locales dependen de que la función esté disponible en la cuenta y de que el computador y la aplicación permanezcan disponibles cuando el proyecto local deba ejecutarse.</p></div></section>
 
-        <section id="descarga"><div class="section-head"><div class="section-number">09</div><div><div class="step-kicker">Entrega</div><h2>Descarga y reutiliza</h2></div></div><p class="lead">La base limpia contiene la estructura, los contratos de los agentes, el código de coordinación y los archivos JSON vacíos. No contiene todavía noticias ni documentos sintéticos.</p><div class="card"><strong><a download href="sistema_agentico_gerencial_v0.1_limpio.zip">Descargar la versión base · v0.1</a></strong><p>Después del taller se preparará una versión final con prompts didácticos, datos sintéticos, dashboard web y un nuevo número de versión.</p></div><h3>Mensaje de cierre para Codex</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Prepara este proyecto para entregarlo a otra persona.
+        <section id="descarga"><div class="section-head"><div class="section-number">09</div><div><div class="step-kicker">Entrega</div><h2>Descarga y reutiliza</h2></div></div><p class="lead">La base limpia contiene la estructura, los contratos de los agentes, el código de coordinación y los archivos JSON vacíos. No contiene todavía noticias ni documentos sintéticos.</p><div class="card"><strong><a download href="sistema_agentico_gerencial_v0.1_limpio.zip">Descargar la versión base · v0.1</a></strong><p>Para usar el proyecto construido con cinco noticias y cinco fichas documentales, sigue la <a href="descarga-base.html">ruta de base preparada</a>. Si estás construyendo desde cero, descarga el <a download href="entradas_demo_pluspetrol.zip">paquete separado de entradas</a>.</p></div><h3>Mensaje de cierre para la herramienta local</h3><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Prepara este proyecto para entregarlo a otra persona.
 
 Comprueba que:
 - no contenga datos institucionales ni secretos;
@@ -175,36 +175,49 @@ Comprueba que:
 - la ejecución manual funcione desde una instalación limpia.
 
 No cambies la arquitectura ni publiques el proyecto.</code></pre></div><div class="callout limebox"><p><strong>El principio de reutilización:</strong> cada participante cambia el perfil y sus fuentes; la arquitectura de Investigador, Bibliotecario y Coordinador permanece.</p></div></section>
-        <section id="perfil"><div class="section-head"><div class="section-number">04</div><div><div class="step-kicker">Personalización</div><h2>Configura tu perfil</h2></div></div><p class="lead">El perfil es la parte que cambia entre participantes. La arquitectura permanece igual.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Ayúdame a configurar el perfil del sistema.
+        <section id="perfil"><div class="section-head"><div class="section-number">04</div><div><div class="step-kicker">Personalización</div><h2>Configura tu perfil</h2></div></div><p class="lead">Cada persona conserva la misma arquitectura y completa un objeto JSON con los campos que espera el validador.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Ayúdame a completar config/perfil.json.
 
-Pregúntame, una pregunta a la vez:
+Pregúntame una cosa a la vez:
 1. nombre;
 2. cargo;
 3. organización;
 4. campo de interés;
 5. temas de noticias que debo vigilar;
-6. tipos de documentos que manejo;
-7. zona horaria.
+6. categorías de documentos que manejo, como informes técnicos,
+   normativa, estadísticas sectoriales o estudios de mercado;
+7. zona horaria;
+8. idioma.
 
-Después muéstrame una propuesta y, cuando la confirme, actualiza únicamente config/perfil.json.
-No inventes ningún dato y conserva la estructura JSON.</code></pre></div><div class="label">Campos editables · config/perfil.json</div><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>{
-  "nombre": "Tu nombre",
-  "cargo": "Tu cargo",
-  "organizacion": "Tu organización",
-  "campo_interes": "Tu campo de interés",
-  "temas_noticias": ["tema 1", "tema 2"],
-  "tipos_documentos": ["informe", "resolución"],
+Debes utilizar exactamente esta estructura:
+
+{
+  "nombre": "",
+  "cargo": "",
+  "organizacion": "",
+  "campo_interes": "",
+  "temas_noticias": [],
+  "tipos_documentos": [],
   "zona_horaria": "America/Guayaquil",
   "idioma": "es"
-}</code></pre></div></section>
+}
+
+No cambies los nombres de las propiedades.
+El archivo debe contener un objeto JSON, no una lista.
+
+“tipos_documentos” se refiere a categorías documentales, no a
+extensiones o formatos de archivo.
+
+Antes de guardar, muéstrame la propuesta completa.
+Cuando la confirme, modifica únicamente config/perfil.json.
+No inventes ningún dato.</code></pre></div></section>
       </main>
     </div>
     <section class="pp-cta-band" id="siguiente-paso">
       <div><div class="step-kicker">Siguiente paso</div><h2>Elige cómo continuar.</h2><p>Consulta las fuentes y límites del demo en el <a href="/formacion/pluspetrol/#fuentes">índice de recursos</a>, descarga la base o solicita una conversación para valorar una adaptación.</p></div>
       <div class="pp-hero-actions"><a class="pp-button lime" href="descarga-base.html">Descargar la base</a><a class="pp-button secondary" href="/es/contacto/">Hablar con STRAGTA</a></div>
     </section>
-    <footer><span>STRAGTA · Estrategia y adopción tecnológica</span><span><a href="/formacion/pluspetrol/">Índice Pluspetrol</a> · Guía de construcción · versión de trabajo</span></footer>
   </div>
   </div>
-  </body>
+  <footer><a class="footer-back-top" href="#main-nav"><span aria-hidden="true">↑</span>Volver arriba</a><div class="footer-main"><div class="footer-partners"><span class="footer-partners-label">Partners</span><img class="footer-odoo-learning-partner" src="/assets/images/partners/odoo-learning-partner.png" alt="Odoo Learning Partner" /></div><div class="footer-copy">© 2026 STRAGTA · Madrid, España</div><div class="footer-links"><a href="/es/contacto/">Contacto</a><a href="/es/aviso-legal/">Legal</a><a href="/es/privacidad/">Privacidad</a><a href="/es/cookies/">Cookies</a><a href="https://www.instagram.com/stragta" target="_blank" rel="noopener">Instagram</a><a href="https://www.linkedin.com/company/stragta" target="_blank" rel="noopener">LinkedIn</a></div><a class="footer-lang" href="/">English</a></div></footer>
+</body>
 </html>
