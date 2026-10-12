@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-11T13:43:02.554Z",
+  "lastUpdated": "2026-10-12T16:23:42.921Z",
   "articles": [
     {
-      "id": "us-green-card-freeze-it-adobe",
-      "date": "10 October 2026",
-      "headline": "US freezes green-card program for Microsoft, IT outsourcers and Adobe amid fraud crackdown",
-      "summary": "The US suspended key green-card access for major tech and IT employers while widening probes into universities. This could affect talent pipelines, hiring plans, and compliance strategy for companies that rely on imported technical labor or offshore IT services.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
-      "imageUrl": "",
+      "id": "us-commerce-department-withdraws-proposed-ai-chip-export-restrictions",
+      "date": "12 October 2026",
+      "headline": "EE. UU. retira una propuesta de restricciones a la exportación de chips de IA",
+      "summary": "El Departamento de Comercio de EE. UU. retiró un borrador que habría endurecido la exportación de chips avanzados de IA. La decisión reduce, por ahora, una fuente de incertidumbre regulatoria para fabricantes de semiconductores, proveedores cloud y empresas que planifican capacidad de cómputo, aunque el marco de control sigue siendo volátil.",
+      "source": "TechShots",
+      "sourceUrl": "https://www.techshotsapp.com/business/us-commerce-department-withdraws-proposed-ai-chip-export-restrictions",
+      "imageUrl": "https://d3vnc3w6v6jm99.cloudfront.net/india-s-data-center-demand-surges--igniting-a-boom.webp",
       "category": "Regulación"
     },
     {
-      "id": "samsung-ai-memory-boom",
-      "date": "8 October 2026",
-      "headline": "Samsung flags record profit on AI memory boom as chip shortage deepens",
-      "summary": "Samsung projected a massive quarterly profit jump, driven by strong demand for AI chips and memory. For businesses, this signals tighter supply and higher prices for DRAM, NAND, and HBM, which can raise costs for servers, cloud infrastructure, and AI deployments.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/",
-      "imageUrl": "",
-      "category": "Estrategia"
+      "id": "chipmakers-move-security-into-chip-design-as-ai-hardware-expands",
+      "date": "10 October 2026",
+      "headline": "Los fabricantes de chips integran más seguridad en el diseño de hardware de IA",
+      "summary": "Varios fabricantes están incorporando seguridad más profundamente en el diseño y las pruebas de chips a medida que la IA se expande en automoción, cámaras y dispositivos conectados. Para empresas que compran hardware de IA o IoT, esto apunta a mayores exigencias de cumplimiento, costes de validación y necesidad de priorizar proveedores con mejores controles de seguridad.",
+      "source": "TechShots",
+      "sourceUrl": "https://www.techshotsapp.com/technology/chipmakers-move-security-into-chip-design-as-ai-hardware-expands",
+      "imageUrl": "https://d3vnc3w6v6jm99.cloudfront.net/chipmakers-move-security-into-chip-design-as-ai-hardware-expands.webp",
+      "category": "Automatización"
     },
     {
-      "id": "us-software-stocks-ai-disruption-fade",
-      "date": "8 October 2026",
-      "headline": "US software stocks hit fresh 2026 highs as AI-disruption fears ease",
-      "summary": "Software shares rose as analysts kept raising earnings expectations and argued that fears of immediate AI disruption were overstated. For business buyers, this suggests enterprise software vendors may retain pricing power while cybersecurity remains a priority spend area.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06/",
+      "id": "newsbites-xxviii-75-oct-9-2026",
+      "date": "9 October 2026",
+      "headline": "Alertas de seguridad en Atlassian y Oracle PeopleSoft elevan el riesgo operativo para empresas",
+      "summary": "Una alerta de seguridad de SANS destaca explotación renovada contra Oracle PeopleSoft y una vulnerabilidad crítica en productos de Atlassian como Confluence, Jira y Bitbucket. Para corporaciones y pymes, esto implica prioridad inmediata en parches, revisión de accesos y posible interrupción operativa si hay exposición en aplicaciones de negocio o colaboración.",
+      "source": "SANS NewsBites",
+      "sourceUrl": "https://www.sans.org/newsletters/newsbites/xxviii-75",
       "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Regulación"
     }
   ]
 }

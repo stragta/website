@@ -1,34 +1,34 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-11T13:42:53.976Z",
+  "lastUpdated": "2026-10-12T16:23:33.724Z",
   "articles": [
     {
-      "id": "absolute-security-uefi-acquisition",
-      "date": "11 October 2026",
-      "headline": "Absolute Security acquires Phoenix Technologies’ FirmGuard to expand firmware security",
-      "summary": "The acquisition extends security coverage deeper into UEFI BIOS firmware, an area that can be difficult for businesses to monitor but critical for device integrity. This matters for organizations managing fleets of laptops and endpoints because firmware-level attacks can bypass conventional defenses and raise recovery costs.",
-      "source": "Business Wire",
-      "sourceUrl": "https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence",
+      "id": "anthropic-cybersecurity-initiative-2026-10-09",
+      "date": "9 October 2026",
+      "headline": "Anthropic expands cybersecurity push as governments tighten AI security oversight",
+      "summary": "Anthropic is launching a cybersecurity initiative that directs its strongest AI models and engineers toward protecting critical infrastructure such as power grids and water systems. For businesses, this signals faster adoption of AI in security operations but also stronger expectations for incident reporting and oversight as regulators push AI firms to police security failures more aggressively.",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/technology/2026/10/09",
       "imageUrl": "",
-      "category": "Automation"
+      "category": "AI Adoption"
     },
     {
-      "id": "openai-revenue-chip-stocks",
-      "date": "10 October 2026",
-      "headline": "AI revenue questions pull semiconductor stocks off October highs",
-      "summary": "Reports that OpenAI’s annualized revenue was below prior expectations weakened sentiment across chip stocks, showing how AI spending assumptions can move semiconductor valuations. The piece matters for businesses because it signals that AI infrastructure demand, and the related supply chain for chips and cloud capacity, may be more volatile than investors expected.",
-      "source": "Finance Yahoo",
-      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html",
-      "imageUrl": "https://s.yimg.com/lo/mysterio/api/226aebdca8a5e266c5c827d301b92b9cf158af9ccfae5d5c54162da204a3e625/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2Fd6e0868284cf3fd98944fe83c8676d9d.png",
-      "category": "Strategy"
+      "id": "commerce-department-chip-warning-letters-2026-10-09",
+      "date": "9 October 2026",
+      "headline": "U.S. Commerce Department tightens advanced chip export controls to China",
+      "summary": "The Commerce Department has moved to formalize restrictions on chipmaking tools and advanced AI and supercomputing chips bound for China, including tighter licensing paths and broader application to China-headquartered buyers. This raises compliance risk for semiconductor suppliers, AI infrastructure vendors, and multinational firms with China-linked operations or procurement.",
+      "source": "Startup Fortune",
+      "sourceUrl": "https://startupfortune.com/commerce-department-turns-chip-warning-letters-into-hard-law-before-truce-expires/",
+      "imageUrl": "https://startupfortune.com/wp-content/uploads/2026/10/nvidia-hua-hong-commerce-department.jpg",
+      "category": "Regulation"
     },
     {
-      "id": "samsung-sk-hynix-ai-demand",
-      "date": "10 October 2026",
-      "headline": "Samsung, SK Hynix record earnings fuel South Korea spending on AI",
-      "summary": "Coverage of record earnings from Samsung and SK Hynix points to continued AI-driven memory demand, which is important for companies buying servers, devices, and AI infrastructure. The business impact is that memory pricing, availability, and procurement planning may remain tight as AI spending continues to reshape the supply chain.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology/artificial-intelligence",
+      "id": "us-software-stocks-ai-disruption-worries-fade-2026-10-06",
+      "date": "6 October 2026",
+      "headline": "Software stocks hit fresh 2026 highs as AI disruption fears ease",
+      "summary": "US software shares climbed to new highs even as semiconductor stocks also posted a strong 2026 run, showing investors still favor software vendors despite ongoing AI disruption concerns. For business leaders, that suggests the market continues to reward firms positioned to sell AI-enabled productivity and enterprise software.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06/",
       "imageUrl": "",
       "category": "Strategy"
     }
