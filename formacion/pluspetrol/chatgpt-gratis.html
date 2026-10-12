@@ -35,7 +35,7 @@
 <div class="pp-main"><div class="pp-shell">
   <div class="pp-routebar"><span>Formación · Pluspetrol</span><div class="pp-route-links" role="navigation" aria-label="Rutas del tutorial"><a href="/formacion/pluspetrol/">Índice</a><a href="chatgpt-gratis.html" aria-current="page">ChatGPT web</a><a href="agentic-workshop.html">Guía práctica</a><a href="construccion-desde-cero.html">Construcción desde cero</a><a href="descarga-base.html">Base preparada</a></div></div>
   <section class="hero" id="inicio"><div><div class="eyebrow">Práctica conversacional · ChatGPT web</div><h1>Tu trabajo.<br><em>Un paso adelante.</em></h1><p class="hero-copy">Organiza tres pendientes, prepara un borrador útil, revísalo y conserva el seguimiento en una sola conversación. Una práctica sencilla de 35–45 minutos.</p><div class="pp-hero-actions"><a class="pp-button" href="#abrir">Comenzar la práctica</a><a class="pp-button secondary" href="#docente">Para el instructor</a></div></div><div class="hero-mark"><strong class="pp-index" aria-label="01 a 08"><span>01</span><span class="pp-index-arrow" aria-hidden="true">→</span><span>08</span></strong><span class="pp-marker-caption">Una conversación. Ocho pasos. Pendientes organizados, un borrador revisado y un resumen para continuar.</span></div></section>
-  <div class="layout"><aside class="toc" aria-label="Índice de la práctica"><h2>En esta página</h2><a href="#abrir">Abre una conversación nueva</a><a href="#configurar">Configura tu asistente</a><a href="#contexto">Responde con tu contexto</a><a href="#borrador">Encarga una ayuda concreta</a><a href="#revisar">Revisa antes de utilizar</a><a href="#actualizar">Actualiza tu tablero</a><a href="#continuar">Comprueba que puedes continuar</a><a href="#guardar">Conserva tu trabajo</a><a href="#noticia">Noticia opcional</a><a href="#ayuda">Si algo se complica</a><a href="#docente">Para el instructor</a></aside><main>
+  <div class="layout"><aside class="toc" aria-label="Índice de la práctica"><h2>En esta página</h2><a href="#abrir">Abre una conversación nueva</a><a href="#configurar">Configura tu asistente</a><a href="#contexto">Organiza lo que ya respondiste</a><a href="#borrador">Encarga una ayuda concreta</a><a href="#revisar">Revisa antes de utilizar</a><a href="#actualizar">Actualiza tu tablero</a><a href="#continuar">Comprueba que puedes continuar</a><a href="#guardar">Conserva tu trabajo</a><a href="#noticia">Noticia opcional</a><a href="#ayuda">Si algo se complica</a><a href="#docente">Para el instructor</a></aside><main>
     <div class="intro-note"><strong>Estado de la guía.</strong> Preparada para probar en una cuenta gratuita real. La validación en Free está pendiente; publicar esta página no equivale a haber realizado esa prueba.</div>
     <section id="preparacion"><h2>Mi asistente de trabajo en ChatGPT</h2><p>Una tabla con tres pendientes de tu trabajo, un borrador útil para uno de ellos y un registro actualizado. Todo se hace en una sola conversación de ChatGPT web.</p><p>Necesitas una cuenta gratuita y un navegador. Utiliza el modelo que aparezca disponible; no hace falta cambiarlo. No necesitas instalar aplicaciones, crear proyectos, escribir código ni cargar archivos.</p><p>Tiempo del ejercicio principal: 35–45 minutos. Las extensiones son opcionales.</p><p>Este ejercicio es un asistente conversacional guiado por el usuario. No crea tres agentes independientes ni automatiza tareas en segundo plano. Permite practicar contexto, instrucciones, revisión y seguimiento, que después utilizaremos en un sistema agéntico.</p></section>
 <section id="abrir"><div class="section-head"><div class="section-number">01</div><div><div class="step-kicker">Práctica · 01</div><h2>Abre una conversación nueva</h2></div></div><p>Entra en <a href="https://chatgpt.com" target="_blank" rel="noopener">chatgpt.com</a> e inicia sesión. Abre un chat nuevo. Mantén esa misma conversación durante toda la actividad.</p><p>Escribe ejemplos generales de tu trabajo. No necesitas nombres de personas, expedientes ni datos internos.</p></section>
@@ -46,23 +46,21 @@ y revisar resultados. Usa español claro y respuestas breves.
 
 Trabaja con la información que yo te dé. No inventes fechas,
 responsables, cifras, normas ni compromisos.
-Si te falta un dato esencial, haz una sola pregunta.
+Si falta algún dato, márcalo como Por confirmar. No encadenes preguntas.
 No afirmes que enviaste correos, guardaste archivos o ejecutaste
 acciones fuera de esta conversación.
 
-Primero pregúntame, en un solo mensaje:
+Haz únicamente estas dos preguntas, juntas en un solo mensaje:
 1. ¿Cuál es mi cargo o función?
 2. ¿Cuáles son tres pendientes en los que quiero trabajar?
 
-No hagas todavía la tabla. Espera mi respuesta.</code></pre></div><p>Resultado esperado: dos preguntas sencillas. No continúes hasta verlas.</p></section>
-<section id="contexto"><div class="section-head"><div class="section-number">03</div><div><div class="step-kicker">Práctica · 03</div><h2>Responde con tu contexto</h2></div></div><p>Responde con tu cargo y tres pendientes. Puedes escribirlo como hablas; no necesitas JSON.</p><p>Plantilla para completar:</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Mi cargo o función es: [ESCRIBE TU CARGO].
+No hagas todavía la tabla. Cuando responda, confirma brevemente
+que recibiste mis datos y espera mi siguiente instrucción.
+No repitas las preguntas ni pidas detalles adicionales.</code></pre></div><p>Responde una sola vez con tu cargo y tres pendientes, como hablas. No necesitas un formato especial. Después continúa al paso 03; no hace falta responder más preguntas.</p><p>Resultado esperado: dos preguntas en un solo mensaje y, después de tu respuesta, una confirmación breve.</p></section>
+<section id="contexto"><div class="section-head"><div class="section-number">03</div><div><div class="step-kicker">Práctica · 03</div><h2>Organiza lo que ya respondiste</h2></div></div><p>Si ya respondiste en el paso 02, no vuelvas a escribir tu cargo ni tus pendientes. Copia únicamente este prompt:</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Usa mi cargo y los tres pendientes que ya te indiqué en esta conversación.
+No me los preguntes de nuevo ni pidas más aclaraciones.
 
-Mis pendientes son:
-1. [PRIMER PENDIENTE].
-2. [SEGUNDO PENDIENTE].
-3. [TERCER PENDIENTE].
-
-Ayúdame a convertirlos en una tabla con estas columnas:
+Convierte esos pendientes en una tabla con estas columnas:
 ID, pendiente, prioridad sugerida, siguiente acción,
 resultado esperado y estado.
 
@@ -70,7 +68,9 @@ Usa los identificadores T01, T02 y T03.
 El estado inicial será Pendiente.
 Justifica brevemente la prioridad; es una sugerencia que yo revisaré.
 Si no indiqué una fecha, no la inventes.
-No agregues tareas que yo no haya mencionado.</code></pre></div><p>Para la prueba del instructor, utiliza tus propios pendientes. Si necesitas un ejemplo rápido, estas son tareas hipotéticas, no datos institucionales:</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Mi función es coordinador de planificación.
+No agregues tareas que yo no haya mencionado.
+Deja los datos faltantes como Por confirmar.
+Entrega la tabla y una breve justificación, sin preguntas adicionales.</code></pre></div><p>Si aún no aportaste tus datos y solo quieres probar el funcionamiento, puedes usar este ejemplo en lugar del prompt anterior. No pegues ambos: son tareas hipotéticas, no datos institucionales.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Mi función es coordinador de planificación.
 
 Mis pendientes son:
 1. Pedir a las áreas una actualización de sus pendientes.
@@ -81,7 +81,8 @@ Convierte estos pendientes en una tabla con:
 ID, pendiente, prioridad sugerida, siguiente acción,
 resultado esperado y estado.
 Usa T01, T02 y T03. El estado inicial será Pendiente.
-No inventes fechas, nombres ni información institucional.</code></pre></div><p>Resultado esperado: exactamente tres filas, con acciones concretas.</p></section>
+No inventes fechas, nombres ni información institucional.
+Deja los datos faltantes como Por confirmar, sin hacer más preguntas.</code></pre></div><p>Resultado esperado: exactamente tres filas, con acciones concretas, sin repetir la solicitud de cargo y pendientes.</p></section>
 <section id="borrador"><div class="section-head"><div class="section-number">04</div><div><div class="step-kicker">Práctica · 04</div><h2>Encarga una ayuda concreta</h2></div></div><p>Elige una tarea y pide un producto breve. Para empezar, un correo es sencillo de revisar.</p><div class="prompt"><button class="copy" type="button">Copiar</button><pre><code>Trabajemos sobre T01.
 
 Prepara un borrador breve de correo que me ayude a avanzar
