@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Dashboard · Sistema agéntico</title>
   <meta name="description" content="Dashboard ejecutivo del sistema agéntico gerencial.">
-  <meta name="robots" content="noindex, nofollow">
   <style>
     :root {
       --bg: #000000;
@@ -102,11 +101,14 @@
         <article class="kpi amber"><div class="kpi-label">Pendientes</div><div class="kpi-value" id="warningCount">0</div><div class="kpi-note">Requieren revisión</div></article>
       </section>
 
-      <div class="toolbar" aria-label="Filtros del dashboard"><input class="search" id="searchInput" type="search" placeholder="Buscar en noticias y documentos…" aria-label="Buscar"><select class="filter" id="relevanceFilter" aria-label="Filtrar por relevancia"><option value="all">Toda relevancia</option><option value="alta">Alta</option><option value="media">Media</option><option value="baja">Baja</option></select><button class="button" id="clearButton" type="button">Limpiar</button></div>
+      <div class="toolbar" aria-label="Filtros del dashboard"><input class="search" id="searchInput" type="search" placeholder="Buscar en noticias y documentos…" aria-label="Buscar"><select class="filter" id="relevanceFilter" aria-label="Filtrar por relevancia"><option value="all">Toda relevancia</option><option value="sin_clasificar">Sin clasificar</option><option value="alta">Alta</option><option value="media">Media</option><option value="baja">Baja</option></select><button class="button" id="clearButton" type="button">Limpiar</button></div>
 
+      <p class="panel-subtitle" id="researchPeriod"></p>
       <section class="dashboard-grid">
         <article class="panel"><div class="panel-head"><div><h2 class="panel-title">Radar de noticias</h2><p class="panel-subtitle">Investigador · fuentes y señales relevantes</p></div><div class="panel-count" id="newsPanelCount">00</div></div><div class="list" id="newsList"></div></article>
         <article class="panel"><div class="panel-head"><div><h2 class="panel-title">Biblioteca documental</h2><p class="panel-subtitle">Bibliotecario · documentos localizables</p></div><div class="panel-count" id="documentPanelCount">00</div></div><div class="list" id="documentList"></div></article>
+        <article class="panel full"><div class="panel-head"><h2 class="panel-title">Referencias pendientes</h2></div><div class="list" id="referenceList"></div></article>
+        <article class="panel full"><div class="panel-head"><h2 class="panel-title">Candidatos · selección humana</h2></div><div class="list" id="candidateList"></div></article>
         <article class="panel full"><div class="panel-head"><div><h2 class="panel-title">Actividad del sistema</h2><p class="panel-subtitle">Coordinador · historial de ejecuciones</p></div><div class="panel-count" id="activityPanelCount">00</div></div><div class="activity-list" id="activityList"></div></article>
         <article class="panel full"><div class="panel-head"><div><h2 class="panel-title">Los tres agentes</h2><p class="panel-subtitle">Roles activos dentro del proyecto</p></div><div class="panel-count">03</div></div><div class="agents"><div class="agent"><div class="agent-icon">01</div><div><div class="agent-name">Investigador</div><div class="agent-role">Noticias y fuentes</div></div></div><div class="agent"><div class="agent-icon">02</div><div><div class="agent-name">Bibliotecario</div><div class="agent-role">Documentos y contexto</div></div></div><div class="agent"><div class="agent-icon">03</div><div><div class="agent-name">Coordinador</div><div class="agent-role">Estado y decisiones</div></div></div></div></article>
       </section>
@@ -114,48 +116,6 @@
     <footer class="footer"><span><strong>STRAGTA</strong> · Estrategia y adopción tecnológica</span><span>Fuente de datos: <code>dashboard/data.json</code></span></footer>
   </div>
 
-  <script>
-    const EMPTY_DATA = { generado: null, perfil: {}, resumen: { noticias: 0, documentos: 0, ejecuciones: 0, pendientes_revision: 0 }, radar: [], biblioteca: [], actividad: [], advertencias: [] };
-    let state = { data: EMPTY_DATA, query: '', relevance: 'all', loaded: false };
-    const $ = (id) => document.getElementById(id);
-    const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
-    const pad = (value) => String(value).padStart(2, '0');
-    const formatDate = (value) => { if (!value) return 'Sin fecha'; const parsed = new Date(value); return Number.isNaN(parsed.getTime()) ? String(value) : parsed.toLocaleDateString('es-EC', { day: '2-digit', month: 'short', year: 'numeric' }); };
-    const relevanceClass = (value) => value === 'alta' ? 'green' : value === 'baja' ? 'violet' : 'amber';
-    const visible = (record) => { const haystack = JSON.stringify(record).toLowerCase(); return haystack.includes(state.query.toLowerCase()) && (state.relevance === 'all' || String(record.relevancia || '').toLowerCase() === state.relevance); };
-    const emptyState = (title, note) => `<div class="empty"><strong>${escapeHtml(title)}</strong>${escapeHtml(note)}</div>`;
-    function renderNews() {
-      const records = (state.data.radar || []).filter(visible);
-      $('newsPanelCount').textContent = pad(records.length);
-      $('newsList').innerHTML = records.length ? records.map((item) => `<article class="list-item"><div class="item-top"><h3 class="item-title">${escapeHtml(item.titulo || 'Sin título')}</h3><time class="item-date">${escapeHtml(formatDate(item.fecha_publicacion || item.fecha_consulta))}</time></div><p class="item-summary">${escapeHtml(item.resumen || 'Sin resumen disponible.')}</p><div class="item-meta"><span class="tag ${relevanceClass(item.relevancia)}">${escapeHtml(item.relevancia || 'sin clasificar')}</span>${(item.temas || []).slice(0, 3).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div></article>`).join('') : emptyState('Sin noticias para mostrar', state.query ? 'Prueba otro término de búsqueda.' : 'El Investigador todavía no ha incorporado registros.');
-    }
-    function renderLibrary() {
-      const records = (state.data.biblioteca || []).filter(visible);
-      $('documentPanelCount').textContent = pad(records.length);
-      $('documentList').innerHTML = records.length ? records.map((item) => `<article class="list-item"><div class="item-top"><h3 class="item-title">${escapeHtml(item.titulo || item.archivo || 'Sin título')}</h3><time class="item-date">${escapeHtml(formatDate(item.fecha_documento))}</time></div><p class="item-summary">${escapeHtml(item.resumen || 'Sin resumen disponible.')}</p><div class="item-meta"><span class="tag violet">${escapeHtml(item.tipo_documento || 'documento')}</span>${(item.temas || []).slice(0, 3).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div></article>`).join('') : emptyState('Biblioteca vacía', state.query ? 'Prueba otro término de búsqueda.' : 'El Bibliotecario todavía no ha catalogado documentos.');
-    }
-    function renderActivity() {
-      const records = [...(state.data.actividad || [])].reverse();
-      $('activityPanelCount').textContent = pad(records.length);
-      $('activityList').innerHTML = records.length ? records.slice(0, 9).map((item) => `<article class="activity"><div class="activity-date">${escapeHtml(formatDate(item.fecha))}</div><div class="activity-title">${escapeHtml(item.tipo || 'Ejecución')} · ${escapeHtml(item.estado || 'sin estado')}</div><div class="activity-note">${escapeHtml(item.noticias_procesadas || 0)} noticias · ${escapeHtml(item.documentos_procesados || 0)} documentos</div></article>`).join('') : emptyState('Aún no hay actividad', 'La primera ejecución aparecerá aquí.');
-    }
-    function render() {
-      const data = state.data || EMPTY_DATA; const summary = data.resumen || {};
-      $('newsCount').textContent = summary.noticias ?? (data.radar || []).length; $('documentCount').textContent = summary.documentos ?? (data.biblioteca || []).length; $('runCount').textContent = summary.ejecuciones ?? (data.actividad || []).length; $('warningCount').textContent = summary.pendientes_revision ?? (data.advertencias || []).length;
-      const profile = data.perfil || {}; $('profileName').textContent = profile.nombre || 'Perfil sin configurar'; $('profileRole').textContent = [profile.cargo, profile.organizacion].filter(Boolean).join(' · ') || 'Completa config/perfil.json'; $('lastUpdate').textContent = data.generado ? `Actualizado ${formatDate(data.generado)}` : 'Sin ejecuciones registradas';
-      renderNews(); renderLibrary(); renderActivity();
-    }
-    async function loadData() {
-      const button = $('refreshButton'); button.disabled = true; $('connectionStatus').textContent = 'Actualizando datos';
-      try { const response = await fetch(`data.json?ts=${Date.now()}`, { cache: 'no-store' }); if (!response.ok) throw new Error(`HTTP ${response.status}`); state.data = await response.json(); state.loaded = true; $('connectionStatus').textContent = 'Datos conectados'; $('dataBanner').classList.remove('visible'); }
-      catch (error) { state.data = EMPTY_DATA; state.loaded = false; $('connectionStatus').textContent = 'Vista de espera'; $('dataBanner').textContent = 'No se pudo cargar data.json. Sirve esta carpeta mediante un servidor local o publica ambos archivos juntos.'; $('dataBanner').classList.add('visible'); }
-      render(); button.disabled = false;
-    }
-    $('searchInput').addEventListener('input', (event) => { state.query = event.target.value.trim(); renderNews(); renderLibrary(); });
-    $('relevanceFilter').addEventListener('change', (event) => { state.relevance = event.target.value; renderNews(); renderLibrary(); });
-    $('clearButton').addEventListener('click', () => { state.query = ''; state.relevance = 'all'; $('searchInput').value = ''; $('relevanceFilter').value = 'all'; renderNews(); renderLibrary(); });
-    $('refreshButton').addEventListener('click', loadData);
-    render(); loadData();
-  </script>
+  <script src="app.js"></script>
 </body>
 </html>

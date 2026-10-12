@@ -1,0 +1,18 @@
+[project]
+name = "sistema-agentico-gerencial"
+version = "0.1.0"
+description = "Base local para un sistema de tres agentes coordinado desde Codex"
+requires-python = ">=3.11"
+
+[project.scripts]
+taller-agentes = "sistema_agentico.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

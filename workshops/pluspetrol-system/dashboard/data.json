@@ -1,0 +1,26 @@
+{
+  "generado": null,
+  "perfil": {},
+  "periodo_investigado": null,
+  "ultima_ejecucion": null,
+  "resumen": {
+    "noticias": 0,
+    "documentos": 0,
+    "ejecuciones": 0,
+    "pendientes_revision": 0
+  },
+  "radar": [],
+  "biblioteca": [],
+  "referencias_pendientes": [],
+  "candidatos": {
+    "noticias": [],
+    "documentos_detectados": []
+  },
+  "fuentes": {
+    "busquedas": [],
+    "registros": [],
+    "relaciones": []
+  },
+  "actividad": [],
+  "advertencias": []
+}

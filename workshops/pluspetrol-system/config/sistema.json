@@ -1,0 +1,42 @@
+{
+  "nombre_proyecto": "Sistema agéntico gerencial",
+  "version": "0.3.0",
+  "agentes": {
+    "investigador": {
+      "activo": true,
+      "contrato": "agentes/investigador.md",
+      "resultado": "resultados/pendientes/investigador.json"
+    },
+    "bibliotecario": {
+      "activo": true,
+      "contrato": "agentes/bibliotecario.md",
+      "resultado": "resultados/pendientes/bibliotecario.json"
+    },
+    "coordinador": {
+      "activo": true,
+      "contrato": "agentes/coordinador.md",
+      "resultado": "dashboard/data.json"
+    }
+  },
+  "ejecucion": {
+    "maximo_elementos_por_agente": 100,
+    "conservar_historial": true,
+    "requiere_aprobacion": [
+      "publicar",
+      "enviar_mensajes",
+      "modificar_fuentes",
+      "eliminar_registros"
+    ]
+  },
+  "radar_noticias": {
+    "busqueda_activa": true,
+    "ventana_dias": 7,
+    "max_noticias": 5,
+    "requiere_aprobacion": true
+  },
+  "biblioteca": {
+    "max_documentos_por_ejecucion": 3,
+    "descargar_originales": true,
+    "conservar_referencias_inaccesibles": true
+  }
+}
