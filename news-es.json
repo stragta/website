@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-12T16:23:42.921Z",
+  "lastUpdated": "2026-10-13T14:44:12.139Z",
   "articles": [
     {
-      "id": "us-commerce-department-withdraws-proposed-ai-chip-export-restrictions",
-      "date": "12 October 2026",
-      "headline": "EE. UU. retira una propuesta de restricciones a la exportación de chips de IA",
-      "summary": "El Departamento de Comercio de EE. UU. retiró un borrador que habría endurecido la exportación de chips avanzados de IA. La decisión reduce, por ahora, una fuente de incertidumbre regulatoria para fabricantes de semiconductores, proveedores cloud y empresas que planifican capacidad de cómputo, aunque el marco de control sigue siendo volátil.",
-      "source": "TechShots",
-      "sourceUrl": "https://www.techshotsapp.com/business/us-commerce-department-withdraws-proposed-ai-chip-export-restrictions",
-      "imageUrl": "https://d3vnc3w6v6jm99.cloudfront.net/india-s-data-center-demand-surges--igniting-a-boom.webp",
-      "category": "Regulación"
+      "id": "microsoft-homegrown-ai-chips-2026-10-13",
+      "date": "13 October 2026",
+      "headline": "Microsoft acelera chips propios de IA y reduce dependencia de Nvidia",
+      "summary": "Microsoft avanza en el uso de chips de IA diseñados internamente, lo que puede cambiar la demanda de GPU externas y la negociación con proveedores de infraestructura. Para empresas y cloud buyers, la señal es clara: más competencia en cómputo de IA podría influir en precios, disponibilidad y estrategias de aprovisionamiento.",
+      "source": "IEK 產業情報網",
+      "sourceUrl": "https://ieknet.iek.org.tw/ieknews/default.aspx?actiontype=ieknews&indu_idno=1",
+      "imageUrl": "",
+      "category": "Estrategia"
     },
     {
-      "id": "chipmakers-move-security-into-chip-design-as-ai-hardware-expands",
-      "date": "10 October 2026",
-      "headline": "Los fabricantes de chips integran más seguridad en el diseño de hardware de IA",
-      "summary": "Varios fabricantes están incorporando seguridad más profundamente en el diseño y las pruebas de chips a medida que la IA se expande en automoción, cámaras y dispositivos conectados. Para empresas que compran hardware de IA o IoT, esto apunta a mayores exigencias de cumplimiento, costes de validación y necesidad de priorizar proveedores con mejores controles de seguridad.",
-      "source": "TechShots",
-      "sourceUrl": "https://www.techshotsapp.com/technology/chipmakers-move-security-into-chip-design-as-ai-hardware-expands",
-      "imageUrl": "https://d3vnc3w6v6jm99.cloudfront.net/chipmakers-move-security-into-chip-design-as-ai-hardware-expands.webp",
-      "category": "Automatización"
-    },
-    {
-      "id": "newsbites-xxviii-75-oct-9-2026",
-      "date": "9 October 2026",
-      "headline": "Alertas de seguridad en Atlassian y Oracle PeopleSoft elevan el riesgo operativo para empresas",
-      "summary": "Una alerta de seguridad de SANS destaca explotación renovada contra Oracle PeopleSoft y una vulnerabilidad crítica en productos de Atlassian como Confluence, Jira y Bitbucket. Para corporaciones y pymes, esto implica prioridad inmediata en parches, revisión de accesos y posible interrupción operativa si hay exposición en aplicaciones de negocio o colaboración.",
-      "source": "SANS NewsBites",
-      "sourceUrl": "https://www.sans.org/newsletters/newsbites/xxviii-75",
+      "id": "eu-cra-open-source-risk-2026-10-13",
+      "date": "13 October 2026",
+      "headline": "La CRA de la UE intensifica los riesgos de cumplimiento en la cadena de suministro de software abierto",
+      "summary": "Las discusiones del sector señalan que la responsabilidad sobre dependencias open source complica el cumplimiento y amplía el foco sobre la seguridad de la cadena de suministro. Para empresas que desarrollan o integran software, esto puede aumentar la carga de auditoría, documentación y gestión de riesgos de terceros.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
       "category": "Regulación"
+    },
+    {
+      "id": "samsung-q3-profit-ai-chip-boom-2026-10-12",
+      "date": "12 October 2026",
+      "headline": "Samsung registra un salto de beneficios impulsado por el boom de chips de IA",
+      "summary": "Samsung reporta un fuerte aumento de resultados por la demanda de memoria y chips de IA, una señal de presión alcista en la cadena de suministro de semiconductores. Para empresas que compran hardware, esto puede traducirse en costes más altos o volatilidad en memoria, servidores y equipamiento relacionado.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/tech/semiconductors",
+      "imageUrl": "",
+      "category": "Estrategia"
     }
   ]
 }

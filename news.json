@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-12T16:23:33.724Z",
+  "lastUpdated": "2026-10-13T14:44:02.168Z",
   "articles": [
     {
-      "id": "anthropic-cybersecurity-initiative-2026-10-09",
-      "date": "9 October 2026",
-      "headline": "Anthropic expands cybersecurity push as governments tighten AI security oversight",
-      "summary": "Anthropic is launching a cybersecurity initiative that directs its strongest AI models and engineers toward protecting critical infrastructure such as power grids and water systems. For businesses, this signals faster adoption of AI in security operations but also stronger expectations for incident reporting and oversight as regulators push AI firms to police security failures more aggressively.",
-      "source": "Axios",
-      "sourceUrl": "https://www.axios.com/technology/2026/10/09",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "commerce-department-chip-warning-letters-2026-10-09",
-      "date": "9 October 2026",
-      "headline": "U.S. Commerce Department tightens advanced chip export controls to China",
-      "summary": "The Commerce Department has moved to formalize restrictions on chipmaking tools and advanced AI and supercomputing chips bound for China, including tighter licensing paths and broader application to China-headquartered buyers. This raises compliance risk for semiconductor suppliers, AI infrastructure vendors, and multinational firms with China-linked operations or procurement.",
-      "source": "Startup Fortune",
-      "sourceUrl": "https://startupfortune.com/commerce-department-turns-chip-warning-letters-into-hard-law-before-truce-expires/",
-      "imageUrl": "https://startupfortune.com/wp-content/uploads/2026/10/nvidia-hua-hong-commerce-department.jpg",
-      "category": "Regulation"
-    },
-    {
-      "id": "us-software-stocks-ai-disruption-worries-fade-2026-10-06",
-      "date": "6 October 2026",
-      "headline": "Software stocks hit fresh 2026 highs as AI disruption fears ease",
-      "summary": "US software shares climbed to new highs even as semiconductor stocks also posted a strong 2026 run, showing investors still favor software vendors despite ongoing AI disruption concerns. For business leaders, that suggests the market continues to reward firms positioned to sell AI-enabled productivity and enterprise software.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06/",
+      "id": "samsung-q3-profit-ai-chip-boom",
+      "date": "13 October 2026",
+      "headline": "Samsung Q3 profit jumps nearly 9 times as AI chip boom tightens supply",
+      "summary": "Samsung’s earnings surge signals how AI demand is reshaping memory and chip supply chains, which can raise costs and affect procurement plans for hardware buyers. Businesses that rely on servers, cloud infrastructure, or advanced devices should expect continued pricing pressure and potential allocation constraints.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "broadcom-vmware-ai-infrastructure-upgrade",
+      "date": "13 October 2026",
+      "headline": "Broadcom says AI software flaws are pushing VMware customers to upgrade faster",
+      "summary": "Broadcom’s comments suggest AI is accelerating enterprise infrastructure refresh cycles, which could increase spending on virtualization and security tooling. For IT leaders, this points to faster upgrade decisions and a stronger case for owning rather than renting AI infrastructure.",
+      "source": "TechTarget Enterprise Technology News",
+      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "amazon-layoffs-ai-spending",
+      "date": "8 October 2026",
+      "headline": "Amazon cuts more jobs as AI spending rises",
+      "summary": "The layoffs show how major firms are using AI investment to justify workforce reductions and operating changes. For other companies, the signal is that productivity gains and cost discipline are increasingly tied to automation and data center spending.",
+      "source": "Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/technology/amazon-layoffs-october-2026-ai-spending-10911960/",
+      "imageUrl": "",
+      "category": "Automation"
     }
   ]
 }
