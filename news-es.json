@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-13T14:44:12.139Z",
+  "lastUpdated": "2026-10-14T12:35:43.576Z",
   "articles": [
     {
-      "id": "microsoft-homegrown-ai-chips-2026-10-13",
-      "date": "13 October 2026",
-      "headline": "Microsoft acelera chips propios de IA y reduce dependencia de Nvidia",
-      "summary": "Microsoft avanza en el uso de chips de IA diseñados internamente, lo que puede cambiar la demanda de GPU externas y la negociación con proveedores de infraestructura. Para empresas y cloud buyers, la señal es clara: más competencia en cómputo de IA podría influir en precios, disponibilidad y estrategias de aprovisionamiento.",
-      "source": "IEK 產業情報網",
-      "sourceUrl": "https://ieknet.iek.org.tw/ieknews/default.aspx?actiontype=ieknews&indu_idno=1",
-      "imageUrl": "",
+      "id": "asml-2026-10-14-ai-chip-supply",
+      "date": "14 October 2026",
+      "headline": "ASML beats expectations and warns demand for advanced chip tools will outstrip capacity",
+      "summary": "ASML said Q3 profits beat expectations, raised Q4 sales guidance, and noted customer interest extending through 2030. For businesses, this points to sustained AI infrastructure demand and continued pressure on semiconductor supply chains and capital spending.",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/10/14/europe-us-futures-rise-semiconductor-supplier-asml-beats-expectations/",
+      "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2281711644-e1791970997168.jpg?resize=1200,600",
       "category": "Estrategia"
     },
     {
-      "id": "eu-cra-open-source-risk-2026-10-13",
-      "date": "13 October 2026",
-      "headline": "La CRA de la UE intensifica los riesgos de cumplimiento en la cadena de suministro de software abierto",
-      "summary": "Las discusiones del sector señalan que la responsabilidad sobre dependencias open source complica el cumplimiento y amplía el foco sobre la seguridad de la cadena de suministro. Para empresas que desarrollan o integran software, esto puede aumentar la carga de auditoría, documentación y gestión de riesgos de terceros.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
-      "imageUrl": "",
+      "id": "eu-ai-act-2026-10-14",
+      "date": "14 October 2026",
+      "headline": "Europe’s AI Act keeps pressure on companies over compliance and cybersecurity",
+      "summary": "The EU AI Act imposes requirements on data quality, human oversight, and cybersecurity, with non-compliance potentially leading to forced changes and fines of up to 3% of annual turnover. That makes AI governance and documentation a direct operational risk for firms deploying AI in Europe.",
+      "source": "CNN",
+      "sourceUrl": "https://edition.cnn.com/2026/10/14/business/europe-ai-act-safety-debate-intl",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2294138463.jpg?c=16x9&q=w_800,c_fill",
       "category": "Regulación"
     },
     {
-      "id": "samsung-q3-profit-ai-chip-boom-2026-10-12",
-      "date": "12 October 2026",
-      "headline": "Samsung registra un salto de beneficios impulsado por el boom de chips de IA",
-      "summary": "Samsung reporta un fuerte aumento de resultados por la demanda de memoria y chips de IA, una señal de presión alcista en la cadena de suministro de semiconductores. Para empresas que compran hardware, esto puede traducirse en costes más altos o volatilidad en memoria, servidores y equipamiento relacionado.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/tech/semiconductors",
-      "imageUrl": "",
+      "id": "cxmt-memory-chip-rout-2026-10-14",
+      "date": "14 October 2026",
+      "headline": "Chinese memory-chip advances rattle markets and pressure Asian semiconductor stocks",
+      "summary": "Reports that CXMT is advancing next-generation DRAM products triggered a selloff in memory and chip stocks, with investors reassessing pricing power and competition. For buyers of servers, PCs, and cloud infrastructure, this signals potential volatility in memory pricing and supplier strategy.",
+      "source": "The Star",
+      "sourceUrl": "https://www.thestar.com.my/business/business-news/2026/10/14/asian-stocks-lose-steam-after-chip-rout",
+      "imageUrl": "https://apicms.thestar.com.my/uploads/images/2026/10/14/4161378.png",
       "category": "Estrategia"
     }
   ]

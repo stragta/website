@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-13T14:44:02.168Z",
+  "lastUpdated": "2026-10-14T12:35:36.059Z",
   "articles": [
     {
-      "id": "samsung-q3-profit-ai-chip-boom",
+      "id": "pluto-security-raises-42m",
       "date": "13 October 2026",
-      "headline": "Samsung Q3 profit jumps nearly 9 times as AI chip boom tightens supply",
-      "summary": "Samsung’s earnings surge signals how AI demand is reshaping memory and chip supply chains, which can raise costs and affect procurement plans for hardware buyers. Businesses that rely on servers, cloud infrastructure, or advanced devices should expect continued pricing pressure and potential allocation constraints.",
+      "headline": "Pluto Security raises $42M as AI creates new enterprise security challenges",
+      "summary": "Pluto Security’s funding round signals continued investor focus on AI-era security tooling for enterprises. For businesses, the practical impact is higher urgency to harden security operations as AI increases alert volume, attack surface, and the need for faster response workflows.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "global-cyberattacks-320m-data-leak",
+      "date": "13 October 2026",
+      "headline": "Global cyberattacks leak data on at least 320 million people since September",
+      "summary": "This report highlights a broad spike in cyber incidents with clear operational and compliance implications for companies handling customer, employee, or partner data. Businesses should treat this as a warning to review incident response, third-party exposure, and data governance controls.",
       "source": "Nikkei Asia",
       "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Regulation"
     },
     {
-      "id": "broadcom-vmware-ai-infrastructure-upgrade",
+      "id": "broadcom-vmware-virtual-patching",
       "date": "13 October 2026",
-      "headline": "Broadcom says AI software flaws are pushing VMware customers to upgrade faster",
-      "summary": "Broadcom’s comments suggest AI is accelerating enterprise infrastructure refresh cycles, which could increase spending on virtualization and security tooling. For IT leaders, this points to faster upgrade decisions and a stronger case for owning rather than renting AI infrastructure.",
-      "source": "TechTarget Enterprise Technology News",
-      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "headline": "Broadcom arms VMware ESX hypervisor with virtual patching",
+      "summary": "Broadcom’s move reflects rising pressure on infrastructure vendors to help customers reduce exposure while patch cycles catch up. For businesses running VMware, the change matters because it could lower operational risk, but it also signals how serious the vulnerability environment has become.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/industries",
       "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "amazon-layoffs-ai-spending",
-      "date": "8 October 2026",
-      "headline": "Amazon cuts more jobs as AI spending rises",
-      "summary": "The layoffs show how major firms are using AI investment to justify workforce reductions and operating changes. For other companies, the signal is that productivity gains and cost discipline are increasingly tied to automation and data center spending.",
-      "source": "Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/technology/amazon-layoffs-october-2026-ai-spending-10911960/",
-      "imageUrl": "",
-      "category": "Automation"
+      "category": "Cybersecurity"
     }
   ]
 }
