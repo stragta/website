@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-14T12:35:36.059Z",
+  "lastUpdated": "2026-10-15T12:22:45.498Z",
   "articles": [
     {
-      "id": "pluto-security-raises-42m",
-      "date": "13 October 2026",
-      "headline": "Pluto Security raises $42M as AI creates new enterprise security challenges",
-      "summary": "Pluto Security’s funding round signals continued investor focus on AI-era security tooling for enterprises. For businesses, the practical impact is higher urgency to harden security operations as AI increases alert volume, attack surface, and the need for faster response workflows.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/",
+      "id": "wto-ai-trade-forecast",
+      "date": "15 October 2026",
+      "headline": "WTO raises global trade forecast as demand for AI products surges",
+      "summary": "The WTO’s upgraded trade outlook signals that AI-related hardware demand is still lifting cross-border commerce, a positive sign for semiconductor makers, cloud suppliers, and logistics firms. Business leaders should watch for continued pressure on capacity, pricing, and supply-chain allocation in AI infrastructure.",
+      "source": "BBC Business",
+      "sourceUrl": "https://www.bbc.com/business",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "Strategy"
     },
     {
-      "id": "global-cyberattacks-320m-data-leak",
-      "date": "13 October 2026",
-      "headline": "Global cyberattacks leak data on at least 320 million people since September",
-      "summary": "This report highlights a broad spike in cyber incidents with clear operational and compliance implications for companies handling customer, employee, or partner data. Businesses should treat this as a warning to review incident response, third-party exposure, and data governance controls.",
+      "id": "globalfoundries-japan-new-york-fabs",
+      "date": "14 October 2026",
+      "headline": "GlobalFoundries to operate two new chip fabs in New York under $21 billion Japan-backed plan",
+      "summary": "The new fabrication capacity could ease supply constraints for U.S. industry, but execution risk remains high because staffing and production ramp-up are major hurdles. The investment matters for manufacturers and enterprise buyers that depend on more resilient domestic chip supply.",
+      "source": "Investor's Business Daily",
+      "sourceUrl": "https://www.investors.com/category/news/technology/",
+      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "category": "Strategy"
+    },
+    {
+      "id": "cxmt-memory-breakthrough",
+      "date": "14 October 2026",
+      "headline": "China’s CXMT memory advance pressures Samsung, SK Hynix, and Micron",
+      "summary": "A reported memory breakthrough by CXMT could intensify price competition and reshape supply dynamics across the memory market. That matters for businesses buying servers, AI hardware, and cloud infrastructure because memory costs feed directly into total compute expense.",
       "source": "Nikkei Asia",
       "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "broadcom-vmware-virtual-patching",
-      "date": "13 October 2026",
-      "headline": "Broadcom arms VMware ESX hypervisor with virtual patching",
-      "summary": "Broadcom’s move reflects rising pressure on infrastructure vendors to help customers reduce exposure while patch cycles catch up. For businesses running VMware, the change matters because it could lower operational risk, but it also signals how serious the vulnerability environment has become.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/industries",
-      "imageUrl": "",
-      "category": "Cybersecurity"
+      "category": "Research"
     }
   ]
 }
