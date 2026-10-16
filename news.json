@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-15T12:22:45.498Z",
+  "lastUpdated": "2026-10-16T12:02:41.398Z",
   "articles": [
+    {
+      "id": "uk-cma-microsoft-ecosystem-2026-10-16",
+      "date": "16 October 2026",
+      "headline": "UK competition watchdog moves to scrutinize Microsoft business software ecosystem",
+      "summary": "The UK CMA proposed designating Microsoft's business software ecosystem with strategic market status and set out a roadmap covering Copilot, Teams, cloud licensing, and security. That could affect enterprise software pricing, bundling, procurement, and compliance decisions for organizations that rely on Microsoft products.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
     {
       "id": "wto-ai-trade-forecast",
       "date": "15 October 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.investors.com/category/news/technology/",
       "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
       "category": "Strategy"
-    },
-    {
-      "id": "cxmt-memory-breakthrough",
-      "date": "14 October 2026",
-      "headline": "China’s CXMT memory advance pressures Samsung, SK Hynix, and Micron",
-      "summary": "A reported memory breakthrough by CXMT could intensify price competition and reshape supply dynamics across the memory market. That matters for businesses buying servers, AI hardware, and cloud infrastructure because memory costs feed directly into total compute expense.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology",
-      "imageUrl": "",
-      "category": "Research"
     }
   ]
 }

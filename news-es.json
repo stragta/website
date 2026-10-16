@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-15T12:22:57.177Z",
+  "lastUpdated": "2026-10-16T12:02:49.607Z",
   "articles": [
     {
-      "id": "cisa-ai-testing-labs-rogue-agents",
+      "id": "china-chip-exports-ai-frenzy-2026-10-15",
       "date": "15 October 2026",
-      "headline": "CISA pide a los laboratorios de pruebas de IA mecanismos para detectar y reportar agentes descontrolados",
-      "summary": "La medida eleva la presión regulatoria sobre proveedores de IA y sobre las empresas que los usan en procesos críticos. Para negocios y equipos de cumplimiento, puede anticipar más exigencias de control, auditoría y gestión de riesgos en sistemas de IA.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/industries",
-      "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "amazon-ai-risk-scoring-union-monitoring",
-      "date": "15 October 2026",
-      "headline": "Documentos internos muestran que Amazon usa un sistema de riesgo con IA para vigilar la actividad sindical",
-      "summary": "El caso subraya cómo la automatización y los modelos de IA pueden aplicarse a gestión laboral y vigilancia interna, con posibles implicaciones legales y reputacionales. Para otras empresas, refuerza la necesidad de revisar gobernanza, privacidad y uso de IA en RR. HH. y relaciones laborales.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/business-apps",
-      "imageUrl": "",
+      "headline": "China’s chip exports jump as AI demand reshapes semiconductor supply chains",
+      "summary": "Las exportaciones chinas de chips subieron con fuerza, señal de que la demanda ligada a IA está reordenando la cadena global de suministro y la competencia de precios. Para compradores corporativos, esto puede influir en costes, lead times y dependencia de proveedores asiáticos.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/topics/semiconductors",
+      "imageUrl": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.f7171a35.png",
       "category": "Estrategia"
     },
     {
-      "id": "globalfoundries-japan-new-york-fabs",
+      "id": "microsoft-ai-chip-challenge-2026-10-14",
       "date": "14 October 2026",
-      "headline": "GlobalFoundries abrirá dos nuevas fábricas de chips en Nueva York con hasta 21.000 millones de dólares de financiación japonesa",
-      "summary": "La expansión refuerza la capacidad de producción de semiconductores en EE. UU. y puede aliviar cuellos de botella para fabricantes de hardware y proveedores industriales. Para empresas que dependen de chips, la noticia sugiere más oferta futura y una cadena de suministro menos expuesta a tensiones geopolíticas.",
-      "source": "Investor's Business Daily",
-      "sourceUrl": "https://www.investors.com/category/news/technology/",
-      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "headline": "Microsoft accelerates its AI chip push as model competition intensifies",
+      "summary": "Microsoft está ampliando sus procesadores Maia para usos internos de inferencia y planea despliegues a gran escala desde 2027, mientras Google y Apple también aceleran sus movimientos en IA. Esto importa a empresas porque puede alterar la competencia, los costes de infraestructura y la oferta de servicios en cloud y productividad.",
+      "source": "Yahoo Finance Australia",
+      "sourceUrl": "https://au.finance.yahoo.com/news/tech-bytes-microsoft-ramps-ai-035300593.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/3d9d4d86089c3850c962b0bb7cb772f4305d2d90efcd412e6ace49ab80efa589/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_au_694%2F968074fa1ffbb56884d689f5a024c8b7.jpg",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "ai-chip-stocks-slide-2026-10-13",
+      "date": "13 October 2026",
+      "headline": "Chip stocks extend slide as AI infrastructure funding worries deepen",
+      "summary": "Las acciones de semiconductores ampliaron su caída por el temor a que la financiación de la infraestructura de IA sea más difícil y cara de lo previsto. Para empresas que compran nube, chips o servicios de IA, esto apunta a posibles cambios en precios, disponibilidad y ritmo de inversión de los proveedores.",
+      "source": "Finance Yahoo",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/sndk-mu-intc-amd-skhy-014228210.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/d7b623ed92ab261e72c650fd8a3f3ffd1110aa65f673065a8743f96eddfed004/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa0aff5d4cc7bb428a65de41e04565660.jpg",
       "category": "Estrategia"
     }
   ]
