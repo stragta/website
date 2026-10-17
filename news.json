@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-16T12:02:41.398Z",
+  "lastUpdated": "2026-10-17T11:18:03.138Z",
   "articles": [
     {
-      "id": "uk-cma-microsoft-ecosystem-2026-10-16",
+      "id": "china-ai-chip-export-controls",
       "date": "16 October 2026",
-      "headline": "UK competition watchdog moves to scrutinize Microsoft business software ecosystem",
-      "summary": "The UK CMA proposed designating Microsoft's business software ecosystem with strategic market status and set out a roadmap covering Copilot, Teams, cloud licensing, and security. That could affect enterprise software pricing, bundling, procurement, and compliance decisions for organizations that rely on Microsoft products.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/business-apps",
+      "headline": "China unveils draft export controls on AI technologies and chips",
+      "summary": "China’s proposed export controls could constrain access to advanced AI technologies and semiconductor components, raising compliance and supply-chain risk for global companies. Businesses that rely on Chinese manufacturing, chip sourcing, or AI hardware should watch for procurement delays, licensing requirements, and cost increases.",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/technology",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "wto-ai-trade-forecast",
-      "date": "15 October 2026",
-      "headline": "WTO raises global trade forecast as demand for AI products surges",
-      "summary": "The WTO’s upgraded trade outlook signals that AI-related hardware demand is still lifting cross-border commerce, a positive sign for semiconductor makers, cloud suppliers, and logistics firms. Business leaders should watch for continued pressure on capacity, pricing, and supply-chain allocation in AI infrastructure.",
-      "source": "BBC Business",
-      "sourceUrl": "https://www.bbc.com/business",
-      "imageUrl": "",
-      "category": "Strategy"
+      "id": "microsoft-cma-sms-copilot-365",
+      "date": "16 October 2026",
+      "headline": "UK regulator proposes strategic market status for Microsoft across Copilot and 365 ecosystem",
+      "summary": "The UK Competition and Markets Authority has provisionally designated Microsoft with strategic market status in business software, which could lead to tougher oversight of Copilot and Microsoft 365. That may affect pricing, interoperability, procurement strategy, and vendor lock-in decisions for organizations using Microsoft’s enterprise stack.",
+      "source": "Windows Forum",
+      "sourceUrl": "https://windowsforum.com/news/uk-cma-proposes-strategic-market-status-for-microsoft-copilot-365-and-ai-competition-under-scrutiny.448683/",
+      "imageUrl": "https://windowsforum.com/attachments/windowsforum-uk-cma-proposes-microsoft-strategic-market-status-copilot-e5-security-bundling-a-webp.186232/",
+      "category": "Regulation"
     },
     {
-      "id": "globalfoundries-japan-new-york-fabs",
-      "date": "14 October 2026",
-      "headline": "GlobalFoundries to operate two new chip fabs in New York under $21 billion Japan-backed plan",
-      "summary": "The new fabrication capacity could ease supply constraints for U.S. industry, but execution risk remains high because staffing and production ramp-up are major hurdles. The investment matters for manufacturers and enterprise buyers that depend on more resilient domestic chip supply.",
-      "source": "Investor's Business Daily",
-      "sourceUrl": "https://www.investors.com/category/news/technology/",
-      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "id": "tsmc-strong-ai-demand",
+      "date": "15 October 2026",
+      "headline": "TSMC profits surge amid relentless AI demand",
+      "summary": "TSMC reported stronger-than-expected quarterly profits as AI chip demand remained exceptionally high, reinforcing the supply constraint story around advanced semiconductors. For businesses, this can mean continued pressure on AI infrastructure availability, higher hardware costs, and longer lead times for compute-heavy projects.",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/semiconductors",
+      "imageUrl": "",
       "category": "Strategy"
     }
   ]

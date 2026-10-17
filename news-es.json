@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-16T12:02:49.607Z",
+  "lastUpdated": "2026-10-17T11:18:09.513Z",
   "articles": [
     {
-      "id": "china-chip-exports-ai-frenzy-2026-10-15",
-      "date": "15 October 2026",
-      "headline": "China’s chip exports jump as AI demand reshapes semiconductor supply chains",
-      "summary": "Las exportaciones chinas de chips subieron con fuerza, señal de que la demanda ligada a IA está reordenando la cadena global de suministro y la competencia de precios. Para compradores corporativos, esto puede influir en costes, lead times y dependencia de proveedores asiáticos.",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/topics/semiconductors",
-      "imageUrl": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.f7171a35.png",
+      "id": "ai-stocks-drop-inflation-fed-2026-10-14",
+      "date": "14 October 2026",
+      "headline": "AI stocks fall after hot inflation report lifts rate-hike bets",
+      "summary": "The selloff hit semiconductor makers, cloud providers, and other AI infrastructure names, showing how macro conditions can quickly raise the cost of capital for data-center and AI expansion plans. For business leaders, this is a sign that AI infrastructure spending may face tighter financing and more volatile supplier pricing.",
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com/2026/10/14/investing/us-stocks-ai-chipmakers",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300173627.jpg?c=16x9&q=w_800,c_fill",
       "category": "Estrategia"
     },
     {
-      "id": "microsoft-ai-chip-challenge-2026-10-14",
+      "id": "csp-capex-ai-server-2026-10-14",
       "date": "14 October 2026",
-      "headline": "Microsoft accelerates its AI chip push as model competition intensifies",
-      "summary": "Microsoft está ampliando sus procesadores Maia para usos internos de inferencia y planea despliegues a gran escala desde 2027, mientras Google y Apple también aceleran sus movimientos en IA. Esto importa a empresas porque puede alterar la competencia, los costes de infraestructura y la oferta de servicios en cloud y productividad.",
-      "source": "Yahoo Finance Australia",
-      "sourceUrl": "https://au.finance.yahoo.com/news/tech-bytes-microsoft-ramps-ai-035300593.html",
-      "imageUrl": "https://s.yimg.com/lo/mysterio/api/3d9d4d86089c3850c962b0bb7cb772f4305d2d90efcd412e6ace49ab80efa589/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_au_694%2F968074fa1ffbb56884d689f5a024c8b7.jpg",
-      "category": "Adopción de IA"
+      "headline": "Hyperscale cloud capex seen surging as AI server demand accelerates",
+      "summary": "TrendForce said combined capex from nine leading cloud service providers could reach US$957 billion in 2026 and exceed US$1.5 trillion in 2027, reflecting a major expansion in AI infrastructure budgets. That points to continued demand for servers, networking, chips, and memory, while also signaling stronger spending pressure on customers and suppliers across the cloud stack.",
+      "source": "TrendForce",
+      "sourceUrl": "https://www.trendforce.com/presscenter/news/Semiconductors",
+      "imageUrl": "https://www.trendforce.com/images/trendforce_og_04.jpg",
+      "category": "Estrategia"
     },
     {
-      "id": "ai-chip-stocks-slide-2026-10-13",
-      "date": "13 October 2026",
-      "headline": "Chip stocks extend slide as AI infrastructure funding worries deepen",
-      "summary": "Las acciones de semiconductores ampliaron su caída por el temor a que la financiación de la infraestructura de IA sea más difícil y cara de lo previsto. Para empresas que compran nube, chips o servicios de IA, esto apunta a posibles cambios en precios, disponibilidad y ritmo de inversión de los proveedores.",
-      "source": "Finance Yahoo",
-      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/sndk-mu-intc-amd-skhy-014228210.html",
-      "imageUrl": "https://s.yimg.com/lo/mysterio/api/d7b623ed92ab261e72c650fd8a3f3ffd1110aa65f673065a8743f96eddfed004/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa0aff5d4cc7bb428a65de41e04565660.jpg",
+      "id": "techtarget-gartner-neocloud-write-downs-2026-10-14",
+      "date": "14 October 2026",
+      "headline": "Gartner warns most neoclouds may not survive as AI infrastructure costs outpace revenue",
+      "summary": "TechTarget reported Gartner's view that up to 80% of neoclouds could cease independent operations by 2030 because projected AI infrastructure costs exceed revenue. For enterprises buying AI compute, this raises counterparty, continuity, and pricing-risk concerns when choosing infrastructure vendors.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/it-infrastructure/info/news",
+      "imageUrl": "",
       "category": "Estrategia"
     }
   ]
