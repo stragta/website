@@ -1,34 +1,34 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-17T11:18:09.513Z",
+  "lastUpdated": "2026-10-18T11:54:13.247Z",
   "articles": [
     {
-      "id": "ai-stocks-drop-inflation-fed-2026-10-14",
-      "date": "14 October 2026",
-      "headline": "AI stocks fall after hot inflation report lifts rate-hike bets",
-      "summary": "The selloff hit semiconductor makers, cloud providers, and other AI infrastructure names, showing how macro conditions can quickly raise the cost of capital for data-center and AI expansion plans. For business leaders, this is a sign that AI infrastructure spending may face tighter financing and more volatile supplier pricing.",
-      "source": "CNN",
-      "sourceUrl": "https://www.cnn.com/2026/10/14/investing/us-stocks-ai-chipmakers",
-      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300173627.jpg?c=16x9&q=w_800,c_fill",
+      "id": "enterprise-spending-slows-2026-10-18",
+      "date": "18 October 2026",
+      "headline": "Enterprise spending slows in second half as software and services demand cools",
+      "summary": "Survey data points to slower enterprise technology spending in the second half of 2026, with traditional software and services showing weakness. That is relevant for business leaders weighing renewal budgets, vendor consolidation, and discretionary IT projects.",
+      "source": "Techstrong IT",
+      "sourceUrl": "https://ground.news/article/enterprise-spending-slows-in-second-half-as-rpa-it-services-slide-etr-survey-techstrong-it",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "csp-capex-ai-server-2026-10-14",
-      "date": "14 October 2026",
-      "headline": "Hyperscale cloud capex seen surging as AI server demand accelerates",
-      "summary": "TrendForce said combined capex from nine leading cloud service providers could reach US$957 billion in 2026 and exceed US$1.5 trillion in 2027, reflecting a major expansion in AI infrastructure budgets. That points to continued demand for servers, networking, chips, and memory, while also signaling stronger spending pressure on customers and suppliers across the cloud stack.",
-      "source": "TrendForce",
-      "sourceUrl": "https://www.trendforce.com/presscenter/news/Semiconductors",
-      "imageUrl": "https://www.trendforce.com/images/trendforce_og_04.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "techtarget-gartner-neocloud-write-downs-2026-10-14",
-      "date": "14 October 2026",
-      "headline": "Gartner warns most neoclouds may not survive as AI infrastructure costs outpace revenue",
-      "summary": "TechTarget reported Gartner's view that up to 80% of neoclouds could cease independent operations by 2030 because projected AI infrastructure costs exceed revenue. For enterprises buying AI compute, this raises counterparty, continuity, and pricing-risk concerns when choosing infrastructure vendors.",
+      "id": "shadow-it-data-breach-2026-10-16",
+      "date": "16 October 2026",
+      "headline": "UK data watchdog warns Met Police over shadow IT data breach",
+      "summary": "A regulator warned about an ongoing failure to restrict staff from using unauthorized IT services, underscoring how shadow IT can create compliance and security exposure. Businesses should see this as a reminder to tighten governance over unsanctioned tools and data handling.",
       "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/it-infrastructure/info/news",
+      "sourceUrl": "https://www.techtarget.com/news/industries",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
+    {
+      "id": "ai-infra-write-down-risk-2026-10-15",
+      "date": "15 October 2026",
+      "headline": "AI race puts $3.5 trillion at write-down risk, Gartner warns",
+      "summary": "Gartner warns that a large share of AI infrastructure spending could be impaired by 2030 if revenues fail to catch up with capital outlays. For businesses, this signals potential pressure on cloud pricing, AI vendor economics, and the pace of future infrastructure investment.",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns",
       "imageUrl": "",
       "category": "Estrategia"
     }

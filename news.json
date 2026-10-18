@@ -1,34 +1,34 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-17T11:18:03.138Z",
+  "lastUpdated": "2026-10-18T11:54:07.619Z",
   "articles": [
     {
-      "id": "china-ai-chip-export-controls",
-      "date": "16 October 2026",
-      "headline": "China unveils draft export controls on AI technologies and chips",
-      "summary": "China’s proposed export controls could constrain access to advanced AI technologies and semiconductor components, raising compliance and supply-chain risk for global companies. Businesses that rely on Chinese manufacturing, chip sourcing, or AI hardware should watch for procurement delays, licensing requirements, and cost increases.",
-      "source": "Financial Times",
-      "sourceUrl": "https://www.ft.com/technology",
-      "imageUrl": "",
-      "category": "Regulation"
+      "id": "tsmc-texas-expansion",
+      "date": "17 October 2026",
+      "headline": "TSMC explores Texas investment to expand U.S. production",
+      "summary": "TSMC is reported to be considering additional U.S. manufacturing investment, including collaboration possibilities around Musk’s planned chip complex. This is relevant for supply chains because any expansion could affect chip availability, lead times, and sourcing decisions for hardware-dependent businesses.",
+      "source": "Daily News",
+      "sourceUrl": "https://www.dailynews.com/business/technology/",
+      "imageUrl": "https://www.dailynews.com/wp-content/uploads/2017/09/img_3776.jpg",
+      "category": "Strategy"
     },
     {
-      "id": "microsoft-cma-sms-copilot-365",
-      "date": "16 October 2026",
-      "headline": "UK regulator proposes strategic market status for Microsoft across Copilot and 365 ecosystem",
-      "summary": "The UK Competition and Markets Authority has provisionally designated Microsoft with strategic market status in business software, which could lead to tougher oversight of Copilot and Microsoft 365. That may affect pricing, interoperability, procurement strategy, and vendor lock-in decisions for organizations using Microsoft’s enterprise stack.",
-      "source": "Windows Forum",
-      "sourceUrl": "https://windowsforum.com/news/uk-cma-proposes-strategic-market-status-for-microsoft-copilot-365-and-ai-competition-under-scrutiny.448683/",
-      "imageUrl": "https://windowsforum.com/attachments/windowsforum-uk-cma-proposes-microsoft-strategic-market-status-copilot-e5-security-bundling-a-webp.186232/",
-      "category": "Regulation"
-    },
-    {
-      "id": "tsmc-strong-ai-demand",
+      "id": "ai-spending-doubt-stock-selloff",
       "date": "15 October 2026",
-      "headline": "TSMC profits surge amid relentless AI demand",
-      "summary": "TSMC reported stronger-than-expected quarterly profits as AI chip demand remained exceptionally high, reinforcing the supply constraint story around advanced semiconductors. For businesses, this can mean continued pressure on AI infrastructure availability, higher hardware costs, and longer lead times for compute-heavy projects.",
-      "source": "Financial Times",
-      "sourceUrl": "https://www.ft.com/semiconductors",
+      "headline": "Tech stocks drop as doubts over AI spending intensify",
+      "summary": "Technology shares sold off as investors questioned whether massive AI infrastructure spending can generate returns fast enough. The move matters for executives because it signals rising scrutiny of cloud, chip, and AI capital budgets, with potential knock-on effects for vendor pricing, financing, and procurement timing.",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "gartner-ai-write-down-risk",
+      "date": "15 October 2026",
+      "headline": "Gartner warns $3.5 trillion of AI infrastructure spending could be at write-down risk",
+      "summary": "Gartner said AI data-center owners may struggle to earn enough revenue to justify planned capital spending through 2030. Business leaders should read this as a warning that AI infrastructure economics may tighten, affecting cloud costs, partner selection, and the pace of enterprise AI adoption.",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns",
       "imageUrl": "",
       "category": "Strategy"
     }
