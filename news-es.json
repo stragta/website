@@ -1,34 +1,34 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-18T11:54:13.247Z",
+  "lastUpdated": "2026-10-19T14:14:45.404Z",
   "articles": [
     {
-      "id": "enterprise-spending-slows-2026-10-18",
+      "id": "microsoft-homegrown-ai-chips-2026-10-18",
       "date": "18 October 2026",
-      "headline": "Enterprise spending slows in second half as software and services demand cools",
-      "summary": "Survey data points to slower enterprise technology spending in the second half of 2026, with traditional software and services showing weakness. That is relevant for business leaders weighing renewal budgets, vendor consolidation, and discretionary IT projects.",
-      "source": "Techstrong IT",
-      "sourceUrl": "https://ground.news/article/enterprise-spending-slows-in-second-half-as-rpa-it-services-slide-etr-survey-techstrong-it",
-      "imageUrl": "",
+      "headline": "Microsoft accelerates shift to homegrown AI chips to cut Nvidia dependence",
+      "summary": "Microsoft is moving more AI workloads onto its own chips, a sign that cloud providers are trying to control performance, power use and infrastructure costs. For businesses, this can affect future cloud pricing, service availability and the mix of AI services offered by major providers.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/enterprise/",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
       "category": "Estrategia"
     },
     {
-      "id": "shadow-it-data-breach-2026-10-16",
+      "id": "asml-supply-shortfall-2026-10-16",
       "date": "16 October 2026",
-      "headline": "UK data watchdog warns Met Police over shadow IT data breach",
-      "summary": "A regulator warned about an ongoing failure to restrict staff from using unauthorized IT services, underscoring how shadow IT can create compliance and security exposure. Businesses should see this as a reminder to tighten governance over unsanctioned tools and data handling.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/industries",
-      "imageUrl": "",
-      "category": "Regulación"
+      "headline": "ASML warns chip equipment supply will fall short of demand in 2027 and 2028",
+      "summary": "ASML’s outlook suggests semiconductor capacity expansion could stay constrained longer than expected, which matters for companies relying on advanced chips, memory and AI infrastructure. Businesses planning large AI deployments may face tighter supply, longer lead times and continued cost pressure.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/it-infrastructure/the-week-of-oct-12-16-what-happened-what-matters-what-s-next",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta84d2e751752400c/6ad25523c35993fbcf48c181/101626_IWK_WeeklyRoundup_GettyImages-2258007909.png?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "Estrategia"
     },
     {
-      "id": "ai-infra-write-down-risk-2026-10-15",
-      "date": "15 October 2026",
-      "headline": "AI race puts $3.5 trillion at write-down risk, Gartner warns",
-      "summary": "Gartner warns that a large share of AI infrastructure spending could be impaired by 2030 if revenues fail to catch up with capital outlays. For businesses, this signals potential pressure on cloud pricing, AI vendor economics, and the pace of future infrastructure investment.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns",
+      "id": "h1b-policy-enterprise-it-2026-10-16",
+      "date": "16 October 2026",
+      "headline": "Policy changes on H-1B visas create new staffing risk for enterprise IT",
+      "summary": "Changes to H-1B policy could make it harder and more expensive for companies to hire specialized tech talent, especially in enterprise IT and engineering. That increases pressure on recruiting, retention and automation strategies for firms that depend on global technical labor.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/it-management",
       "imageUrl": "",
       "category": "Estrategia"
     }

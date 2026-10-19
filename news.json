@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-18T11:54:07.619Z",
+  "lastUpdated": "2026-10-19T14:14:39.002Z",
   "articles": [
     {
-      "id": "tsmc-texas-expansion",
-      "date": "17 October 2026",
-      "headline": "TSMC explores Texas investment to expand U.S. production",
-      "summary": "TSMC is reported to be considering additional U.S. manufacturing investment, including collaboration possibilities around Musk’s planned chip complex. This is relevant for supply chains because any expansion could affect chip availability, lead times, and sourcing decisions for hardware-dependent businesses.",
-      "source": "Daily News",
-      "sourceUrl": "https://www.dailynews.com/business/technology/",
-      "imageUrl": "https://www.dailynews.com/wp-content/uploads/2017/09/img_3776.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "ai-spending-doubt-stock-selloff",
-      "date": "15 October 2026",
-      "headline": "Tech stocks drop as doubts over AI spending intensify",
-      "summary": "Technology shares sold off as investors questioned whether massive AI infrastructure spending can generate returns fast enough. The move matters for executives because it signals rising scrutiny of cloud, chip, and AI capital budgets, with potential knock-on effects for vendor pricing, financing, and procurement timing.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+      "id": "ai-infrastructure-boom-fraying-2026-10-19",
+      "date": "19 October 2026",
+      "headline": "AI infrastructure boom is starting to fray as physical-world constraints bite",
+      "summary": "Financial-market coverage says the huge bet on AI infrastructure is running into the economics of power, hardware, and physical deployment. For businesses, that points to higher infrastructure costs, slower expansion, and more uncertainty around when AI capacity will become widely available.",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/technology-sector",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "gartner-ai-write-down-risk",
-      "date": "15 October 2026",
-      "headline": "Gartner warns $3.5 trillion of AI infrastructure spending could be at write-down risk",
-      "summary": "Gartner said AI data-center owners may struggle to earn enough revenue to justify planned capital spending through 2030. Business leaders should read this as a warning that AI infrastructure economics may tighten, affecting cloud costs, partner selection, and the pace of enterprise AI adoption.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns",
+      "id": "agentic-ai-software-economics-2026-10-19",
+      "date": "19 October 2026",
+      "headline": "Agentic AI could reshape enterprise software economics and seat-based pricing",
+      "summary": "A consulting analysis says agentic AI can reduce direct user interaction with SaaS tools, potentially shifting how enterprise software is priced and consumed. Business buyers should watch for lower labor and cycle-time costs, but also for new inference and orchestration expenses that may change total cost of ownership.",
+      "source": "FTI Consulting",
+      "sourceUrl": "https://www.fticonsulting.com/insights/articles/agentic-readiness-value-creation",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "AI Adoption"
+    },
+    {
+      "id": "china-ai-export-restrictions-2026-10-16",
+      "date": "16 October 2026",
+      "headline": "China proposes new export restrictions on 40 technologies, including 23 tied to AI",
+      "summary": "China’s draft rules could restrict overseas transfer of advanced AI models, AI agents used in sensitive settings, and chip-design technologies. For businesses, the move raises compliance risk, could complicate cross-border AI deployment, and may add friction to supply chains and partnerships involving Chinese technology.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/it-infrastructure/the-week-of-oct-12-16-what-happened-what-matters-what-s-next",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta84d2e751752400c/6ad25523c35993fbcf48c181/101626_IWK_WeeklyRoundup_GettyImages-2258007909.png?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "Regulation"
     }
   ]
 }
