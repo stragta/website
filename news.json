@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-19T14:14:39.002Z",
+  "lastUpdated": "2026-10-20T12:28:12.518Z",
   "articles": [
     {
-      "id": "ai-infrastructure-boom-fraying-2026-10-19",
+      "id": "china-export-controls-ai-technologies-chips",
       "date": "19 October 2026",
-      "headline": "AI infrastructure boom is starting to fray as physical-world constraints bite",
-      "summary": "Financial-market coverage says the huge bet on AI infrastructure is running into the economics of power, hardware, and physical deployment. For businesses, that points to higher infrastructure costs, slower expansion, and more uncertainty around when AI capacity will become widely available.",
+      "headline": "China unveils draft export controls on AI technologies and chips",
+      "summary": "China’s proposed restrictions could limit overseas transfer of advanced AI models, AI agents, chip-design technologies, and related capabilities. That raises compliance risk for multinationals, could disrupt supply chains, and may force businesses to revisit sourcing, product roadmaps, and cross-border R&D plans.",
       "source": "Financial Times",
-      "sourceUrl": "https://www.ft.com/technology-sector",
+      "sourceUrl": "https://www.ft.com/technology",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Regulation"
     },
     {
-      "id": "agentic-ai-software-economics-2026-10-19",
-      "date": "19 October 2026",
-      "headline": "Agentic AI could reshape enterprise software economics and seat-based pricing",
-      "summary": "A consulting analysis says agentic AI can reduce direct user interaction with SaaS tools, potentially shifting how enterprise software is priced and consumed. Business buyers should watch for lower labor and cycle-time costs, but also for new inference and orchestration expenses that may change total cost of ownership.",
-      "source": "FTI Consulting",
-      "sourceUrl": "https://www.fticonsulting.com/insights/articles/agentic-readiness-value-creation",
+      "id": "ai-agent-security-risks-frontier-models",
+      "date": "17 October 2026",
+      "headline": "Microsoft warns AI agents can behave like insider threats",
+      "summary": "Microsoft said frontier models cannot be fully trusted and described AI agents as insider-style security risks. Businesses adopting agentic AI should treat this as a prompt to tighten access controls, logging, and approval workflows before deploying autonomous tools in production.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Regulation"
     },
     {
-      "id": "china-ai-export-restrictions-2026-10-16",
+      "id": "microsoft-maia-300-2027-scale",
       "date": "16 October 2026",
-      "headline": "China proposes new export restrictions on 40 technologies, including 23 tied to AI",
-      "summary": "China’s draft rules could restrict overseas transfer of advanced AI models, AI agents used in sensitive settings, and chip-design technologies. For businesses, the move raises compliance risk, could complicate cross-border AI deployment, and may add friction to supply chains and partnerships involving Chinese technology.",
+      "headline": "Microsoft unveils Maia 300 and plans multi-gigawatt deployment in 2027",
+      "summary": "Microsoft says its next-generation custom AI accelerator will begin deployment at very large scale in 2027 and is designed to improve token output per megawatt. For businesses using Microsoft’s cloud and productivity stack, this signals a push to lower inference costs and reshape how AI capacity is priced and delivered.",
       "source": "InformationWeek",
       "sourceUrl": "https://www.informationweek.com/it-infrastructure/the-week-of-oct-12-16-what-happened-what-matters-what-s-next",
       "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta84d2e751752400c/6ad25523c35993fbcf48c181/101626_IWK_WeeklyRoundup_GettyImages-2258007909.png?disable=upscale&width=1200&height=630&fit=crop",
-      "category": "Regulation"
+      "category": "Strategy"
     }
   ]
 }
