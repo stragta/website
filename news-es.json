@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-10-20T12:28:19.596Z",
+  "lastUpdated": "2026-10-21T12:38:15.237Z",
   "articles": [
+    {
+      "id": "agentic-readiness-value-creation-2026-10-19",
+      "date": "19 October 2026",
+      "headline": "La IA agentiva podría presionar hasta 20% del gasto SaaS empresarial hacia 2030",
+      "summary": "El análisis apunta a que agentes de IA pueden reducir interacciones directas con software, bajar asientos de licencia y mover el valor hacia precios por resultado o transacción. Para directivos, esto afecta negociación con proveedores, diseño de procesos y previsiones de gasto en software y automatización.",
+      "source": "FTI Consulting",
+      "sourceUrl": "https://www.fticonsulting.com/insights/articles/agentic-readiness-value-creation",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "china-ai-export-curbs-2026-10-16",
+      "date": "16 October 2026",
+      "headline": "China propone restringir exportaciones de 40 tecnologías, incluidas 23 de IA",
+      "summary": "La propuesta puede complicar licencias, alianzas de I+D y transferencias tecnológicas entre China y empresas extranjeras. Para corporaciones con cadenas globales de desarrollo o suministro, eleva el riesgo regulatorio y la incertidumbre sobre chips, modelos y herramientas de IA.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/it-infrastructure/the-week-of-oct-12-16-what-happened-what-matters-what-s-next",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta84d2e751752400c/6ad25523c35993fbcf48c181/101626_IWK_WeeklyRoundup_GettyImages-2258007909.png?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "Regulación"
+    },
     {
       "id": "us-bans-deepseek-government-it",
       "date": "20 October 2026",
@@ -9,26 +29,6 @@
       "summary": "The US ordered federal civilian agencies to remove DeepSeek AI products and related services from IT systems, citing national security and data-transfer risks. This raises compliance and vendor-risk concerns for enterprises that use or evaluate foreign AI tools, especially in regulated sectors and government-adjacent supply chains.",
       "source": "Business Standard",
       "sourceUrl": "https://www.business-standard.com/technology/artificial-intelligence",
-      "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "siemens-software-center-flaw-exploited",
-      "date": "20 October 2026",
-      "headline": "Siemens Software Center flaw exploited in ClickFix attacks",
-      "summary": "A high-severity DLL sideloading vulnerability in Siemens Software Center has reportedly been exploited, creating an operational risk for industrial and enterprise environments. Businesses using Siemens software should treat this as a patching and exposure-priority issue because exploitation can lead to code execution with service-level privileges.",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/search/label/artificial%20intelligence",
-      "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "japan-cloud-certifications-china-risk",
-      "date": "19 October 2026",
-      "headline": "Japan plans certifications for data centers and cloud services to curb China risk",
-      "summary": "Japan is preparing certifications for data centers and cloud providers and wants finance and other critical sectors to use secure infrastructure. That matters for multinational firms because it could reshape cloud procurement, compliance checks, and where sensitive workloads can be hosted.",
-      "source": "Nikkei Asia",
-      "sourceUrl": "https://asia.nikkei.com/business/technology",
       "imageUrl": "",
       "category": "Regulación"
     }

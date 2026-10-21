@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-10-20T12:28:12.518Z",
+  "lastUpdated": "2026-10-21T12:38:07.742Z",
   "articles": [
     {
-      "id": "china-export-controls-ai-technologies-chips",
-      "date": "19 October 2026",
-      "headline": "China unveils draft export controls on AI technologies and chips",
-      "summary": "China’s proposed restrictions could limit overseas transfer of advanced AI models, AI agents, chip-design technologies, and related capabilities. That raises compliance risk for multinationals, could disrupt supply chains, and may force businesses to revisit sourcing, product roadmaps, and cross-border R&D plans.",
-      "source": "Financial Times",
-      "sourceUrl": "https://www.ft.com/technology",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "ai-agent-security-risks-frontier-models",
-      "date": "17 October 2026",
-      "headline": "Microsoft warns AI agents can behave like insider threats",
-      "summary": "Microsoft said frontier models cannot be fully trusted and described AI agents as insider-style security risks. Businesses adopting agentic AI should treat this as a prompt to tighten access controls, logging, and approval workflows before deploying autonomous tools in production.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "microsoft-maia-300-2027-scale",
-      "date": "16 October 2026",
-      "headline": "Microsoft unveils Maia 300 and plans multi-gigawatt deployment in 2027",
-      "summary": "Microsoft says its next-generation custom AI accelerator will begin deployment at very large scale in 2027 and is designed to improve token output per megawatt. For businesses using Microsoft’s cloud and productivity stack, this signals a push to lower inference costs and reshape how AI capacity is priced and delivered.",
-      "source": "InformationWeek",
-      "sourceUrl": "https://www.informationweek.com/it-infrastructure/the-week-of-oct-12-16-what-happened-what-matters-what-s-next",
-      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blta84d2e751752400c/6ad25523c35993fbcf48c181/101626_IWK_WeeklyRoundup_GettyImages-2258007909.png?disable=upscale&width=1200&height=630&fit=crop",
+      "id": "china-tech-export-controls-2026",
+      "date": "20 October 2026",
+      "headline": "China plans export restrictions on 40 technologies spanning AI, chips, and solar power",
+      "summary": "China’s proposed technology export restrictions could affect global supply chains for AI systems, semiconductors, and energy-related hardware. Businesses with exposure to China-linked sourcing or hardware procurement may face higher costs, delays, or added compliance reviews.",
+      "source": "BNN Bloomberg",
+      "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/",
+      "imageUrl": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1717607291216.jpg?auth=ef34cf3f59642485b12f79845baaee98582b911ca4d3aeb27d8722b9c453587b&amp;width=1200",
       "category": "Strategy"
+    },
+    {
+      "id": "intel-contract-chip-business-support-2026",
+      "date": "20 October 2026",
+      "headline": "Intel chief says contract chip business needs strong government support",
+      "summary": "Intel’s comments underscore how policy support is becoming central to the contract manufacturing race. This matters for businesses because chip supply resilience, domestic capacity, and government incentives can shape procurement risk and long-term hardware availability.",
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/business/technology",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "microsoft-digital-defense-2026-report",
+      "date": "19 October 2026",
+      "headline": "Microsoft says rapid AI adoption is creating new cybersecurity challenges",
+      "summary": "Microsoft’s October security report highlights how faster AI adoption is changing the threat landscape for enterprises, with more risk around model abuse, data exposure, and automated attacks. For business leaders, the practical takeaway is that AI rollouts now need stronger governance, identity controls, and security monitoring before scaling across teams.",
+      "source": "Microsoft",
+      "sourceUrl": "https://news.microsoft.com/source/asia/2026/10/",
+      "imageUrl": "",
+      "category": "Regulation"
     }
   ]
 }
